@@ -8,6 +8,8 @@ const companyEnds = ['oy', 'ltd'];
 
 const parser = new pdfParser();
 
+parser.on("pdfParser_dataError", err => console.log(err));
+
 parser.on("pdfParser_dataReady", pdfData => {
   const pages = pdfData.formImage.Pages;
   const text = pages.map(p =>
@@ -49,14 +51,16 @@ parser.on("pdfParser_dataReady", pdfData => {
   }
 
   const filteredTitles = titles.filter((t, i) => titles.indexOf(t) === i);
+
+  // TODO: REPLACE WITH DB SCRIPTS
   console.log('Education: ' + degree);
   console.log('Last company: ' + company);
   console.log('Titles: ' + filteredTitles.join(', '));
 });
 
 const parse = () => {
-  console.log('parsing');
-  parser.loadPDF('../cv.pdf');
+  console.log(__dirname + '/../cv.pdf');
+  parser.loadPDF(__dirname + '/../cv.pdf');
 }
 
 module.exports = parse;
