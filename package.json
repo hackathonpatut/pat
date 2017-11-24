@@ -15,6 +15,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "sequelize": "^4.22.15"
+  },
+  "devDependencies": {
+    "sqlite3": "^3.1.13"
   }
 }
