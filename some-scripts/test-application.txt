@@ -1,0 +1,24 @@
+As I stated in the short description (copied from the form to bottom of this letter) I’ve been wanting to apply for a position in Futurice for some time now. I think that Futurice has an interesting and different take in the work-life balance and would be a great learning experience and stepping stone in the world of a young doer. In addition to the random projects I tend to create for myself, I like to do sports, spend time with friends, photograph and try to stay on top of things happening in the world (i.e. browse the internet).
+
+From my portfolio (http://patrikmarin.fi/) I’d like to point out a project I’ve been creating for a while now: Infoboard. I’ve been doing it for few months now and it is finally in working condition, even though it still requires some finishing touches and new features can be implemented almost endlessy. Perhaps after I’m happy with this I try to create this with web technologies (I honestly do not know why I decided to go with JavaFX in the first place).
+
+I’m currently studying Information Networks in Aalto University for third year now and hopefully finishing my Bachelor’s degree next spring. As I’m also planning to study abroad in a German speaking area starting next fall, I’m more interested in a position in a German speaking country. More specifically, the offices in priority order are these:
+
+    Munich
+    Berlin
+    Helsinki
+
+Like I said in the description, I would like to learn more about front-end technologies and UX, but back-end development is also interesting. I’m a fast learner who likes to ask questions and solve problems (preferably in groups since 1 + 1 > 2).  In addition to these I would also like to learn more agile software development.
+
+Reference contacts can be given on request as they are not listed in my CV.
+
+Best regards,
+Patrik Marin
+
+P.S. My study records don’t show any completed courses this fall because as of writing this letter, they are all still underway. Rest assured, most of them are computer science.
+
+Ever since I was on one of your excursions back in 2014 I’ve been interested in applying for a position. I’m an optimistic wanderer in this digital world and aim to understand and learn every day something new. Usually this is realized with small applications and utilities that I find would improve either my life, or optimally, everybody’s life.
+
+Especially I like to tackle user experience issues and try to make my projects as user friendly and neat (obviously) as possible. We live in a mobile world and the software should reflect that. In the past year I’ve been doing mostly Java back-end and SQL in my work, but would really like to learn more about front-end technologies and IoT in lean and modern software development environment.
+
+Most of my projects can be found in my portfolio on http://patrikmarin.fi/ and you can also find me on LinkedIn https://www.linkedin.com/in/patrik-marin-b2573777.
