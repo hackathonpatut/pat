@@ -12,25 +12,25 @@ module.exports = sequelize => {
     }
   })
 
-  applicants.sync({ force: true })
+  applicants.sync()
 
   const employers = sequelize.define('employers', {
     name: {
       type: Sequelize.STRING,
       allowNull: false
-    },
+    }
   })
 
-  employers.sync({ force: true })
+  employers.sync()
 
   const adverts = sequelize.define('adverts', {
     content: {
       type: Sequelize.STRING,
       allowNull: false
-    },
+    }
   })
 
-  adverts.sync({ force: true })
+  adverts.sync()
 
   const applications = sequelize.define('applications', {
     title: {
@@ -51,36 +51,69 @@ module.exports = sequelize => {
     }
   })
 
-  applications.sync({ force: true })
+  applications.sync()
 
   const resumes = sequelize.define('resumes', {
-    content: {
+    education: {
       type: Sequelize.STRING,
-      allowNull: false
+      allowNull: true
     },
-    summary: {
+    company: {
       type: Sequelize.STRING,
-      allowNull: false
-    },
-    filename: {
+      allowNull: true
+    }
+  })
+
+  resumes.sync()
+
+  const savedApplications = sequelize.define('savedApplications')
+
+  savedApplications.sync()
+
+  const titles = sequelize.define('titles', {
+    title: {
       type: Sequelize.STRING,
       allowNull: false
     }
   })
 
-  resumes.sync({ force: true })
+  titles.sync()
 
-  const savedApplications = sequelize.define('savedApplications')
+  const resumesToTitles = sequelize.define('resumesToTitles')
 
-  savedApplications.sync({ force: true })
+  resumesToTitles.sync()
+
+  const skills = sequelize.define('skills', {
+    skill: {
+      type: Sequelize.STRING,
+      allowNull: false
+    }
+  })
+
+  skills.sync()
+
+  const titlesToSkills = sequelize.define('titlesToSkills')
+
+  titlesToSkills.sync()
 
   employers.hasMany(adverts)
   applicants.hasMany(applications)
   applicants.hasOne(resumes)
   applications.hasOne(adverts)
-  employers.belongsToMany(applications, { through: savedApplications });
+  employers.belongsToMany(applications, { through: savedApplications })
+  titles.belongsToMany(resumes, { through: resumesToTitles })
+  skills.belongsToMany(titles, { through: titlesToSkills })
 
-  sequelize.sync({ force: true })
+  sequelize.sync()
 
-  return { applicants, applications, resumes, employers, adverts, savedApplications }
+  return {
+    applicants,
+    applications,
+    resumes,
+    employers,
+    skills,
+    titles,
+    adverts,
+    savedApplications
+  }
 }

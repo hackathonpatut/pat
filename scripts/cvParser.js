@@ -1,4 +1,5 @@
 const pdfParser = require('pdf2json');
+const fs = require('fs');
 
 // Only lower case ples
 const degrees = ['associate', 'bachelor', 'student', 'master', 'doctor', 'matriculation'];
@@ -46,9 +47,16 @@ parser.on("pdfParser_dataReady", pdfData => {
 
     i += 1;
   }
+
+  const filteredTitles = titles.filter((t, i) => titles.indexOf(t) === i);
   console.log('Education: ' + degree);
   console.log('Last company: ' + company);
-  console.log('Titles: ' + titles.join(', '))
+  console.log('Titles: ' + filteredTitles.join(', '));
 });
 
-parser.loadPDF('test-cv-4.pdf');
+const parse = () => {
+  console.log('parsing');
+  parser.loadPDF('../cv.pdf');
+}
+
+module.exports = parse;
