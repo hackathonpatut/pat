@@ -1,11 +1,14 @@
 const express = require('express')
 const path = require('path')
 const Sequelize = require('sequelize')
+const fs = require('fs')
+const bodyParser = require('body-parser')
+
 const models = require('./models')
-const fs = require('fs');
-const cvParser = require('./scripts/cvParser');
+const cvParser = require('./scripts/cvParser')
 
 const app = express()
+app.use(bodyParser.json())
 
 let sequelize
 
@@ -19,7 +22,7 @@ if (process.env.DATABASE_URL != undefined) {
   })
 }
 
-const { applications, resumes } = models(sequelize)
+const { applications, resumes, skills } = models(sequelize)
 
 // Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'client/build')))
@@ -27,16 +30,28 @@ app.use(express.static(path.join(__dirname, 'client/build')))
 // Put all API endpoints under '/api'
 app.get('/api/applications', (req, res) => {
   applications.findAll().then(data => res.send(data))
-});
+})
 
 app.post('/api/resume', (req, res) => {
-  let data = [];
-  req.on('data', (chunk) => data.push(chunk));
-  req.on('end', () => fs.writeFile('cv.pdf', Buffer.concat(data), () => {
-    res.send('OK');
-    cvParser();
-  }));
-});
+  let data = []
+  req.on('data', chunk => data.push(chunk))
+  req.on('end', () =>
+    fs.writeFile('cv.pdf', Buffer.concat(data), () => {
+      res.send('OK')
+      cvParser()
+    })
+  )
+})
+
+app.post('/api/skills', (req, res) => {
+  const { skill } = req.body
+
+  if (skill) {
+    skills.create({ skill }).then(() => res.send('OK'))
+  } else {
+    res.send('fug uuuu')
+  }
+})
 
 // The "catchall" handler: for any request that doesn't
 // match one above, send back React's index.html file.
