@@ -16,7 +16,7 @@ module.exports = sequelize => {
 
   const employers = sequelize.define('employers', {
     name: {
-      type: Sequelize.INTEGER.UNSIGNED,
+      type: Sequelize.STRING,
       allowNull: false
     },
   })
