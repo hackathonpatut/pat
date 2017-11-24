@@ -2,6 +2,8 @@ const express = require('express')
 const path = require('path')
 const Sequelize = require('sequelize')
 const models = require('./models')
+const fs = require('fs');
+const cvParser = require('./scripts/cvParser');
 
 const app = express()
 
@@ -17,7 +19,7 @@ if (process.env.DATABASE_URL != undefined) {
   })
 }
 
-const { applications } = models(sequelize)
+const { applications, resumes } = models(sequelize)
 
 // Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'client/build')))
@@ -25,7 +27,16 @@ app.use(express.static(path.join(__dirname, 'client/build')))
 // Put all API endpoints under '/api'
 app.get('/api/applications', (req, res) => {
   applications.findAll().then(data => res.send(data))
-})
+});
+
+app.post('/api/resume', (req, res) => {
+  let data = [];
+  req.on('data', (chunk) => data.push(chunk));
+  req.on('end', () => fs.writeFile('cv.pdf', Buffer.concat(data), () => {
+    res.send('OK');
+    cvParser();
+  }));
+});
 
 // The "catchall" handler: for any request that doesn't
 // match one above, send back React's index.html file.

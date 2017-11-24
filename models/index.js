@@ -54,17 +54,13 @@ module.exports = sequelize => {
   applications.sync({ force: true })
 
   const resumes = sequelize.define('resumes', {
-    content: {
+    education: {
       type: Sequelize.STRING,
-      allowNull: false
+      allowNull: true
     },
-    summary: {
+    company: {
       type: Sequelize.STRING,
-      allowNull: false
-    },
-    filename: {
-      type: Sequelize.STRING,
-      allowNull: false
+      allowNull: true
     }
   })
 
@@ -74,11 +70,39 @@ module.exports = sequelize => {
 
   savedApplications.sync({ force: true })
 
+  const titles = sequelize.define('titles', {
+    title: {
+      type: Sequelize.STRING,
+      allowNull: false
+    }
+  });
+
+  titles.sync({ force: true });
+
+  const resumesToTitles = sequelize.define('resumesToTitles');
+
+  resumesToTitles.sync({ force: true });
+
+  const skills = sequelize.define('skills', {
+    skill: {
+      type: Sequelize.STRING,
+      allowNull: false
+    }
+  });
+
+  skills.sync({ force: true });
+
+  const titlesToSkills = sequelize.define('titlesToSkills');
+
+  titlesToSkills.sync({ force: true });
+
   employers.hasMany(adverts)
   applicants.hasMany(applications)
   applicants.hasOne(resumes)
   applications.hasOne(adverts)
   employers.belongsToMany(applications, { through: savedApplications });
+  titles.belongsToMany(resumes, { through: resumesToTitles });
+  skills.belongsToMany(titles, { through: titlesToSkills });
 
   sequelize.sync({ force: true })
 

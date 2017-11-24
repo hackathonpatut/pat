@@ -16,7 +16,10 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
+    "fs": "0.0.1-security",
     "mysql2": "^1.5.1",
+    "pdf2json": "^1.1.7",
+    "react-dropzone": "^4.2.3",
     "sequelize": "^4.22.15"
   },
   "devDependencies": {
