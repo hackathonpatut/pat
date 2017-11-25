@@ -11,9 +11,24 @@ function renderSuggestion(suggestion) {
   return <span>{suggestion}</span>
 }
 
+function escapeRegexCharacters(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
 class InputField extends React.Component {
   state = {
     value: ''
+  }
+
+  getSuggestions = value => {
+    const { suggestions } = this.props
+    const escapedValue = escapeRegexCharacters(value.trim())
+
+    if (escapedValue === '') return []
+
+    const regex = new RegExp('^' + escapedValue, 'i')
+
+    return suggestions.filter(str => regex.test(str))
   }
 
   onChange = (event, { newValue, method }) => {
@@ -31,7 +46,7 @@ class InputField extends React.Component {
 
   render() {
     const { value } = this.state
-    const { suggestions } = this.props
+    const suggestions = this.getSuggestions(value)
 
     const inputProps = {
       placeholder: 'Tell what you have done and press enter',
@@ -43,6 +58,7 @@ class InputField extends React.Component {
     return (
       <Autosuggest
         suggestions={suggestions}
+        getSuggestions={this.getSuggestions}
         getSuggestionValue={getSuggestionValue}
         renderSuggestion={renderSuggestion}
         onSuggestionsFetchRequested={() => null}
