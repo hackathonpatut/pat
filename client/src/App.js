@@ -1,11 +1,16 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
+import Position from './Position.js'
 import './App.css'
 import FileSender from './FileSender';
 
+
 class App extends Component {
   state = {
-    applications: null
+    applications: null,
+    scheduled: {
+      done: 17,
+      max: 40
+    }
   }
 
   componentDidMount() {
@@ -22,14 +27,14 @@ class App extends Component {
     console.log(this.state.applications)
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+        <header className="Header">
+          <h1>Pat</h1>
         </header>
         <FileSender />
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <Position name="Sales Manager" applicationAmount={200} newProfiles={27} scheduled={this.state.scheduled} />
       </div>
     )
   }
