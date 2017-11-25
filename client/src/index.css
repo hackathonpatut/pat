@@ -1,5 +1,45 @@
+body, html {
+  margin: 0;
+  padding:0;
+}
+
 body {
+  font-family: sans-serif;
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+}
+
+header {
+  background-image: url('Navbar_img.svg');
+  background-repeat: no-repeat;
+  margin-left: -10%;
+  min-height: 300px;
+  min-width: 130%;
+  position: relative;
+}
+
+.position {
+  background-image: url('card_bg.svg');
+  background-size: cover;
+  border: 2px solid #e46069;
+  border-radius: 15%;
+  display: inline-block;
+  float: left;
+  margin: 25px;
+  padding: 0.2em 2em;
+  position: relative;
+  text-align: left;
+}
+
+h1 {
+  color: white;
+  margin: 0 0 0 10%;
+  padding-top: 1em;
+  text-align: left;
+}
+
+h2 {
+  color: white;
+  font-size: 20px;
+  padding-bottom: 1em;
 }
