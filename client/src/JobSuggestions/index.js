@@ -3,6 +3,7 @@ import React from 'react'
 import InputField from './components/InputField'
 import OccupationPills from './components/OccupationPills'
 import Result from './components/Result'
+import Wordcloud from './components/Wordcloud'
 
 class JobSuggestions extends React.Component {
   state = {
@@ -38,9 +39,9 @@ class JobSuggestions extends React.Component {
       .then(res => res.json())
       .then(res => {
         this.setState({
-          suggestions: res
+          suggestions: res.similars
             .sort((a, b) => b.similarity - a.similarity)
-            .slice(0, 5)
+            .slice(0, Math.max(20, res.similars.length))
             .map(x => {
               return {
                 title: x.title,
@@ -48,7 +49,6 @@ class JobSuggestions extends React.Component {
               }
             })
         })
-        console.log(this.state.suggestions)
       })
   }
 
@@ -67,7 +67,7 @@ class JobSuggestions extends React.Component {
           add={this.addOccupation}
         />
         <OccupationPills data={occupations} />
-        <Result data={suggestions} />
+        <Wordcloud data={suggestions}/>
       </div>
     )
   }
