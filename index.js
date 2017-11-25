@@ -24,7 +24,7 @@ if (process.env.DATABASE_URL != undefined) {
   })
 }
 
-const { applications, resumes, similarTitles } = models(sequelize)
+const { applications, resumes, similarTitles, titles } = models(sequelize)
 
 // Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'client/build')))
@@ -32,6 +32,10 @@ app.use(express.static(path.join(__dirname, 'client/build')))
 // Put all API endpoints under '/api'
 app.get('/api/applications', (req, res) => {
   applications.findAll().then(data => res.send(data))
+})
+
+app.get('/api/titles', (req, res) => {
+  titles.findAll().then(data => res.send(data.map(n => n.title)))
 })
 
 app.post('/api/resume', (req, res) => {
@@ -43,10 +47,10 @@ app.post('/api/resume', (req, res) => {
       cvParser()
     })
   )
-});
+})
 
 app.get('/api/similarTitles', (req, res) => {
-  const { title1, title2, title3 } = req.query;
+  const { title1, title2, title3 } = req.query
 
   let similarTitles = [];
 

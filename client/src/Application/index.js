@@ -1,12 +1,12 @@
-import React from 'react';
-import FileSender from './FileSender';
-import ApplicationForm from './ApplicationForm';
-import glamorous from 'glamorous';
+import React from 'react'
+import FileSender from './FileSender'
+import ApplicationForm from './ApplicationForm'
+import glamorous from 'glamorous'
 
 const Title = glamorous.h1({
   color: '#e46069',
   fontSize: '24px',
-  marginBottom: '40px',
+  marginBottom: '40px'
 })
 
 const Application = () => (
@@ -17,4 +17,4 @@ const Application = () => (
   </div>
 )
 
-export default Application;
+export default Application
