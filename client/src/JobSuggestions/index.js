@@ -46,6 +46,7 @@ class JobSuggestions extends React.Component {
             }
           })
         })
+        console.log(this.state.suggestions)
       })
   }
 
