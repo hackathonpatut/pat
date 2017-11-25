@@ -23,7 +23,7 @@ if (process.env.DATABASE_URL != undefined) {
   })
 }
 
-const { applications, resumes, similarTitles } = models(sequelize)
+const { applications, resumes, similarTitles, titles } = models(sequelize)
 
 // Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'client/build')))
@@ -31,6 +31,10 @@ app.use(express.static(path.join(__dirname, 'client/build')))
 // Put all API endpoints under '/api'
 app.get('/api/applications', (req, res) => {
   applications.findAll().then(data => res.send(data))
+})
+
+app.get('/api/titles', (req, res) => {
+  titles.findAll().then(data => res.send(data.map(n => n.title)))
 })
 
 app.post('/api/resume', (req, res) => {
@@ -42,22 +46,25 @@ app.post('/api/resume', (req, res) => {
       cvParser()
     })
   )
-});
+})
 
 app.get('/api/similarTitles', (req, res) => {
-  const { title1, title2, title3 } = req.query;
+  const { title1, title2, title3 } = req.query
 
-  sequelize.query(`SELECT t2.title, similarity FROM titles as t1
+  sequelize
+    .query(
+      `SELECT t2.title, similarity FROM titles as t1
       JOIN similarTitles ON t1.id = similarTitles.titleId
       JOIN titles as t2 ON t2.id = similarTitles.otherTitleId
       WHERE t1.title ='${title1 ? title1 : ''}' OR
       t1.title = '${title2 ? title2 : ''}' OR
       t1.title = '${title3 ? title3 : ''}'`,
-      { type: Sequelize.QueryTypes.SELECT })
+      { type: Sequelize.QueryTypes.SELECT }
+    )
     .then(result => {
-      res.send(result);
-    });
-});
+      res.send(result)
+    })
+})
 
 app.post('/api/similarTitles', (req, res) => {
   const { titleId, otherTitleId, similarity } = req.body

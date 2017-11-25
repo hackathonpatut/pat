@@ -7,13 +7,15 @@ import Result from './components/Result'
 
 class JobSuggestions extends React.Component {
   state = {
-    occupations: ['software developer'],
-    autocomplete: ['software developer', 'web developer', 'teacher'],
-    suggestions: [
-      { title: 'ICT master', value: 20 },
-      { title: 'Patu pööpötin', value: 45 },
-      { title: 'Puutarhuri', value: 12 }
-    ]
+    occupations: [],
+    autocomplete: [],
+    suggestions: []
+  }
+
+  componentDidMount() {
+    fetch('/api/titles')
+      .then(res => res.json())
+      .then(autocomplete => this.setState({ autocomplete }))
   }
 
   addOccupation = occupation => {
@@ -25,7 +27,26 @@ class JobSuggestions extends React.Component {
 
   triggerChange = () => {
     const { suggestions } = this.state
-    console.log(suggestions)
+
+    if (suggestions.size < 1) return
+
+    let query = `?title1=${suggestions[0]}`
+
+    if (suggestions[1]) query += `&title2=${suggestions[1]}`
+    if (suggestions[2]) query += `&title3=${suggestions[2]}`
+
+    fetch(`/api/similarTitles${query}`)
+      .then(res => res.json())
+      .then(res => {
+        this.setState({
+          suggestions: res.map(x => {
+            return {
+              title: x.title,
+              value: x.similarity
+            }
+          })
+        })
+      })
   }
 
   render() {
