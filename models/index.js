@@ -33,11 +33,7 @@ module.exports = sequelize => {
   adverts.sync()
 
   const applications = sequelize.define('applications', {
-    title: {
-      type: Sequelize.STRING,
-      allowNull: false
-    },
-    content: {
+    fullcontent: {
       type: Sequelize.STRING,
       allowNull: false
     },
@@ -45,10 +41,6 @@ module.exports = sequelize => {
       type: Sequelize.STRING,
       allowNull: false
     },
-    filename: {
-      type: Sequelize.STRING,
-      allowNull: false
-    }
   })
 
   applications.sync()

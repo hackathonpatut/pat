@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "start-client": "cd client && npm start",
-    "heroku-postbuild": "pip install gensim && cd client && npm install && npm run build"
+    "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "repository": {
     "type": "git",
