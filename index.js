@@ -47,7 +47,7 @@ app.post('/api/resume', (req, res) => {
 app.get('/api/similarTitles', (req, res) => {
   const { title1, title2, title3 } = req.query;
 
-  sequelize.query(`SELECT t1.title, t2.title, similarity FROM titles as t1
+  sequelize.query(`SELECT t2.title, similarity FROM titles as t1
       JOIN similarTitles ON t1.id = similarTitles.titleId
       JOIN titles as t2 ON t2.id = similarTitles.otherTitleId
       WHERE t1.title ='${title1 ? title1 : ''}' OR
