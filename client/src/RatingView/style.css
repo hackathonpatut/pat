@@ -1,0 +1,9 @@
+.hidden-rate {
+  width: 100%;
+  animation: hide 1s;
+}
+
+@keyframes hide {
+  0% { margin-left: 0px }
+  100% { margin-left: 2000px }
+}
