@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Position from './Position.js'
 import './App.css'
 import FileSender from './FileSender';
+import ApplicationForm from './ApplicationForm';
 
 
 class App extends Component {
@@ -31,6 +32,7 @@ class App extends Component {
           <h1>Pat</h1>
         </header>
         <FileSender />
+        <ApplicationForm />
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
