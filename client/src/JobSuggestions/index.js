@@ -1,9 +1,17 @@
 import React from 'react'
+import glamorous from 'glamorous'
 
 import InputField from './components/InputField'
 import OccupationPills from './components/OccupationPills'
 import Result from './components/Result'
-import Wordcloud from './components/Wordcloud'
+import FileSender from './components/FileSender'
+
+import './style.css'
+
+const Wrapper = glamorous.div({
+  maxWidth: '860px',
+  margin: '2em auto'
+})
 
 class JobSuggestions extends React.Component {
   state = {
@@ -60,15 +68,30 @@ class JobSuggestions extends React.Component {
     )
 
     return (
-      <div>
-        <h2>Start by filling in your previous occupations</h2>
+      <Wrapper>
+        <FileSender />
+        <h3
+          style={{
+            color: '#fff',
+            fontSize: '24px',
+            letterSpacing: '1.5px',
+            marginTop: '2.5em'
+          }}
+        >
+          Start by filling in your previous occupations.
+        </h3>
         <InputField
           suggestions={filteredAutocomplete}
           add={this.addOccupation}
         />
         <OccupationPills data={occupations} />
+<<<<<<< HEAD
         <Wordcloud data={suggestions}/>
       </div>
+=======
+        <Result data={suggestions} />
+      </Wrapper>
+>>>>>>> desingin stuff
     )
   }
 }

@@ -54,8 +54,22 @@ class Result extends React.Component {
     }
 
     return (
-      <div>
-        <h3>Recommended professions</h3>
+      <div
+        style={{
+          background: '#fff',
+          padding: '10px 30px 30px',
+          marginTop: '2em',
+          borderRadius: '2px'
+        }}
+      >
+        <h3
+          style={{
+            fontWeight: 800,
+            textTransform: 'uppercase'
+          }}
+        >
+          Recommended professions
+        </h3>
         <Bubbles />
       </div>
     )

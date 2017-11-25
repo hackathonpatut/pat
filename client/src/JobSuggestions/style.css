@@ -1,0 +1,13 @@
+html {
+  background: url('/pexels-photo-449609.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+  position: relative;
+}
+
+body {
+  background: rgba(25, 109, 177, 0.77);
+  min-height: 100vh;
+}

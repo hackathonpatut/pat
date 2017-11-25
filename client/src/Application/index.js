@@ -1,10 +1,9 @@
 import React from 'react'
-import FileSender from './FileSender'
 import ApplicationForm from './ApplicationForm'
 import glamorous from 'glamorous'
 
 const Title = glamorous.h1({
-  color: '#e46069',
+  color: '#2295c1',
   fontSize: '24px',
   marginBottom: '40px'
 })
@@ -12,7 +11,6 @@ const Title = glamorous.h1({
 const Application = () => (
   <div>
     <Title>You are applying for: Sales manager - Patu Systems Oy</Title>
-    <FileSender />
     <ApplicationForm />
   </div>
 )

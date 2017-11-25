@@ -7,7 +7,7 @@ const Container = glamorous.div({
 })
 
 const Title = glamorous.h2({
-  color: '#e46069',
+  color: '#2295c1',
   fontSize: '18px',
   textAlign: 'Left'
 })
@@ -28,12 +28,12 @@ const SubmitButton = glamorous.button({
   padding: '0 10px',
   height: '40px',
   borderRadius: '20px',
-  border: '2px solid #e46069',
+  border: '2px solid #2295c1',
   textAlign: 'center',
-  color: '#e46069',
+  color: '#2295c1',
   cursor: 'pointer',
   ':hover': {
-    backgroundColor: '#e46069',
+    backgroundColor: '#2295c1',
     color: 'white'
   }
 })

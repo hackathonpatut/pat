@@ -3,7 +3,7 @@ import glamorous from 'glamorous';
 import cardBackground from './card_bg.svg';
 
 const Badge = glamorous.div({
-  color: '#e46069',
+  color: '#2295c1',
   position: 'absolute',
   display: 'flex',
   justifyContent: 'center',
@@ -11,7 +11,7 @@ const Badge = glamorous.div({
   textAlign: 'center',
   top: '-0.5em',
   right: '-0.5em',
-  border: '2px solid #e46069',
+  border: '2px solid #2295c1',
   borderRadius: '50%',
   width: '2em',
   height: '2em',
@@ -24,7 +24,7 @@ const PositionBox = glamorous.div({
   backgroundSize: 'cover',
   display: 'inline-block',
   padding: '0.2em 2em',
-  border: '2px solid #e46069',
+  border: '2px solid #2295c1',
   borderRadius: '15%',
   margin: '2em',
   textAlign: 'left'
