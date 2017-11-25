@@ -19,6 +19,7 @@ parser.on("pdfParser_dataReady", pdfData => {
       [])
       .filter(line => line.length > 3);
   const lower = text.map(t => t.toLowerCase());
+  const singleLine = lower.join(' ');
 
   let i = 0;
   let degree = null;
