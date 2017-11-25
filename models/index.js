@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize')
 
-const force = true;
+const force = false
 
 module.exports = sequelize => {
   const applicants = sequelize.define('applicants', {
@@ -14,7 +14,7 @@ module.exports = sequelize => {
     }
   })
 
-  applicants.sync({ force: force });
+  applicants.sync({ force: force })
 
   const employers = sequelize.define('employers', {
     name: {
@@ -42,7 +42,7 @@ module.exports = sequelize => {
     summary: {
       type: Sequelize.STRING,
       allowNull: false
-    },
+    }
   })
 
   applications.sync({ force: force })
