@@ -21,7 +21,7 @@
     "mysql2": "^1.5.1",
     "pdf2json": "^1.1.7",
     "react-dropzone": "^4.2.3",
-    "sequelize": "^4.22.15",
+    "sequelize": "^4.22.15"
   },
   "devDependencies": {
     "sqlite3": "^3.1.13"
