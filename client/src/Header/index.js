@@ -1,6 +1,6 @@
-import React  from 'react';
-import glamorous from 'glamorous';
-import headerBackground from './header_bg.svg';
+import React from 'react'
+import glamorous from 'glamorous'
+import {withRouter} from 'react-router-dom';
 
 const Container = glamorous.div({
   height: '100px',
@@ -21,10 +21,17 @@ const Title = glamorous.h1({
   textAlign: 'left'
 })
 
-const Header = () => (
-  <Container>
-    <Title>Pat</Title>
-  </Container>
-)
+class Header extends React.Component {
+  render() {
+    if (this.props.location.pathname === '/reboot') {
+      return null;
+    }
+    return (
+      <Container>
+        <Title>Reboot your career</Title>
+      </Container>
+    )
+  }
+}
 
-export default Header;
+export default withRouter(Header);
