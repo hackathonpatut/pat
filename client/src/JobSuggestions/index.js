@@ -26,14 +26,14 @@ class JobSuggestions extends React.Component {
   }
 
   triggerChange = () => {
-    const { suggestions } = this.state
+    const { occupations } = this.state
 
-    if (suggestions.size < 1) return
+    if (occupations.size < 1) return
 
-    let query = `?title1=${suggestions[0]}`
+    let query = `?title1=${occupations[0]}`
 
-    if (suggestions[1]) query += `&title2=${suggestions[1]}`
-    if (suggestions[2]) query += `&title3=${suggestions[2]}`
+    if (occupations[1]) query += `&title2=${occupations[1]}`
+    if (occupations[2]) query += `&title3=${occupations[2]}`
 
     fetch(`/api/similarTitles${query}`)
       .then(res => res.json())
