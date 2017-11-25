@@ -3,6 +3,7 @@ const path = require('path')
 const Sequelize = require('sequelize')
 const fs = require('fs')
 const bodyParser = require('body-parser')
+const spawn = require('child_process').spawn
 
 const models = require('./models')
 const cvParser = require('./scripts/cvParser')
@@ -37,8 +38,8 @@ app.post('/api/resume', (req, res) => {
   req.on('data', chunk => data.push(chunk))
   req.on('end', () =>
     fs.writeFile('cv.pdf', Buffer.concat(data), () => {
-      res.send('OK')
-      cvParser()
+      res.send('OK');
+      cvParser();
     })
   )
 })
@@ -51,7 +52,18 @@ app.post('/api/skills', (req, res) => {
   } else {
     res.send('fug uuuu')
   }
-})
+});
+
+app.post('/api/application', (req, res) => {
+  const { text } = req.body;
+  fs.writeFile('application.txt', text, () => {
+    res.send('OK');
+    const shell = spawn('python', ['scripts/summarize.py']);
+    shell.stdout.on('data', (data) => {
+      console.log(data.toString());
+    });
+  });
+});
 
 // The "catchall" handler: for any request that doesn't
 // match one above, send back React's index.html file.
