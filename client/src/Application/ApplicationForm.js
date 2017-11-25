@@ -47,15 +47,17 @@ const ButtonText = glamorous.p({
 
 class ApplicationForm extends Component {
   sendApplication(text) {
-    request.post('/api/application')
-      .set("Content-Type", "application/json")
-      .send(`{"text":"${ text.replace(/\r?\n/g, ' ') }"}`)
-      .end();
-    document.getElementById('applicationForm').reset();
+    request
+      .post('/api/application')
+      .set('Content-Type', 'application/json')
+      .send(`{"text":"${text.replace(/\r?\n/g, ' ')}"}`)
+      .end()
+    document.getElementById('applicationForm').reset()
   }
 
   render() {
     return (
+<<<<<<< HEAD
       <Container>
         <Title>Cover Letter</Title>
         <form id="applicationForm">
@@ -67,7 +69,22 @@ class ApplicationForm extends Component {
         </form>
       </Container>
     );
+=======
+      <form id="applicationForm">
+        <textarea name="application" id="application" />
+        <button
+          type="submit"
+          onClick={e => {
+            e.preventDefault()
+            this.sendApplication(document.getElementById('application').value)
+          }}
+        >
+          Submit
+        </button>
+      </form>
+    )
+>>>>>>> fixed warnings
   }
 }
 
-export default ApplicationForm;
+export default ApplicationForm

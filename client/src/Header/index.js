@@ -1,6 +1,6 @@
-import React  from 'react';
-import glamorous from 'glamorous';
-import headerBackground from './header_bg.svg';
+import React from 'react'
+import glamorous from 'glamorous'
+import headerBackground from './header_bg.svg'
 
 const Container = glamorous.div({
   height: '100px',
@@ -27,4 +27,4 @@ const Header = () => (
   </Container>
 )
 
-export default Header;
+export default Header

@@ -1,9 +1,8 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom'
-import glamorous from 'glamorous';
-import BrowseView from './BrowseView';
-import Application from './Application';
-import Rating from './RatingView';
+import BrowseView from './BrowseView'
+import Application from './Application'
+import Rating from './RatingView'
 
 const Container = glamorous.div({
   padding: '60px 40px 20px 40px',
@@ -15,13 +14,13 @@ class Main extends Component {
     return (
       <Container>
         <Switch>
-          <Route exact path='/' component={BrowseView}/>
-          <Route path='/send' component={Application}/>
-          <Route path='/rate' component={Rating}/>
+          <Route exact path="/" component={BrowseView} />
+          <Route path="/send" component={Application} />
+          <Route path="/rate" component={Rating} />
         </Switch>
       </Container>
     )
   }
 }
 
-export default Main;
+export default Main
