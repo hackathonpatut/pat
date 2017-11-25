@@ -1,5 +1,7 @@
 const Sequelize = require('sequelize')
 
+const force = true;
+
 module.exports = sequelize => {
   const applicants = sequelize.define('applicants', {
     firstName: {
@@ -12,7 +14,7 @@ module.exports = sequelize => {
     }
   })
 
-  applicants.sync()
+  applicants.sync({ force: force });
 
   const employers = sequelize.define('employers', {
     name: {
@@ -21,7 +23,7 @@ module.exports = sequelize => {
     }
   })
 
-  employers.sync()
+  employers.sync({ force: force })
 
   const adverts = sequelize.define('adverts', {
     content: {
@@ -30,7 +32,7 @@ module.exports = sequelize => {
     }
   })
 
-  adverts.sync()
+  adverts.sync({ force: force })
 
   const applications = sequelize.define('applications', {
     fullcontent: {
@@ -43,7 +45,7 @@ module.exports = sequelize => {
     },
   })
 
-  applications.sync()
+  applications.sync({ force: force })
 
   const resumes = sequelize.define('resumes', {
     education: {
@@ -56,11 +58,11 @@ module.exports = sequelize => {
     }
   })
 
-  resumes.sync()
+  resumes.sync({ force: force })
 
   const savedApplications = sequelize.define('savedApplications')
 
-  savedApplications.sync()
+  savedApplications.sync({ force: force })
 
   const titles = sequelize.define('titles', {
     title: {
@@ -69,11 +71,11 @@ module.exports = sequelize => {
     }
   })
 
-  titles.sync()
+  titles.sync({ force: force })
 
   const resumesToTitles = sequelize.define('resumesToTitles')
 
-  resumesToTitles.sync()
+  resumesToTitles.sync({ force: force })
 
   const skills = sequelize.define('skills', {
     skill: {
@@ -82,11 +84,11 @@ module.exports = sequelize => {
     }
   })
 
-  skills.sync()
+  skills.sync({ force: force })
 
   const titlesToSkills = sequelize.define('titlesToSkills')
 
-  titlesToSkills.sync()
+  titlesToSkills.sync({ force: force })
 
   employers.hasMany(adverts)
   applicants.hasMany(applications)
@@ -96,7 +98,7 @@ module.exports = sequelize => {
   titles.belongsToMany(resumes, { through: resumesToTitles })
   skills.belongsToMany(titles, { through: titlesToSkills })
 
-  sequelize.sync()
+  sequelize.sync({ force: force })
 
   return {
     applicants,
