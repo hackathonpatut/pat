@@ -86,12 +86,27 @@ module.exports = sequelize => {
 
   similarTitles.sync({ force: force })
 
+  const skills = sequelize.define('skills', {
+    skill: {
+      type: Sequelize.STRING,
+      allowNull: false
+    }
+  })
+
+  titles.sync({ force: force })
+
+  const skillsToTitles = sequelize.define('skillsToTitles')
+
+  skillsToTitles.sync({ force })
+
   employers.hasMany(adverts)
   applicants.hasMany(applications)
   applicants.hasOne(resumes)
   applications.hasOne(adverts)
   employers.belongsToMany(applications, { through: savedApplications })
   titles.belongsToMany(resumes, { through: resumesToTitles })
+  titles.belongsToMany(skills, { through: skillsToTitles })
+  skills.belongsToMany(titles, { through: skillsToTitles })
   titles.belongsToMany(titles, { as: 'otherTitles', through: similarTitles })
 
   sequelize.sync({ force: force })

@@ -4,6 +4,7 @@ const Sequelize = require('sequelize')
 const fs = require('fs')
 const bodyParser = require('body-parser')
 const spawn = require('child_process').spawn
+const Map = require('immutable').Map
 
 const models = require('./models')
 const cvParser = require('./scripts/cvParser')
@@ -51,20 +52,57 @@ app.post('/api/resume', (req, res) => {
 app.get('/api/similarTitles', (req, res) => {
   const { title1, title2, title3 } = req.query
 
-  sequelize
-    .query(
-      `SELECT t2.title, similarity FROM titles as t1
+  let similarTitles = [];
+
+  sequelize.query(`SELECT t2.title, similarity FROM titles as t1
       JOIN similarTitles ON t1.id = similarTitles.titleId
       JOIN titles as t2 ON t2.id = similarTitles.otherTitleId
       WHERE t1.title ='${title1 ? title1 : ''}' OR
       t1.title = '${title2 ? title2 : ''}' OR
       t1.title = '${title3 ? title3 : ''}'`,
-      { type: Sequelize.QueryTypes.SELECT }
-    )
-    .then(result => {
-      res.send(result)
-    })
-})
+      { type: Sequelize.QueryTypes.SELECT })
+    .then(sim1 => {
+      similarTitles = sim1;
+      return sim1.map(s => {
+        return sequelize.query(`SELECT t2.title, similarity FROM titles as t1
+            JOIN similarTitles ON t1.id = similarTitles.titleId
+            JOIN titles as t2 ON t2.id = similarTitles.otherTitleId
+            WHERE t1.title ='${s.title}'`,
+            { type: Sequelize.QueryTypes.SELECT })
+          .then(sim2 => {
+            return new Promise((resolve, reject) => {
+              const result = sim2
+              const titles = sim2.map(s => `'${s.title}'`)
+              const shell = spawn('python', ['scripts/skillSearch/get-skills.py'].concat(titles))
+              shell.stdout.on('data', data => {
+                const usefulSkills = data.toString().split('\n').map(d => {
+                  const s = d.split(':')
+                  return { skill: s[0], count: parseInt(s[1], 10) }
+                });
+
+                resolve(usefulSkills);
+              });
+            });
+          });
+      });
+    }).then(promises => Promise.all(promises).then(values => {
+      const objs = values.reduce((acc, cur) => acc.concat(cur), [])
+        .filter(a => Number.isInteger(a.count));
+      let map = Map({});
+      objs.forEach(o => {
+        if (map.get(o.skill)) {
+          map = map.set(o.skill, map.get(o.skill) + o.count)
+        } else {
+          map = map.set(o.skill, o.count)
+        }
+      });
+      map = map.sort().entrySeq().toArray().map(m => ({ skill: m[0], count: m[1] }));
+      return map.slice((map.length - 10), map.length);
+    }))
+    .then(usefulSkills => {
+      res.send({ similars: similarTitles, skills: usefulSkills });
+    });
+});
 
 app.post('/api/similarTitles', (req, res) => {
   const { titleId, otherTitleId, similarity } = req.body
