@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize')
 
-const force = true;
+const force = false;
 
 module.exports = sequelize => {
   const applicants = sequelize.define('applicants', {
