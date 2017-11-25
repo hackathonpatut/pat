@@ -1,4 +1,5 @@
 const pdfParser = require('pdf2json');
+const fs = require('fs');
 
 // Only lower case ples
 const degrees = ['associate', 'bachelor', 'student', 'master', 'doctor', 'matriculation'];
