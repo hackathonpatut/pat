@@ -57,7 +57,7 @@ parser.on("pdfParser_dataReady", pdfData => {
   console.log('Last company: ' + company);
   console.log('Titles: ' + filteredTitles.join(', '));
 
-  fs.unLinkSync(__dirname + '/../cv.pdf');
+  fs.unlinkSync(__dirname + '/../cv.pdf');
 });
 
 const parse = () => {
