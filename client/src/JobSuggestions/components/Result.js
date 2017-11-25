@@ -1,73 +1,65 @@
 import React from 'react'
-import { Bubble } from 'react-chartjs-2'
+import glamorous from 'glamorous'
+
+const Block = glamorous.div({
+  display: 'inline-block',
+  margin: '1em 1% 0 0',
+  width: '19%'
+})
 
 class Result extends React.Component {
   render() {
     const { data } = this.props
 
-    const dataToGraph = generateData(data)
+    if (!data || data.length < 1) return null
 
-    const options = {
-      tooltips: false,
-      legend: false,
-      scales: {
-        yAxes: [
-          {
-            display: false,
-            ticks: {
-              max: 1000,
-              min: -1000
-            }
-          }
-        ],
-        xAxes: [
-          {
-            display: false,
-            ticks: {
-              max: 2000,
-              min: 0
-            }
-          }
-        ]
+    const Bubbles = () => {
+      const colors = ['#ff5722', '#9c27b0', '#4caf50']
+      let colorIndex = 0
+
+      const r = []
+
+      for (let i = 0; i < Math.min(5, data.length); i++) {
+        const d = data[i]
+
+        const diameter = d.value * 7
+
+        r.push(
+          <Block key={i}>
+            {d.title}
+            <div
+              style={{
+                display: 'block',
+                width: diameter,
+                height: diameter,
+                background: colors[colorIndex],
+                borderRadius: '100%',
+                margin: '1em 0'
+              }}
+            />
+            {d.value} skills
+          </Block>
+        )
+        // {
+        //   fill: true,
+        //   backgroundColor: colors[colorIndex],
+        //   data: [{ x: xCoord, y: 0, r: radius }]
+        // })
+
+        colorIndex =
+          colorIndex + 1 < colors.length ? colorIndex + 1 : colorIndex
       }
+
+      return r
     }
 
     return (
       <div>
-        <Bubble data={dataToGraph} options={options} height={100} />
+        <h3>Recommended professions</h3>
+        <Bubbles />
       </div>
     )
   }
-}
-
-function generateData(data) {
-  return {
-    datasets: generateBubbles(data)
-  }
-}
-
-function generateBubbles(data) {
-  const colors = ['#ff5722', '#9c27b0', '#4caf50']
-  let colorIndex = 0
-
-  const r = []
-
-  for (let i = 0; i < data.length; i++) {
-    const d = data[i]
-
-    const radius = d.value * 3
-    const xCoord = i * 450 + 100
-
-    r.push({
-      fill: true,
-      backgroundColor: colors[colorIndex],
-      data: [{ x: xCoord, y: 0, r: radius }]
-    })
-
-    colorIndex = colorIndex + 1 < colors.length ? colorIndex + 1 : colorIndex
-  }
-
-  return r
 }
 
 export default Result

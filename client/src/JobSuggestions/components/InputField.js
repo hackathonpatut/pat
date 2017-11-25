@@ -26,7 +26,7 @@ class InputField extends React.Component {
 
     if (escapedValue === '') return []
 
-    const regex = new RegExp('^' + escapedValue, 'i')
+    const regex = new RegExp(escapedValue, 'i')
 
     return suggestions.filter(str => regex.test(str))
   }

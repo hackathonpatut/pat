@@ -2,7 +2,6 @@ import React from 'react'
 
 import InputField from './components/InputField'
 import OccupationPills from './components/OccupationPills'
-import Labels from './components/Labels'
 import Result from './components/Result'
 
 class JobSuggestions extends React.Component {
@@ -39,12 +38,15 @@ class JobSuggestions extends React.Component {
       .then(res => res.json())
       .then(res => {
         this.setState({
-          suggestions: res.map(x => {
-            return {
-              title: x.title,
-              value: x.similarity
-            }
-          })
+          suggestions: res
+            .sort((a, b) => b.similarity - a.similarity)
+            .slice(0, 5)
+            .map(x => {
+              return {
+                title: x.title,
+                value: x.similarity
+              }
+            })
         })
         console.log(this.state.suggestions)
       })
@@ -65,7 +67,6 @@ class JobSuggestions extends React.Component {
           add={this.addOccupation}
         />
         <OccupationPills data={occupations} />
-        <Labels data={suggestions} />
         <Result data={suggestions} />
       </div>
     )
