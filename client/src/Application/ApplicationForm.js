@@ -1,15 +1,15 @@
-import React, { Component } from 'react';
-import request from 'superagent';
-import glamorous from 'glamorous';
+import React, { Component } from 'react'
+import request from 'superagent'
+import glamorous from 'glamorous'
 
 const Container = glamorous.div({
-  marginTop: '40px',
-});
+  marginTop: '40px'
+})
 
 const Title = glamorous.h2({
   color: '#e46069',
   fontSize: '18px',
-  textAlign: 'Left',
+  textAlign: 'Left'
 })
 
 const Textarea = glamorous.textarea({
@@ -19,7 +19,7 @@ const Textarea = glamorous.textarea({
   color: '#333',
   border: 'none',
   outline: 'none',
-  background: 'transparent',
+  background: 'transparent'
 })
 
 const SubmitButton = glamorous.button({
@@ -34,7 +34,7 @@ const SubmitButton = glamorous.button({
   cursor: 'pointer',
   ':hover': {
     backgroundColor: '#e46069',
-    color: 'white',
+    color: 'white'
   }
 })
 
@@ -42,7 +42,7 @@ const ButtonText = glamorous.p({
   padding: 0,
   margin: 0,
   fontSize: '14px',
-  textAlign: 'center',
+  textAlign: 'center'
 })
 
 class ApplicationForm extends Component {
@@ -57,33 +57,26 @@ class ApplicationForm extends Component {
 
   render() {
     return (
-<<<<<<< HEAD
       <Container>
         <Title>Cover Letter</Title>
         <form id="applicationForm">
-          <Textarea placeholder="Type your cover letter here" name="application" id="application" />
-          <SubmitButton type="submit" onClick={e => {
-            e.preventDefault();
-            this.sendApplication(document.getElementById('application').value);
-          }}><ButtonText>Submit</ButtonText></SubmitButton>
+          <Textarea
+            placeholder="Type your cover letter here"
+            name="application"
+            id="application"
+          />
+          <SubmitButton
+            type="submit"
+            onClick={e => {
+              e.preventDefault()
+              this.sendApplication(document.getElementById('application').value)
+            }}
+          >
+            <ButtonText>Submit</ButtonText>
+          </SubmitButton>
         </form>
       </Container>
-    );
-=======
-      <form id="applicationForm">
-        <textarea name="application" id="application" />
-        <button
-          type="submit"
-          onClick={e => {
-            e.preventDefault()
-            this.sendApplication(document.getElementById('application').value)
-          }}
-        >
-          Submit
-        </button>
-      </form>
     )
->>>>>>> fixed warnings
   }
 }
 
