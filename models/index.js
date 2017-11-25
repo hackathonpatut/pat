@@ -77,18 +77,14 @@ module.exports = sequelize => {
 
   resumesToTitles.sync({ force: force })
 
-  const skills = sequelize.define('skills', {
-    skill: {
-      type: Sequelize.STRING,
+  const similarTitles = sequelize.define('similarTitles', {
+    similarity: {
+      type: Sequelize.INTEGER,
       allowNull: false
     }
   })
 
-  skills.sync({ force: force })
-
-  const titlesToSkills = sequelize.define('titlesToSkills')
-
-  titlesToSkills.sync({ force: force })
+  similarTitles.sync({ force: force })
 
   employers.hasMany(adverts)
   applicants.hasMany(applications)
@@ -96,7 +92,7 @@ module.exports = sequelize => {
   applications.hasOne(adverts)
   employers.belongsToMany(applications, { through: savedApplications })
   titles.belongsToMany(resumes, { through: resumesToTitles })
-  skills.belongsToMany(titles, { through: titlesToSkills })
+  titles.belongsToMany(titles, { as: 'otherTitles', through: similarTitles })
 
   sequelize.sync({ force: force })
 
@@ -105,8 +101,8 @@ module.exports = sequelize => {
     applications,
     resumes,
     employers,
-    skills,
     titles,
+    similarTitles,
     adverts,
     savedApplications
   }
