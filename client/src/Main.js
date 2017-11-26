@@ -5,7 +5,6 @@ import JobSuggestions from './JobSuggestions'
 import CvListing from './CvListing'
 
 const Container = glamorous.div({
-  padding: '20px 40px'
 })
 
 class Main extends Component {

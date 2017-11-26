@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import glamorous from 'glamorous'
-import './style.css'
 
 const Table = glamorous.table({
   width: '100%',
@@ -71,7 +70,7 @@ class CvListing extends Component {
     rows.sort((a, b) => b.score - a.score)
 
     return (
-      <div>
+      <div style={{ padding: '32px', background: '#fff' }}>
         <h2>Job applications for: sales manager</h2>
         <Table>
           <thead>
