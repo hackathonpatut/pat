@@ -6,14 +6,22 @@ const Pill = glamorous.div({
   lineHeight: '2em',
   padding: '0 15px',
   color: 'white',
-  background: '#2295C1',
   display: 'inline-block',
   fontSize: '1.1em',
-  margin: '1em 1em 1em 0'
+  margin: '1em 1em 1em 0',
+  borderRadius: '2px'
 })
 
 const Pills = ({ data }) => {
-  return <div>{data.map((str, key) => <Pill key={key}>{str}</Pill>)}</div>
+  return (
+    <div>
+      {data.map((str, key) => (
+        <Pill key={key} style={{ background: '#58ad69' }}>
+          {str}
+        </Pill>
+      ))}
+    </div>
+  )
 }
 
 export default Pills

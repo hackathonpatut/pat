@@ -7,8 +7,7 @@ import JobSuggestions from './JobSuggestions'
 import Rating from './RatingView'
 
 const Container = glamorous.div({
-  padding: '60px 40px 20px 40px',
-  background: 'linear-gradient(to bottom, #f4ece1 0%,#ffffff 100%)'
+  padding: '20px 40px'
 })
 
 class Main extends Component {
@@ -16,9 +15,6 @@ class Main extends Component {
     return (
       <Container>
         <Switch>
-          <Route exact path="/" component={BrowseView} />
-          <Route path="/send" component={Application} />
-          <Route path="/rate" component={Rating} />
           <Route path="/reboot" component={JobSuggestions} />
         </Switch>
       </Container>

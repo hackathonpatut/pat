@@ -3,7 +3,7 @@ import glamorous from 'glamorous';
 import './style.css';
 
 const Position = glamorous.h2({
-  color: '#e46069',
+  color: '#2295c1',
   fontWeight: 400,
   display: 'inline-block',
   margin: 0
@@ -15,7 +15,7 @@ const Wrapper = glamorous.div({
 
 const Header = glamorous.div({
   width: 'calc(100% - 16px)',
-  backgroundColor: '#e46069',
+  backgroundColor: '#2295c1',
   padding: '8px',
   borderTopLeftRadius: '32px',
   borderTopRightRadius: '32px',
@@ -38,15 +38,15 @@ const Percentage = glamorous.h3({
 const Card = glamorous.div({
   borderRadius: '32px',
   boxShadow: '4px 4px 8px #AAAAAA',
-  border: '1px solid #e46069',
-  backgroundColor: '#e46069',
+  border: '1px solid #2295c1',
+  backgroundColor: '#2295c1',
   marginTop: '24px'
 });
 
 const ContentWrapper = glamorous.div({
   display: 'flex',
   flexDirection: 'row',
-  backgroundColor: '#F4ECE1',
+  backgroundColor: '#ececec',
   borderBottomLeftRadius: '32px',
   borderBottomRightRadius: '32px'
 })
@@ -69,7 +69,7 @@ const LetterWrapper = glamorous.div({
 
 const SubHeading = glamorous.h3({
   fontSize: '14px',
-  color: '#e46069',
+  color: '#2295c1',
   margin: '12px 0 0 0',
 });
 
@@ -152,7 +152,7 @@ class RatingView extends Component {
           </div>
         : null }
         <RatingButtons>
-          {this.createButton(1, '#e46069')}
+          {this.createButton(1, '#2295c1')}
           {this.createButton(2, '#ED999F')}
           {this.createButton(3, '#bbbbbb')}
           {this.createButton(4, '#A0D7AB')}
