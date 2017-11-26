@@ -22,9 +22,8 @@ const Title = glamorous.h1({
 
 class Header extends React.Component {
   render() {
-    if (this.props.location.pathname === '/reboot') {
-      return null
-    }
+    if (this.props.location.pathname === 'xxx') return null
+
     return (
       <Container>
         <Title>Reboot your career.</Title>

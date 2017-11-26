@@ -5,7 +5,9 @@ import glamorous from 'glamorous'
 
 const Container = glamorous.div({
   display: 'inline-block',
-  float: 'right'
+  float: 'right',
+  zIndex: 10,
+  position: 'relative'
 })
 
 const dropzoneStyle = {
@@ -43,7 +45,6 @@ class FileSender extends Component {
   }
 
   sendFile = file => {
-    console.log(file)
     request
       .post('/api/resume')
       .set('Content-Type', 'application/octet-stream')
