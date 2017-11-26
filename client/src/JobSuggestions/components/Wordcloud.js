@@ -36,9 +36,13 @@ const customRenderer = (tag, size, color) => (
 
 class Wordcloud extends Component {
   render() {
+    if (this.props.data.length === 0) {
+      return null;
+    }
     return (
       <TagCloud minSize={16}
                 maxSize={42}
+                style={{padding: '20px', background: 'rgba(255,255,255,0.8)'}}
                 renderer={customRenderer}
                 tags={this.props.data.map((pair) => {
                   return {value: pair.title, count: pair.value}
