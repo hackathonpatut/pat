@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom'
-import BrowseView from './BrowseView'
 import glamorous from 'glamorous'
-import Application from './Application'
 import JobSuggestions from './JobSuggestions'
 import Rating from './RatingView'
 
