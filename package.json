@@ -7,7 +7,7 @@
     "start": "node index.js",
     "start-client": "cd client && npm start",
     "heroku-postbuild":
-      "cp client/public/pexels-photo-449609.jpeg client/build/pexels-photo-449609.jpeg && cd client && npm install && npm run build"
+      "cd client && npm install && npm run build && cp public/pexels-photo-449609.jpeg build/pexels-photo-449609.jpeg"
   },
   "repository": {
     "type": "git",
