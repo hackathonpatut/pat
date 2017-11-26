@@ -22,7 +22,7 @@ const Title = glamorous.h1({
 
 class Header extends React.Component {
   render() {
-    if (this.props.location.pathname === 'xxx') return null
+    if (this.props.location.pathname === '/cvs') return null
 
     return (
       <Container>

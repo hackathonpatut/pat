@@ -7,7 +7,8 @@ const Container = glamorous.div({
   display: 'inline-block',
   float: 'right',
   zIndex: 10,
-  position: 'relative'
+  position: 'relative',
+  top: -10
 })
 
 const dropzoneStyle = {

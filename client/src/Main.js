@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom'
 import glamorous from 'glamorous'
 import JobSuggestions from './JobSuggestions'
-import Rating from './RatingView'
+import CvListing from './CvListing'
 
 const Container = glamorous.div({
   padding: '20px 40px'
@@ -14,6 +14,7 @@ class Main extends Component {
       <Container>
         <Switch>
           <Route path="/reboot" component={JobSuggestions} />
+          <Route path="/cvs" component={CvListing} />
         </Switch>
       </Container>
     )
