@@ -47,13 +47,13 @@ class JobSuggestions extends React.Component {
       .then(res => res.json())
       .then(res => {
         this.setState({
-          suggestions: res.similars
+          suggestions: res.skills
             .sort((a, b) => b.similarity - a.similarity)
             .slice(0, Math.max(20, res.similars.length))
             .map(x => {
               return {
-                title: x.title,
-                value: x.similarity
+                title: x.skill,
+                value: x.count
               }
             })
         })

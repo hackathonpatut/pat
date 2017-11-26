@@ -70,27 +70,24 @@ app.get('/api/similarTitles', (req, res) => {
             WHERE t1.title ='${s.title}'`,
             { type: Sequelize.QueryTypes.SELECT })
           .then(sim2 => {
-            if (sim2.length === 0) {
-              return new Promise((resolve, reject) => {
-                resolve([]);
-              })
-            }
             return new Promise((resolve, reject) => {
-              const result = sim2
-              const titles = sim2.map(s => `'${s.title}'`)
-              const shell = spawn('python', ['scripts/skillSearch/get-skills.py'].concat(titles))
-              shell.stdout.on('data', data => {
-                const usefulSkills = data.toString().split('\n').map(d => {
-                  const s = d.split(':')
-                  return { skill: s[0], count: parseInt(s[1], 10) }
+              if (sim2.length === 0) {
+                resolve([]);
+              } else {
+                const titles = sim2.map(s => `'${s.title}'`)
+                const shell = spawn('python', ['scripts/skillSearch/get-skills.py'].concat(titles))
+                shell.stdout.on('data', data => {
+                  const usefulSkills = data.toString().split('\n').map(d => {
+                    const s = d.split(':')
+                    return { skill: s[0], count: parseInt(s[1], 10) }
+                  });
+                  resolve(usefulSkills);
                 });
-                resolve(usefulSkills);
-              });
+              }
             });
           });
       });
     }).then(promises =>
-      {
           Promise.all(promises).then(values => {
       const objs = values.reduce((acc, cur) => acc.concat(cur), [])
         .filter(a => Number.isInteger(a.count));
@@ -104,10 +101,10 @@ app.get('/api/similarTitles', (req, res) => {
       });
       map = map.sort().entrySeq().toArray().map(m => ({ skill: m[0], count: m[1] }));
       return map.slice((map.length - 10), map.length);
-    })})
+    }))
     .then(usefulSkills => {
       res.send({ similars: similarTitles, skills: usefulSkills });
-    });
+    })
 });
 
 app.post('/api/similarTitles', (req, res) => {
