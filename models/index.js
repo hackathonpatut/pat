@@ -68,6 +68,10 @@ module.exports = sequelize => {
     title: {
       type: Sequelize.STRING,
       allowNull: false
+    },
+    title_fi: {
+      type: Sequelize.STRING,
+      allowNull: true
     }
   })
 
