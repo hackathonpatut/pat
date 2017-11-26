@@ -57,11 +57,9 @@ const parse = (filename) => {
     console.log('Education: ' + degree);
     console.log('Last company: ' + company);
     console.log('Titles: ' + filteredTitles.join(', '));
-    //fs.unlinkSync(__dirname + '/../cv.pdf');
-
+    fs.unlinkSync(__dirname + '/../cv.pdf');
   });
-  
-  console.log(filename);
+
   const filePath = __dirname + filename;
   fs.readFile(filePath, (err, buff) => {
     if (!err) {

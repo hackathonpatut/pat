@@ -44,7 +44,11 @@ app.post('/api/resume', (req, res) => {
   req.on('end', () =>
     fs.writeFile('cv.pdf', Buffer.concat(data), () => {
       res.send('OK')
-      cvParser('/../cv.pdf')
+      // cvParser('/../cv.pdf')
+      const shell = spawn('python', ['scripts/cvParser.py'])
+      shell.stdout.on('data', data => {
+        console.log(data.toString());
+      });
     })
   )
 })
