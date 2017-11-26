@@ -11,6 +11,7 @@ const parse = (filename) => {
 
   parser.on("pdfParser_dataError", err => console.log(err));
 
+
   parser.on("pdfParser_dataReady", pdfData => {
     const pages = pdfData.formImage.Pages;
     const text = pages.map(p =>

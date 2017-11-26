@@ -1,0 +1,2942 @@
+3D animator,3D-animaattori
+3D modeller,3D-mallintaja
+3D printing technician,suunnitteluavustaja, 3D-mallinnus
+ATM repair technician,huoltoteknikko, pankki- ja maksuautomaatit
+Freinet school teacher,freinetkoulun opettaja
+ICT accessibility tester,ICT-saavutettavuustestaaja
+ICT account manager,ICT-avainasiakkuusjohtaja
+ICT application configurator,ICT-sovellusten konfiguroija
+ICT application developer,ICT-ohjelmistokehittäjä
+ICT auditor manager,ICT-auditointipäällikkö
+ICT business analysis manager,ICT-liiketoiminta-analyysijohtaja
+ICT business analyst,ICT-liiketoiminta-analyytikko
+ICT business development manager,ICT-liiketoiminnan kehitysjohtaja
+ICT buyer,ICT-ostaja
+ICT capacity planner,ICT-kapasiteettisuunnittelija
+ICT consultant,ICT-konsultti
+ICT disaster recovery analyst,ICT-toipumisasiantuntija
+ICT documentation manager,ICT-dokumentaatiojohtaja
+ICT environmental manager,ICT-ympäristöpäällikkö
+ICT help desk agent,ICT-asiakaspalvelija
+ICT help desk manager,ICT-asiakaspalvelujohtaja
+ICT information and knowledge manager,ICT-tietojohtaja
+ICT integration tester,ICT-integraatiotestaaja
+ICT intelligent systems designer,älykkäiden ICT-järjestelmien suunnittelija
+ICT network administrator,ICT-verkon pääkäyttäjä
+ICT network architect,ICT-verkkoarkkitehti
+ICT network engineer,ICT-verkkoinsinööri
+ICT network technician,ICT-verkkoteknikko
+ICT operations manager,ICT-toimintopäällikkö
+ICT presales engineer,myyntiä edeltävä IT-tuki
+ICT product manager,ICT-tuotepäällikkö
+ICT project manager,ICT-projektipäällikkö
+ICT quality assurance manager,ICT-laadunvarmistuspäällikkö
+ICT research consultant,ICT-tutkimuskonsultti
+ICT research manager,ICT-tutkimuspäällikkö
+ICT resilience manager,ICT-toimintavarmuuspäällikkö
+ICT security administrator,ICT-tietoturvapäällikkö
+ICT security consultant,ICT-turvallisuuskonsultti
+ICT security manager,ICT-turvallisuusjohtaja
+ICT security technician,ICT-turvallisuusteknikko
+ICT system administrator,ICT-järjestelmän ylläpitäjä
+ICT system analyst,ICT-järjestelmäanalyytikko
+ICT system architect,ICT-järjestelmäarkkitehti
+ICT system developer,ICT-järjestelmäkehittäjä
+ICT system integration consultant,ICT-järjestelmien integroinnin konsultti
+ICT system tester,ICT-järjestelmätestaaja
+ICT teacher secondary school,tieto- ja viestintätekniikan opettaja, yläluokat ja lukio
+ICT technician,ICT-teknikko
+ICT test analyst,ICT-testianalyytikko
+ICT trainer,ICT-kouluttaja
+ICT usability tester,ICT-käytettävyysinsinööri
+ICT vendor relationship manager,ICT-toimittajasuhteiden hoitaja
+IT auditor,IT-auditoija
+Montessori school teacher,montessorikoulun opettaja
+Pilates teacher,pilatesopettaja
+Steiner school teacher,steinerkoulun opettaja
+V-belt builder,kiilahihnan valmistaja
+V-belt coverer,kiilahihnan päällystäjä
+V-belt finisher,kiilahihnan viimeistelijä
+abrasive blasting operator,hiekkapuhaltaja
+absorbent pad machine operator,prosessityöntekijä, hygieniatuotteiden valmistus
+academic advisor,uraohjaaja, korkeakoulut
+academic support officer,tukiohjaaja
+accommodation manager,majoituslaitoksen johtaja
+accountant,laskentatoimen erityisasiantuntija
+accounting analyst,tilinpäätösanalyytikko
+accounting assistant,taloussihteeri
+accounting manager,laskentajohtaja
+acoustical engineer,akustiikkainsinööri
+activism officer,kampanjakoordinaattori
+activity leader,vapaa-ajan ohjaaja
+actor/actress,näyttelijä
+actuarial assistant,aktuaari
+actuarial consultant,konsultoiva aktuaari
+acupuncturist,akupunktiohoitaja
+administrative assistant,hallintoassistentti
+admissions coordinator,hakukoordinaattori
+adult community care worker,ohjaaja, ryhmäkuntoutus
+adult literacy teacher,aikuisten luku- ja kirjoitus­taidon opettaja
+advanced nurse practitioner,kliinisen hoitotyön asiantuntija
+advanced physiotherapist,johtava fysioterapeutti
+advertising assistant,mainosassistentti
+advertising copywriter,copywriter, mainonta ja markkinointi
+advertising installer,mainosasentaja
+advertising manager,mainosjohtaja
+advertising media buyer,mediaostaja
+advertising media planner,mediasuunnittelija
+advertising sales agent,mainospalveluiden myyjä
+advertising specialist,mainonnan erityisasiantuntija
+aerodynamics engineer,aerodynamiikan insinööri
+aeronautical information service officer,lennontiedottaja
+aeronautical information specialist,lennonneuvoja
+aerospace engineer,ilmailu- ja avaruustekniikan insinööri
+aerospace engineering drafter,suunnitteluavustaja, ilmailu- ja avaruustekniikka
+aerospace engineering technician,asiantuntija, ilmailu- ja avaruustekniikka
+aesthetician,kosmetologi
+after-sales service technician,huoltoteknikko
+agricultural engineer,maatalousinsinööri
+agricultural equipment design engineer,suunnitteluinsinööri, maatalouden koneet ja työvälineet sekä työmenetelmät
+agricultural inspector,maatilatarkastaja
+agricultural machinery and equipment distribution manager,jakelujohtaja, maatalouskoneet ja -laitteet
+agricultural machinery technician,koneasentaja, maatalouskoneet
+agricultural policy officer,vastuuvirkamies, maatalous
+agricultural raw materials, seeds and animal feeds distribution manager,jakelujohtaja, maatalousperäiset raaka-aineet, siemenet ja rehut
+agricultural scientist,maataloustutkija
+agricultural technician,tutkimusavustaja, maa- ja kalatalous
+agriculture, forestry and fishery vocational teacher,ammatillinen opettaja, maatalous, metsätalous ja kalastus
+agronomic crop production team leader,viljelyskasvien tuotantoryhmän johtaja
+agronomist,agronomi
+air force officer,ilmavoimien upseeri
+air force pilot,ilmavoimien lentäjä
+air pollution analyst,arvioija, ilmanlaatu
+air separation plant operator,prosessinhoitaja, ilmatislaamo
+air traffic controller,lennonjohtaja
+air traffic instructor,kouluttaja, ilmaliikenne
+air traffic manager,asematasovalvonnan päällikkö
+air traffic safety technician,lennonvarmistusteknikko
+aircraft assembler,lentokoneiden kokoonpanija
+aircraft assembly inspector,lentokoneasennustarkastaja
+aircraft assembly supervisor,työnjohtaja, lentokoneiden kokoonpano
+aircraft cargo operations coordinator,rahtivirkailija, lentoliikenne
+aircraft de-icer installer,lentokoneiden jäänpoisto- ja jäänestolaiteasentaja
+aircraft dispatcher,toimistotyöntekijä,  lennonsuunnittelu
+aircraft engine assembler,lentokonemoottoreiden kokoonpanija
+aircraft engine inspector,moottoritarkastaja, ilma-alukset
+aircraft engine specialist,lentokonemekaanikko, moottorit
+aircraft engine tester,moottoritestaaja, ilma-alukset
+aircraft fuel system operator,tankkauslaitteiston käyttäjä, ilma-alusten polttoainejakelu
+aircraft gas turbine engine overhaul technician,lentokoneasentaja, kaasuturbiinien huolto
+aircraft groomer,lentokoneen siivooja
+aircraft interior technician,sisustusasentaja, lentokoneet
+aircraft maintenance coordinator,lentokoneiden huoltokoordinaattori
+aircraft maintenance engineer,lentokonehuoltoinsinööri
+aircraft maintenance technician,lentokoneasentaja
+aircraft marshaller,merkinantaja, lentoasema
+aircraft pilot,lentokapteeni
+airline food service worker,ateriapalvelun työntekijä, lentoyhtiö
+airline transport pilot,liikennelentäjä
+airport baggage handler,matkatavarankäsittelijä, lentoasema
+airport chief executive,lentoaseman toimitusjohtaja
+airport director,lentoaseman johtaja
+airport environment officer,lentoaseman ympäristövastaava
+airport maintenance technician,asiantuntija, lentoaseman kunnossapito
+airport operations officer,asematasovalvoja
+airport planning engineer,suunnitteluinsinööri, lentoasemat
+airport security officer,turvatarkastaja, lentoasema
+airside safety manager,lentokenttäalueen turvallisuuspäällikkö
+airspace manager,ilmatilasuunnittelija
+alternative animal therapist,eläinterapeutti, vaihtoehtohoito
+ambassador,suurlähettiläs
+ammunition assembler,ammusten kokoonpanija
+ammunition shop manager,johtaja, ampumatarvikkeiden erikoisliike
+ammunition specialised seller,myyjä, aseet ja ammukset
+amusement and recreation attendant,huvipuistotyöntekijä
+amusement park cleaner,huvipuiston siivooja
+anaesthetic technician,anestesiahoitaja
+analytical chemist,analyysikemisti
+anatomical pathology technician,bioanalyytikko, obduktiotutkimukset
+animal artificial insemination technician,seminologi
+animal assisted therapist,eläinavusteinen terapeutti
+animal behaviourist,eläintieteilijä
+animal care attendant,eläintenhoitaja
+animal chiropractor,eläinkiropraktikko
+animal embryo transfer technician,eläintenhoitaja, alkionsiirto
+animal facility manager,johtaja, eläintenhoito
+animal feed nutritionist,eläinrehun asiantuntija
+animal feed operator,eläinrehun valmistuskoneen hoitaja
+animal feed supervisor,eläinten rehun valvoja
+animal groomer,eläinten trimmaaja
+animal handler,eläintenkäsittelijä
+animal hydrotherapist,eläinten vesiterapeutti
+animal massage therapist,eläinhieroja
+animal osteopath,eläinosteopaatti
+animal physiotherapist,eläinfysioterapeutti
+animal shelter worker,löytöeläinkodin hoitaja
+animal therapist,eläinterapeutti
+animal trainer,eläintenkouluttaja
+animal welfare inspector,eläinsuojeluvalvoja
+animation director,animaatio-ohjaaja
+animation layout artist,animaatiolavastaja
+animator,animaattori
+anodising machine operator,anodisoija
+anthropologist,antropologi
+anthropology lecturer,antropologian lehtori
+antique furniture reproducer,huonekalupuuseppä, tyylihuonekalut
+antique shop manager,johtaja, antiikkitavaroiden erikoisliike
+application engineer,sovellusinsinööri
+aquaculture biologist,kalastusbiologi, vesiviljely
+aquaculture cage mooring worker,vesiviljelyrakenteiden asennus- ja ankkurointityöntekijä
+aquaculture cage technician,vesiviljelyasiantuntija, verkkoallas- ja kassikasvatus
+aquaculture environmental analyst,ympäristöanalyytikko, vesiviljely
+aquaculture harvesting manager,vesiviljelyjohtaja, vesiviljelytuotteiden pyynti ja keruu
+aquaculture harvesting technician,vesiviljelyasiantuntija, pyydystys- ja keruumenetelmät
+aquaculture harvesting worker,vesiviljelytyöntekijä, vesiviljelytuotteiden keruu
+aquaculture hatchery manager,hautomonhoitaja, vesiviljely
+aquaculture hatchery technician,hautomoasiantuntija, vesiviljely
+aquaculture hatchery worker,hautomotyöntekijä, vesiviljely
+aquaculture husbandry manager,vesiviljelyjohtaja, kalankasvatus
+aquaculture husbandry technician,vesiviljelyasiantuntija, tuotantomenetelmät
+aquaculture husbandry worker,vesiviljelytyöntekijä
+aquaculture mooring manager,ankkurointi- ja kiinnitysvastaava, vesiviljely
+aquaculture production manager,tuotantojohtaja,  vesiviljely
+aquaculture quality supervisor,laaduntarkkailija, vesiviljely
+aquaculture rearing technician,vesiviljelyasiantuntija, kasvatusmenetelmät
+aquaculture recirculation manager,valvoja, vesiviljelyn vedenkierrätysjärjestelmät
+aquaculture recirculation technician,vesiviljelyasiantuntija, kiertovesijärjestelmä
+aquaculture site supervisor,tarkastaja, vesiviljelylaitos
+aquatic animal health professional,vesieläinten terveyden erityisasiantuntija
+arboriculturist,puunhoitaja
+archaeologist,arkeologi
+archaeology lecturer,arkeologian lehtori
+architect,arkkitehti
+architectural drafter,suunnitteluavustaja, arkkitehtipalvelut
+architecture lecturer,arkkitehtuurin lehtori
+archive manager,arkistonjohtaja
+archivist,arkistonhoitaja
+armed forces officer,asevoimien upseeri
+armed forces training and education officer,asevoimien koulutusupseeri
+armoured car driver,panssariautonkuljettaja
+armoured car guard,vartija, panssaroitu ajoneuvo
+army captain,maavoimien kapteeni
+army corporal,maavoimien korpraali
+army general,maavoimien kenraali
+army major,maavoimien majuri
+aromatherapist,aromaterapeutti
+art director,art director
+art handler,museo- ja taide-esineiden käsittelijä
+art model,taidemalli
+art restorer,taide-entisöijä
+art studies lecturer,taideaineiden lehtori
+art teacher secondary school,kuvaamataidonopettaja, yläluokat ja lukio
+art therapist,taideterapeutti
+artillery officer,tykistöupseeri
+artisan papermaker,artesaani, paperin valmistus
+artistic coach,valmentaja, taiteellinen ilmaisu
+artistic director,taiteellinen johtaja
+artistic painter,taidemaalari
+arts education officer,museolehtori
+asbestos abatement worker,asbestinpurkaja
+asphalt laboratory technician,asiantuntija, asfalttilaboratorio
+asphalt plant operator,asfalttiasemanhoitaja
+assayer,arvometallien arvioija
+asset manager,varainhoitaja
+assistant clinical psychologist,avustava kliininen psykologi
+assistant lecturer,assistentti
+assistant outdoor animator,avustava ulkoliikunnan ohjaaja
+assistant stage director,apulaisohjaaja
+assistant video and motion picture director,apulaisohjaaja, videot ja elokuvat
+astrologer,astrologi
+astronaut,avaruuslentäjä
+astronomer,astronomi
+attraction operator,huvipuistolaitteen hoitaja
+au pair,au pair
+auction house manager,huutokauppatalon johtaja
+auctioneer,huutokaupanpitäjä
+audio and video equipment shop manager,johtaja, viihde-elektroniikan erikoisliike
+audio and video equipment specialised seller,myyjä, audio- ja videolaitteet
+audio describer,kuvailutulkki
+audio production technician,ääniasiantuntija
+audio-visual technician,av-asiantuntija
+audiologist,audiologi
+audiology equipment shop manager,johtaja, audiologisten laitteiden erikoisliike
+audiology equipment specialised seller,myyjä, kuulolaitteet
+audiology technician,apuvälineteknikko, kuulolaitteet
+audit supervisor,tilintarkastuspäällikkö
+auditing clerk,tilintarkastusavustaja
+auger press operator,tiilenpuristaja
+automated assembly line operator,automaattisen kokoonpanolinjan hoitaja
+automated cable vehicle controller,köysiradanhoitaja
+automated cutting machine operator,automaattileikkurin käyttäjä, jalkineteollisuus
+automated fly bar operator,automatisoitujen nostolaitteiden käyttäjä
+automated optical inspection operator,piirilevyjen AOI-tarkastaja
+automation engineer,automaatioinsinööri
+automation engineering technician,automaatioasiantuntija
+automotive battery technician,autosähköasentaja, akkuteknologia
+automotive brake technician,ajoneuvoasentaja, jarrujärjestelmät
+automotive designer,autosuunnittelija
+automotive electrician,autosähköasentaja
+automotive engineer,autoinsinööri
+automotive engineering drafter,suunnitteluavustaja, autotekniikka
+automotive engineering technician,asiantuntija, autotekniikka
+automotive test driver,testikuljettaja, moottoriajoneuvot
+auxiliary nursing and midwifery vocational teacher,ammatillinen opettaja, hoitoapulaiset ja kätilöt
+aviation communications and frequency coordination manager,ilmailuviestinnän ja radiotaajuuksien koordinaattori
+aviation data communications manager,tietoverkkoasiantuntija, ilmailu
+aviation ground systems engineer,kunnossapitoinsinööri, lentokentän maakalusto
+aviation inspector,ilmailutarkastaja
+aviation meteorologist,meteorologi, lentoasema
+aviation safety officer,lentoturvallisuusasiantuntija
+aviation surveillance and code coordination manager,ilmailun valvonta- ja koodikoordinaattori
+avionics inspector,tarkastaja, avioniikka
+avionics technician,avioniikka-asentaja
+babysitter,lapsenvahti, yksityiskoti
+back office specialist,back office -toimihenkilö
+bacteriology technician,laborantti, bakteriologia
+baggage flow supervisor,valvoja, matkatavaravirta
+baker,leipuri
+bakery shop manager,johtaja, leipomotuotteiden erikoisliike
+bakery specialised seller,myyjä, leipomo
+baking operator,leivontatyöntekijä
+band saw operator,vannesahaaja
+bank account manager,palveluneuvoja, pankki
+bank manager,pankinjohtaja
+bank teller,pankkitoimihenkilö
+bank treasurer,pankin rahoitusjohtaja
+banking products manager,pankin tuotepäällikkö
+bankruptcy trustee,konkurssipesän hoitaja
+barber,parturi
+barista,barista
+bartender,baarimestari
+basketmaker,korintekijä
+bathroom fitter,LVI-asentaja, kylpyhuoneet
+battery assembler,akkujen kokoonpanija
+battery test technician,testaaja, akkuteknologia
+beauty salon attendant,vastaanottoapulainen, kauneushoitola
+beauty salon manager,kauneushoitolan johtaja
+beauty vocational teacher,ammatillinen opettaja, kauneudenhoitoala
+bed and breakfast operator,bed and breakfast -palvelunhoitaja
+bee breeder,mehiläistenhoitaja
+beer sommelier,olutsommelier
+behavioural scientist,käyttäytymistieteilijä
+belt builder,hihnanvalmistaja
+benefits advice worker,etuusneuvoja
+bereavement counsellor,suruterapeutti
+bespoke footwear technician,suutari, mittatilausjalkineet
+betting manager,vedonlyöntitoimiston johtaja
+beverage filtration technician,juomien suodatusteknikko
+beverages distribution manager,jakelujohtaja, juomat
+beverages shop manager,johtaja, juomien erikoisliike
+beverages specialised seller,myyjä, juomat
+bicycle assembler,polkupyöränkokooja
+bicycle courier,polkupyörälähetti
+bicycle mechanic,polkupyörämekaanikko
+bicycle shop manager,johtaja, polkupyörien erikoisliike
+big data archive librarian,big data -arkistoija
+billing clerk,laskuttaja, taloushallinto
+bindery operator,sitomotyöntekijä
+bingo caller,bingotyöntekijä
+biochemical engineer,biokemian insinööri
+biochemist,biokemisti
+biochemistry technician,laborantti, biokemia
+bioengineer,biotekniikan insinööri
+biogas technician,asiantuntija, biokaasulaitos
+bioinformatics scientist,bioinformaatikko
+biologist,biologi
+biology lecturer,biologian lehtori
+biology teacher secondary school,biologianopettaja, yläluokat ja lukio
+biology technician,laborantti, biologia
+biomedical engineer,biolääketieteen insinööri
+biomedical scientist,bioanalyytikko, terveydenhuolto
+biomedical scientist advanced,biolääketieteen erikoistutkija
+biometrician,biometrikko
+biophysicist,biofyysikko
+biotechnical technician,laborantti, biotieteet
+blacksmith,seppä
+blanching operator,valkaisutyöntekijä
+bleacher operator,massanvalkaisija
+blender operator,virvoitusjuomien ainesten sekoittaja
+blending plant operator,sekoituslaitoksen käyttäjä
+block machine operator,koneenhoitaja, betoniharkkojen valukone
+blogger,bloggaaja
+blow moulding machine operator,puhallusmuovauskoneen hoitaja
+boat rigger,laiteasentaja, veneet
+boatswain,pursimies
+body artist,kehotaiteilija
+bodyguard,henkivartija
+boiler operator,lämmityskattilan hoitaja
+boilermaker,levyseppä-hitsaaja, kattilat
+bomb disposal technician,pomminpurkaja
+book editor,kustannustoimittaja
+book publisher,kustantaja
+book restorer,kirjojen entisöijä
+book-sewing machine operator,sitomakoneenkäyttäjä
+bookkeeper,kirjanpitäjä
+bookmaker,vedonvälittäjä
+bookshop manager,johtaja, kirjakauppa
+bookshop specialised seller,kirjamyyjä
+boom operator,puomittaja
+boring machine operator,aarporaaja
+botanical technician,laborantti, kasvitiede
+botanicals specialist,kasvitiedespesialisti
+botanist,kasvitieteilijä
+boxing instructor,nyrkkeilyvalmentaja
+braiding machine operator,punontakoneenkäyttäjä
+braiding textile technician,koneenhoitaja, punosten valmistus
+branch manager,toimialajohtaja
+brand manager,tuotemerkkipäällikkö
+brazier,kovajuottaja
+brew house operator,panimonhoitaja
+brewmaster,oluenpanon valvoja
+brick and tile caster,tiilityöntekijä
+bricklayer,muurari
+bricklaying supervisor,työnjohtaja, muuraus
+bridge construction supervisor,työnjohtaja, siltojen rakentaminen
+bridge inspector,sillantarkastaja
+brigadier,prikaatikenraali
+briquetting machine operator,briketöintikoneenkäyttäjä
+broadcast news editor,toimituspäällikkö
+broadcast technician,lähetysteknikko
+broadcasting programme director,ohjaaja, televisio- ja radio-ohjelmat
+brokerage firm director,arvopaperivälitysliikkeen  johtaja
+brush maker,harjantekijä
+budget analyst,budjettianalyytikko
+budget manager,taloushallintojohtaja
+building caretaker,kiinteistöhuollon työntekijä
+building cleaner,laitossiivooja
+building construction worker,rakennusalan avustava työntekijä
+building electrician,rakennussähköasentaja
+building exterior cleaner,rakennussiivooja
+building inspector,rakennustarkastaja
+building materials shop manager,johtaja, rakennusmateriaalien ja -tarvikkeiden erikoisliike
+building materials specialised seller,myyjä, rakennustarvikkeet
+bulk filler,bulkkitäyttäjä
+bulldozer operator,puskutraktorinkuljettaja
+bus driver,linja-autonkuljettaja
+bus driving instructor,linja-autonkuljettajien kouluttaja
+bus route supervisor,ajojärjestelijä, linja-autoliikenne
+business administration vocational teacher,ammatillinen opettaja, liiketalous
+business analyst,liiketoiminta-analyytikko
+business and marketing vocational teacher,ammatillinen opettaja, yritystoiminta ja markkinointi
+business coach,business coach
+business consultant,liiketoimintakonsultti
+business developer,liiketoiminnan kehittäjä
+business economics researcher,liiketaloustieteen tutkija
+business intelligence manager,liiketoimintatiedon päällikkö
+business journalist,taloustoimittaja
+business lecturer,liiketalouden lehtori
+business manager,liiketoimintajohtaja
+business service manager,yrityspalvelujohtaja
+business studies and economics teacher secondary school,liiketalouden ja taloustieteen opettaja, yläluokat ja lukio
+business valuer,erityisasiantuntija, yritysten arvonmääritys
+butcher,lihakauppias
+cabin crew instructor,matkustamomiehistön kouluttaja
+cabin crew manager,purseri
+cabinet maker,huonekalupuuseppä
+cable jointer,kaapeliasentaja
+cacao bean roaster,kaakaopapujen paahtaja
+cacao beans cleaner,kaakaopapujen puhdistaja
+cadastral technician,maanmittausinsinööri
+cake press operator,puristuskoneenhoitaja
+calculation engineer,laskentainsinööri
+calibration technician,asiantuntija, kalibrointi
+call centre agent,myyjä, puhelin- ja asiakaspalvelukeskus
+call centre analyst,analyytikko, puhelinpalvelukeskus
+call centre manager,päällikkö, puhelinpalvelukeskus
+call centre quality auditor,laadunarvioija, puhelinpalvelukeskus
+call centre supervisor,esimies, puhelinpalvelukeskus
+camera operator,operoiva kuvaaja
+campaign canvasser,kampanjatyöntekijä
+camping ground manager,leirintäalueen päällikkö
+camping ground operative,leirintäalueen hoitaja
+candle maker,kynttiläntekijä
+candy machine operator,makeiskoneen käyttäjä
+canning and bottling line operator,purkitus- ja pullotuslinjan työntekijä
+canvas goods assembler,kokoonpanija, purjekangastuotteet
+capsule filling machine operator,kapselointikoneenhoitaja
+car driving instructor,liikenneopettaja
+car leasing agent,leasingtoimittaja, autot
+carbonation operator,karbonointityöntekijä
+care at home worker,kotihoidon ohjaaja
+career guidance advisor,urakonsultti
+cargo vehicle driver,tavaraliikenteen kuljettaja
+carpenter,kirvesmies
+carpenter supervisor,työnjohtaja, rakennusalan puutyöt
+carpet fitter,mattoasentaja
+carpet handicraft worker,matontekijä
+carpet weaver,matonkutoja
+carriage driver,hevosvaunun kuljettaja
+cartographer,erityisasiantuntija, kartoitus
+cartoonist,pilapiirtäjä
+case administrator,tuomioistuinlakimies
+cashier,kassanhoitaja
+casino cashier,kassanhoitaja, kasino
+casino gaming manager,vuoropäällikkö, kasino
+casino pit boss,pelinvalvoja, kasino
+casting director,roolittaja
+casting machine operator,valukoneenhoitaja
+casting mould maker,valumallinrakentaja
+catcher,siipikarjan pyydystäjä
+category manager,tuoteryhmäjohtaja
+cattle breeder,karjankasvattaja
+cattle pedicure,sorkanhoitaja
+ceiling installer,sisäkattoasentaja
+cellar operator,käymiskellarin hoitaja
+cemetery attendant,hautausmaatyöntekijä
+central bank governor,keskuspankin pääjohtaja
+centrifuge operator,sentrifugin käyttäjä
+ceramic painter,keramiikkamaalari
+ceramicist,keramiikkataiteilija
+chain making machine operator,ketjukoneenkäyttäjä
+chaplain,kappalainen, katolinen kirkko
+checkout supervisor,kassaesimies
+chef,keittiömestari
+chemical application specialist,tuotekehittelykemisti
+chemical engineer,kemian insinööri
+chemical engineering technician,kemian prosessitekniikan asiantuntija
+chemical manufacturing quality technician,laadunvalvoja, kemiantekniikka
+chemical metallurgist,kemisti-metallurgi
+chemical mixer,kemikaalisekoittaja
+chemical plant control room operator,valvomonhoitaja, kemikaalilaitos
+chemical plant manager,kemiantehtaan johtaja
+chemical processing plant controller,kemianteollisuuden prosessinhoitaja
+chemical processing supervisor,työnjohtaja, kemianteollisuus
+chemical production manager,tuotantojohtaja, kemianteollisuus
+chemical products distribution manager,jakelujohtaja, kemialliset tuotteet
+chemical tester,kemiallinen testaaja, metallien tuotanto
+chemist,kemisti
+chemistry lecturer,kemian lehtori
+chemistry teacher secondary school,kemianopettaja, yläluokat ja lukio
+chemistry technician,tutkimusavustaja, kemia
+chief ICT security officer,tietoturvajohtaja
+chief conductor,johtava konduktööri
+chief data officer,datajohtaja
+chief executive officer,toimitusjohtaja
+chief fire officer,palopäällikkö
+chief information officer,tiedotuspäällikkö
+chief marketing officer,markkinointijohtaja
+chief operating officer,operatiivinen johtaja
+chief technology officer,teknologiajohtaja
+child care coordinator,lastenhoitopalvelujen koordinaattori
+child care social worker,sosiaalityöntekijä, lapset
+child care worker,lastenhoitaja
+child day care centre manager,päivähoidon johtaja
+child day care worker,lastenhoitaja, päiväkoti
+child welfare worker,lastensuojelun sosiaaliohjaaja
+chilling operator,jäähdyttämötyöntekijä
+chimney sweep,nuohooja
+chimney sweep supervisor,nuohousesimies
+china and glassware distribution manager,jakelujohtaja, posliini ja lasitavara
+chipper operator,hakkeenvalmistaja
+chiropractic assistant,kiropraktikon sihteeri
+chiropractor,kiropraktikko
+chocolate moulding operator,suklaan muotoilutyöntekijä
+chocolatier,suklaanvalmistaja
+choirmaster/choirmistress,kuoronjohtaja
+choreographer,koreografi
+choreologist,koreologi
+chromatographer,tekninen asiantuntija, kromatografia
+cider fermentation operator,siiderin käymisen valvoja
+cider master,siiderimestari
+cigar brander,sikarien merkitsijä
+cigar inspector,sikarintarkastaja
+cigarette making machine operator,savukekoneen käyttäjä
+circus artist,sirkustaiteilija
+circus arts teacher,sirkusopettaja
+city councillor,kaupunginvaltuuston jäsen
+civil drafter,suunnitteluavustaja, maa- ja vesirakentaminen
+civil enforcement officer,pysäköinnintarkastaja
+civil engineer,maa- ja vesirakennusinsinööri
+civil engineering technician,rakennusmestari, maa- ja vesirakentaminen
+civil engineering worker,maa- ja vesirakentamisen avustava työntekijä
+civil registrar,rekisterisihteeri, väestörekisteri
+civil service administrative officer,hallintovirkamies
+clarifier,puhdistusseparaattorin käyttäjä
+classical languages lecturer,klassisten kielten lehtori
+classical languages teacher secondary school,klassisten kielten opettaja, yläluokat ja lukio
+clay kiln burner,uuninhoitaja, tiilet ja laatat
+clay products dry kiln operator,kuivausuuninhoitaja, keramiikka
+client relations manager,asiakaspalvelupäällikkö
+climatologist,klimatologi
+clinical coder,potilastietojen koodaaja
+clinical informatics manager,tietojärjestelmäjohtaja, terveydenhoitolaitos
+clinical perfusion scientist,perfuusiohoitaja
+clinical psychologist,kliininen psykologi
+clinical social worker,sosiaalityöntekijä, kliininen sosiaalityö
+cloak room attendant,vaatenaulakon hoitaja
+clock and watchmaker,kelloseppä, kellojen valmistus
+clothing CAD patternmaker,mallimestari, CAD
+clothing CAD technician,CAD-piirtäjä, vaatteet
+clothing alteration machinist,korjausompelija
+clothing and footwear distribution manager,jakelujohtaja, vaatetus-  ja jalkineala
+clothing cutter,leikkaaja, vaatteet
+clothing development manager,tuotekehitysjohtaja, vaateala
+clothing fashion designer,vaatesuunnittelija
+clothing finisher,tekstiili- ja vaatetusalan viimeistelytyöntekijä
+clothing operations manager,toiminnanjohtaja, vaateteollisuus
+clothing process control technician,prosessivalvonnan asiantuntija, vaatetusteollisuus
+clothing product grader,kaavanpiirtäjä, sarjonta
+clothing quality inspector,tuotetarkastaja, vaatteet
+clothing sample machinist,malliompelija
+clothing shop manager,johtaja, vaateliike
+clothing specialised seller,vaatemyyjä
+clothing technologist,vaatetusteknikko
+club host/club hostess,klubi-isäntä/klubiemäntä
+co-pilot,lentoperämies
+coachbuilder,korinrakentaja, ajoneuvot
+coagulation operator,prosessityöntekijä, koagulointi
+coastguard watch officer,rannikkovartija
+coating machine operator,pintakäsittelijä, metalliteollisuus
+cocktail bartender,cocktail-baarimikko
+cocoa mill operator,kaakaomyllyn hoitaja
+cocoa press operator,kaakaopuristimen käyttäjä
+coffee grinder,kahvimyllynkäyttäjä
+coffee roaster,kahvin paahtaja
+coffee taster,kahvinmaistaja
+coffee, tea, cocoa and spices distribution manager,jakelujohtaja, kahvi, tee, kaakao ja mausteet
+coking furnace operator,prosessinhoitaja, koksiuuni
+collection manager,kokoelma-amanuenssi
+colonel,eversti
+colour sampling operator,nahanvärjääjä
+colour sampling technician,tekninen asiantuntija, värien sekoittaminen
+columnist,kolumnisti
+commercial art gallery manager,taidegallerian johtaja
+commercial director,kaupallinen johtaja
+commercial pilot,ansiolentäjä
+commercial sales representative,myyntiedustaja
+commissioning engineer,käyttöönottoinsinööri
+commissioning technician,asiantuntija, käyttöönotto
+commodity broker,kauppa-agentti
+commodity trader,kaupanvälittäjä
+communication infrastructure maintainer,viestintäinfrastruktuurin ylläpitäjä
+communication manager,viestintäjohtaja
+communication scientist,viestinnän tutkija
+communications lecturer,viestinnän lehtori
+community artist,yhteisötaiteilija
+community care case worker,palvelukoordinaattori, kotihoito
+community development officer,kehittäjä, paikallisyhteisöt
+community development social worker,sosiaalityöntekijä, yhteisökehittäminen
+community health worker,terveysneuvoja
+community social worker,sosiaalityöntekijä, yhteisöt
+companion,henkilökohtainen palvelija
+competition policy officer,vastuuvirkamies, kilpailu
+complementary therapist,vaihtoehtohoitaja
+compliance engineer,insinööri, vaatimustenmukaisuuden noudattaminen
+component engineer,komponentti-insinööri
+composer,säveltäjä
+compression moulding machine operator,muottipuristimen hoitaja
+computer and accessories specialised seller,myyjä, tietokoneet ja tarvikkeet
+computer games, multimedia and software specialised seller,myyjä, tietokonepelit, multimedialaitteet ja ohjelmistot
+computer hardware engineer,insinööri, tietokonelaitteistot
+computer hardware engineering technician,asiantuntija, tietokonelaitteistot
+computer hardware repair technician,tietokoneasentaja
+computer hardware test technician,testaaja, tietokonelaitteistot
+computer numerical control machine operator,cnc-koneistaja
+computer science lecturer,tietojenkäsittelytieteen lehtori
+computer scientist,tietojenkäsittelytieteilijä
+computer shop manager,johtaja, tietokoneliike
+computer software and multimedia shop manager,johtaja, tietokoneohjelmistojen ja multimedian erikoisliike
+computer-aided design operator,suunnitteluavustaja, tietokoneavusteinen suunnittelu
+computers, computer peripheral equipment and software distribution manager,jakelujohtaja,  tietokoneet ja niiden oheislaitteet ja ohjelmistot
+conceptual artist,taiteilija, käsitetaide
+concrete finisher,betonirakentaja, viimeistely
+concrete finisher supervisor,työnjohtaja, betonityöt
+concrete products machine operator,betonituotetyöntekijä
+concrete pump operator,betonipumppuauton kuljettaja
+confectioner,sokerileipuri
+confectionery shop manager,johtaja, makeistuotteiden erikoisliike
+confectionery specialised seller,myyjä, makeiset
+conservation scientist,erityisasiantuntija, luonnonvarojen suojelu ja hoito
+conservator,konservaattori
+construction commercial diver,sukeltaja, maa- ja vesirakennus
+construction engineer,rakennusinsinööri
+construction equipment technician,koneasentaja, rakennus- ja metsätyökoneet
+construction general contractor,hankejohtaja, rakennustoiminta
+construction general supervisor,työnjohtaja, rakennustoiminta
+construction manager,rakennusjohtaja
+construction painter,rakennusmaalari
+construction painting supervisor,työnjohtaja, maalaustyöt
+construction quality inspector,laadunvalvoja, rakentaminen
+construction quality manager,laatupäällikkö, rakentaminen
+construction safety inspector,turvallisuuskoordinaattori, rakennukset
+construction safety manager,työturvallisuuspäällikkö, rakennustyömaat
+construction scaffolder,rakennustelineasentaja
+construction scaffolding supervisor,työnjohtaja, rakennustelineiden asentaminen ja purku
+consul,konsuli
+consultant social worker,sosiaalityön kehittäjä
+consumer electronics repair technician,elektroniikkakorjaaja, kulutuselektroniikka
+consumer goods inspector,tarkastaja, kulutustavarat
+consumer rights advisor,kuluttajaoikeusneuvoja
+contact centre manager,yhteyskeskuksen johtaja
+contact centre supervisor,esimies, yhteyskeskus
+container crane operator,konttinosturinkuljettaja
+container equipment assembler,levyseppä-hitsaaja, säiliöt
+container equipment assembly supervisor,työnjohtaja, kattiloiden ja paineastioiden kokoonpano
+container equipment design engineer,suunnitteluinsinööri, säiliöt
+contract engineer,sopimusinsinööri
+control panel assembler,ohjaustaulujen kokoonpanija
+control panel tester,testaaja, ohjaustaulut
+conveyance clerk,luovutuskirjoja laativa notaari
+cook,kokki
+cooper,tynnyrintekijä
+coppersmith,kupariseppä
+copy editor,kielentarkastaja
+coquille casting worker,kokillimuottivalaja
+coroner,kuolemansyyntutkija
+corporate banking manager,erityisasiantuntija, yrityspankkitoiminta
+corporate investment banker,sijoitusneuvoja, yritykset
+corporate lawyer,yrityslakimies
+corporate social responsibility manager,yritysvastuujohtaja
+corporate trainer,yrityskouluttaja
+corporate training manager,yrityksen koulutuspäällikkö
+corporate treasurer,treasury-toimintojen johtaja
+correctional services manager,johtaja, rikosseuraamuslaitos
+corrosion technician,asiantuntija, korroosionsuojaus
+corrugator operator,aaltopahvikoneenhoitaja
+cosmetic chemist,kosmetiikkakemisti
+cosmetics and perfume shop manager,johtaja, kosmetiikka- ja hajuvesiliike
+cosmetics and perfume specialised seller,myyjä, kosmetiikka
+cosmetics production machine operator,koneenhoitaja, kosmetiikan valmistus
+cosmologist,kosmologi
+cost analyst,kustannusanalyytikko
+costume attendant,pukuhuoltaja
+costume buyer,ostaja, valmisvaatteet
+costume designer,pukusuunnittelija
+costume maker,puvustaja
+cotton gin operator,koneenhoitaja, puuvillakuitujen valmistelu
+countryside officer,luontoalueiden hoitaja
+court administrative officer,käräjäsihteeri
+court administrator,tuomioistuimen hallintovirkamies
+court bailiff,haastemies
+court clerk,käräjänotaari
+court enforcement officer,ulosottomies
+court jury coordinator,koordinaattori, valamiehistöt
+court reporter,pöytäkirjanpitäjä
+craft shop manager,johtaja, askartelu- ja käsityöliike
+crane crew supervisor,työnjohtaja, nosturityöt
+crane technician,koneasentaja, nosturit
+creative director,luovan suunnittelun päällikkö
+credit adviser,luottoneuvoja
+credit analyst,luottoanalyytikko
+credit manager,luottopäällikkö
+credit risk analyst,luottoriskianalyytikko
+credit union manager,luotto-osuuskunnan johtaja
+crime journalist,rikostoimittaja
+criminal investigator,rikoskomisario
+criminal justice social worker,sosiaalityöntekijä, rikosseuraamusala
+criminologist,kriminologi
+crisis helpline operator,puhelinauttaja
+crisis situation social worker,sosiaalityöntekijä, kriisityö
+critic,kriitikko
+crop production manager,maatilanjohtaja
+crop production worker,maataloustuotannon työntekijä
+crosscut saw operator,katkaisusahaaja
+crossing guard,suojatiepäivystäjä
+crowd controller,järjestyksenvalvoja
+cultural centre director,kulttuurikeskuksen johtaja
+cultural facilities manager,kulttuuripalvelujohtaja
+cultural policy officer,vastuuvirkamies, kulttuuri
+curator of horticulture,kasvitieteellisen puutarhan kuraattori
+curing room worker,tupakan kuivatushuoneen työntekijä
+curriculum administrator,opetussuunnitelmakoordinaattori
+customer contact centre information clerk,puhelinpalveluneuvoja
+customer experience manager,asiakaskokemuspäällikkö
+customer service representative,asiakaspalveluedustaja
+customs and excise officer,tullaaja
+customs officer,tullitarkastaja
+cutting machine operator,koneenkäyttäjä, leikkaus ja meistaus
+cylinder filler,kaasupullojen ja -säiliöiden täyttäjä
+cylindrical grinder operator,pyöröhioja
+cytology screener,bioanalyytikko, sytologia
+dairy processing operator,meijerituotteiden käsittelijä
+dairy processing technician,meijerituotteiden käsittelyteknikko
+dairy products and edible oils distribution manager,jakelujohtaja, maitotuotteet ja ruokaöljyt
+dairy products maker,meijeristi
+dairy products manufacturing worker,meijerituotteiden valmistustyöntekijä
+dance répétiteur,harjoittaja, tanssi
+dance teacher,tanssinopettaja
+dance therapist,tanssiterapeutti
+dancer,tanssitaiteilija
+dangerous goods driver,vaarallisten aineiden kuljettaja
+dangerous goods safety adviser,neuvonantaja, vaarallisten aineiden kuljetukset
+data analyst,data-analyytikko
+data centre operator,tietokonekeskuksen hoitaja
+data entry clerk,tietojen syöttäjä
+data entry supervisor,esimies, tietotallennus
+data quality specialist,IT-laadunvarmistuksen asiantuntija
+data scientist,datatutkija
+data warehouse designer,tietovarastosuunnittelija
+database administrator,tietokannan ylläpitäjä
+database designer,tietokantasuunnittelija
+database developer,tietokannan kehittäjä
+database integrator,tietokantojen yhdistäjä
+dating service consultant,seuranhakupalvelun työntekijä
+dean of faculty,dekaani
+debarker operator,kuorimakoneenhoitaja
+debt collector,maksujenperijä
+deburring machine operator,purseenpoistokoneen hoitaja
+deck officer,yliperämies
+decksman,kansimies
+decontamination worker,puhdistustyöntekijä, vaaralliset aineet
+decorative painter,koristemaalari
+deep-sea fishery worker,kalastustyöntekijä, syvänmerenkalastus
+defence administration officer,esikuntaupseeri, puolustuslaitoksen hallintotehtävät
+delicatessen shop manager,johtaja, herkkutuotteiden erikoisliike
+delicatessen specialised seller,myyjä, herkkutuotteet
+delivery driver,lähettiautonkuljettaja
+demographer,väestötieteilijä
+demolition supervisor,työnjohtaja, purkutyöt
+demolition worker,purkutyöntekijä, rakennukset
+dental chairside assistant,hammaslääkärin avustaja
+dental hygienist,suuhygienisti
+dental instrument assembler,hammaslääkinnässä käytettävien kojeiden kokoonpanija
+dental practitioner,hammaslääkäri
+dental technician,hammasteknikko
+dentistry lecturer,hammaslääketieteen lehtori
+department manager,osastonjohtaja
+department store manager,tavaratalonjohtaja
+deputy head teacher,apulaisrehtori
+derrickhand,öljynporaaja, porausputkien ohjaus
+desalination technician,asiantuntija, suolanpoisto
+design and applied arts vocational teacher,ammatillinen opettaja, muotoilu ja käsityö
+design engineer,suunnitteluinsinööri
+desktop publisher,taittaja, desktop publishing
+destination manager,kohdepäällikkö
+dewatering technician,kaivostyöntekijä, vedenpoisto
+diagnostic radiographer,röntgenhoitaja, diagnostiikka
+diesel engine mechanic,dieselasentaja
+diet cook,dieettikokki
+dietetic technician,ravitsemushoitaja
+dietitian,dieteetikko
+digester operator,massankeittäjä
+digital artist,digitaalinen taiteilija
+digital forensics expert,tietotekniikkarikostutkija
+digital games designer,pelisuunnittelija
+digital games developer,digitaalisten pelien kehittäjä
+digital games tester,digitaalisten pelien testaaja
+digital literacy teacher,opettaja, digitaalinen lukutaito
+digital media designer,digitaalisen median suunnittelija
+digital printer,digitaalipainaja
+digital prototyper,kaavanpiirtäjä, kaavojen digitalisointi
+dip tank operator,kastoaltaanhoitaja
+diplomat,diplomaatti
+director of compliance and information security in gambling,rahapelitoiminnan sääntelyn noudattamisesta ja tietoturvasta vastaava johtaja
+director of photography,kuvauspäällikkö
+disability support worker,sosiaaliohjaaja, fyysisesti tai psyykkisesti vammaiset
+disc jockey,DJ
+dismantling engineer,käytöstäpoistoinsinööri
+dismantling supervisor,työnjohtaja, käytöstäpoisto- ja purkutyöt
+dismantling worker,purkutyöntekijä
+distillation operator,öljyntislaaja
+distillery miller,tislaamonhoitaja
+distillery supervisor,tislaamon valvoja
+distillery worker,tislaamotyöntekijä
+distribution centre dispatcher,tavaranlähettäjä, jakelukeskus
+distribution manager,jakelujohtaja
+dividend analyst,erityisasiantuntija, osingot
+doctors' surgery assistant,lääkärivastaanoton avustaja
+dog breeder,koirankasvattaja
+dog trainer,koirankouluttaja
+doll maker,nukentekijä
+domestic appliances shop manager,johtaja, kodinkoneliike
+domestic appliances specialised seller,myyjä, kodinkoneet
+domestic butler,butler, yksityiskoti
+domestic cleaner,kotisiivooja
+domestic electrician,sähköasentaja, kotitaloudet
+domestic energy assessor,energianeuvoja, kotitaloudet
+domestic housekeeper,taloudenhoitaja, yksityiskoti
+door installer,oviasentaja
+door supervisor,eteisvahtimestari
+door to door seller,suoramyyjä
+doorman/doorwoman,ovimies/ovinainen
+drafter,suunnitteluavustaja
+drain technician,LVI-asentaja, viemäröinti
+drainage engineer,vesihuoltoinsinööri, viemärijärjestelmät
+drainage worker,maankuivatuksen ja ojituksen avustava työntekijä
+drama teacher,draamaopettaja
+drama teacher secondary school,draamaopettaja, yläluokat ja lukio
+dramaturge,dramaturgi
+drapery and carpet cleaner,verhojen ja mattojen pesijä
+drawing artist,piirrostaiteilija
+drawing kiln operator,uuninhoitaja, tasolasin valmistus
+dredge operator,ruoppauskoneenkuljettaja
+dredging supervisor,työnjohtaja, ruoppaus
+dresser,puvustonhoitaja
+dressmaker,pukuompelija
+drill operator,koneenhoitaja, poraus ja kairaus
+drill press operator,työstökoneenkäyttäjä, porakoneet
+driller,poraaja
+drilling engineer,porausinsinööri
+drilling machine operator,porakoneenhoitaja
+driving instructor,ajo-opettaja
+drop forging hammer worker,takomotyöntekijä
+drug and alcohol addiction counsellor,päihdehuollon sosiaalityöntekijä
+drugstore manager,johtaja, apteekki-,  kemikaali- ja kotitaloustuotteiden erikoisliike
+dry house attendant,prosessityöntekijä, ilotulitusvälineiden kuivatus ja varastointi
+dry press operator,kuivapuristimenhoitaja
+dryer attendant,kuivausvastaava
+e-learning architect,verkko-oppimisen arkkitehti
+e-learning developer,sähköisen oppimateriaalin kehittäjä
+eBusiness manager,verkkokauppajohtaja
+early years special educational needs teacher,erityislastentarhanopettaja
+early years teacher,lastentarhan opettaja
+early years teaching assistant,koulunkäynninohjaaja, esiopetus
+earth science lecturer,geotieteen lehtori
+ecologist,ekologi
+economic adviser,analyytikko
+economic development coordinator,elinkeinokoordinaattori
+economic policy officer,vastuuvirkamies, talous
+economics lecturer,taloustieteen lehtori
+economist,kansantaloustieteilijä
+edge bander operator,reunalistoituskoneen käyttäjä
+editor-in-chief,päätoimittaja
+editorial assistant,toimitussihteeri
+education administrator,opintosihteeri
+education inspector,koulutoimentarkastaja
+education policy officer,vastuuvirkamies, koulutus
+education programme coordinator,koulutusohjelmakoordinaattori
+education studies lecturer,kasvatustieteen lehtori
+education welfare officer,koulukuraattori
+educational counsellor,oppilaanohjaaja
+educational psychologist,koulupsykologi
+educational researcher,koulutustutkija
+elderly home manager,vanhainkodin johtaja
+election agent,kampanjapäällikkö
+election observer,vaalitarkkailija
+electric meter technician,sähköasentaja, sähkömittarit
+electric power generation engineer,insinööri, sähkövoiman tuotanto
+electrical cable assembler,sähkökaapelien kokoonpanija
+electrical drafter,suunnitteluavustaja, sähkö
+electrical engineer,sähköinsinööri
+electrical engineering technician,sähkötekniikan asiantuntija
+electrical equipment assembler,sähkölaitteiden kokoonpanija
+electrical equipment inspector,tarkastaja, sähkölaitteet
+electrical equipment production supervisor,työnjohtaja, sähkölaitteiden tuotanto
+electrical household appliances distribution manager,jakelujohtaja,  sähköiset kodinkoneet
+electrical mechanic,sähkölaiteasentaja
+electrical power distributor,prosessinhoitaja, sähkövoiman jakelu
+electrical supervisor,työnjohtaja, sähkötyöt
+electrical transmission system operator,prosessinhoitaja, sähkövoiman siirto
+electrician,sähköasentaja
+electricity and energy vocational teacher,ammatillinen opettaja, sähkö ja energia
+electricity distribution worker,sähköverkkoasentaja
+electricity sales representative,myyntiedustaja, sähkö
+electrolytic cell maker,teollinen pintakäsittelijä, elektrolyyttinen pinnoitus
+electromagnetic engineer,insinööri, sähkömagnetiikka
+electromechanical drafter,suunnitteluavustaja, sähkömekaaninen tekniikka
+electromechanical engineer,insinööri, sähkömekaaninen tekniikka
+electromechanical engineering technician,asiantuntija, sähkömekaaninen tekniikka
+electromechanical equipment assembler,sähkömekaanisten laitteiden kokoonpanija
+electron beam welder,hitsaaja, sädehitsaus
+electronic and telecommunications equipment and parts distribution manager,jakelujohtaja,  elektroniset laitteet, tietoliikennelaitteet ja osat
+electronic equipment assembler,elektroniikkalaitteiden kokoonpanija
+electronic equipment inspector,tarkastaja, elektroniset laitteet
+electronic musical instrument maker,sähkösoittimien kokoonpanija
+electronics and automation vocational teacher,ammatillinen opettaja, elektroniikka ja automaatio
+electronics drafter,suunnitteluavustaja, elektroniikka
+electronics engineer,elektroniikkainsinööri
+electronics engineering technician,elektroniikka-asiantuntija
+electronics production supervisor,työnjohtaja, elektroniikkalaitteiden valmistus
+electroplating machine operator,galvanoija, metalliteollisuus
+embalmer,palsamoija
+embassy counsellor,lähetystöneuvos
+embedded system designer,sulautettujen järjestelmien suunnittelija
+embedded systems software developer,sulautettujen järjestelmien ohjelmistokehittäjä
+embroiderer,koruompelija
+embroidery machine operator,teollisuusompelija, koruompelu
+emergency ambulance driver,sairaankuljettaja
+emergency medical dispatcher,hätäkeskuspäivystäjä
+emergency response coordinator,valmiuskoordinaattori
+emergency response worker,pelastustyöntekijä
+employment agent,asiantuntija, työvoimapalvelut
+employment and vocational integration consultant,työhönvalmentaja
+employment programme coordinator,koordinaattori, työllisyysohjelmat
+employment support worker,työkuraattori
+enameller,emalityöntekijä
+energy analyst,energia-asiantuntija
+energy assessor,asiantuntija, energiatodistus
+energy conservation officer,energiatehokkuusneuvoja
+energy consultant,energianeuvoja
+energy engineer,energiainsinööri
+energy manager,energiajohtaja
+energy systems engineer,insinööri, energiajärjestelmät
+energy trader,kauppias, energiamarkkinat
+engine designer,moottori-insinööri
+engine minder,kansi-konemies
+engineered wood board grader,luokittelija, puulevyt
+engineered wood board machine operator,kuitulevytyöntekijä
+engineering assistant,tekninen avustaja
+engineering lecturer,insinööritieteiden lehtori
+engraving machine operator,työstökoneenkäyttäjä, kaiverrus
+enterprise architect,yritysarkkitehti
+enterprise development worker,yrityskehittäjä, työhyvinvointi
+entertainment journalist,viihdetoimittaja
+envelope maker,kuorikoneenhoitaja
+environmental education officer,ympäristökasvattaja
+environmental engineer,ympäristöinsinööri
+environmental expert,ympäristöasiantuntija
+environmental geologist,ympäristögeologi
+environmental health inspector,ympäristönsuojelutarkastaja
+environmental mining engineer,ympäristöinsinööri, kaivosteollisuus
+environmental policy officer,vastuuvirkamies, ympäristö
+environmental programme coordinator,ympäristöohjelmakoordinaattori
+environmental protection manager,ympäristönsuojelujohtaja
+environmental scientist,ympäristötutkija
+environmental technician,tekninen asiantuntija, ympäristövaikutukset
+epidemiologist,epidemiologi
+equality and inclusion manager,tasa-arvo- ja yhdenvertaisuusjohtaja
+equine dental technician,hevosten hammasteknikko
+equine worker,hevostyöntekijä
+equine yard manager,hevostilanhoitaja
+equipment engineer,kalustoinsinööri
+ergonomist,ergonomi
+escort,seuralainen
+ethical hacker,eettinen hakkeri
+event assistant,tapahtuma-avustaja
+event electrician,sähköasentaja, tapahtumat
+event manager,tapahtumapäällikkö
+event scaffolder,telineasentaja, tapahtumat
+excavator operator,kaivinkoneenkuljettaja
+executive assistant,johdon assistentti
+exhibition curator,näyttelykuraattori
+exhibition registrar,arkistonhoitaja, näyttelyt ja museot
+exploration geologist,malminetsintägeologi
+explosives engineer,räjäytystyön johtaja
+extra,statisti
+extract mixer tester,maustesekoitusten testaaja
+extrusion machine operator,suulakepuristuskoneenhoitaja
+eyewear and optical equipment shop manager,johtaja, silmälasien ja optisten tuotteiden erikoisliike
+eyewear and optical equipment specialised seller,myyjä, silmälasit ja optiset tuotteet
+facilities manager,toimitilajohtaja
+fact checker,faktantarkistaja
+factory hand,valmistusalan avustava työntekijä
+family planning counsellor,perhesuunnitteluneuvoja
+family social worker,sosiaalityöntekijä, perhetyö
+family support worker,perheohjaaja
+farm manager,maatilanhoitaja
+farm milk controller,maidontarkastaja
+farrier,kengittäjä
+fashion designer,muotisuunnittelija
+fashion model,malli
+fat-purification worker,rasvan puhdistustyöntekijä
+fermenter operator,prosessityöntekijä, fermentointi
+fertiliser mixer,lannoitteensekoittaja
+fiberglass laminator,lasikuitulaminoitsija
+fibre machine tender,kuidunvetäjä
+fibreglass machine operator,lasikuitukoneen hoitaja
+field survey manager,kenttätutkimushaastattelija
+fight director,taistelukohtausten ohjaaja
+filament winding operator,kelauskoneenhoitaja
+file clerk,arkistoija
+filigree maker,koruntekijä, filigraanityöt
+filing machine operator,viilaaja
+financial analyst,rahoitusanalyytikko
+financial auditor,tilintarkastaja
+financial broker,välittäjä, rahoitusmarkkinat
+financial controller,financial controller
+financial fraud examiner,tarkastaja, taloudelliset väärinkäytökset
+financial manager,rahoitusjohtaja
+financial markets back office administrator,back office -toimihenkilö, rahoitusmarkkinat
+financial planner,rahoitussuunnittelija
+financial risk analyst,analyytikko, rahoitusriskit
+financial trader,kauppias, rahoitusmarkkinat
+fine arts instructor,kuvataiteen opettaja
+finished leather warehouse manager,varaston johtaja, viimeistellyt nahat
+finishing textile technician,viimeistelytyöntekijä
+fire commissioner,pelastusjohtaja, palosuojelu
+fire inspector,palotarkastaja
+fire prevention and protection engineer,paloturvallisuusinsinööri
+fire protection technician,asiantuntija, palosuojelu
+fire safety tester,paloturvallisuusasiantuntija
+fire service vehicle operator,paloauton kuljettaja
+firefighter,palomies
+firefighter instructor,palomieskouluttaja
+firework assembler,ilotulitusvälinetyöntekijä
+first aid instructor,ensihoitokouluttaja
+fiscal affairs policy officer,vastuuvirkamies, veroasiat
+fish and seafood shop manager,johtaja, kala- ja äyriäistuotteiden erikoisliike
+fish and seafood specialised seller,myyjä, kala- ja äyriäistuotteet
+fish canning operator,kalasäilyketyöntekijä
+fish cook,kalakokki
+fish preparation operator,kalankäsittelijä
+fish production operator,kalantuotantotyöntekijä
+fish trimmer,kalojen leikkaaja
+fish, crustaceans and molluscs distribution manager,jakelujohtaja, kalat, äyriäiset ja nilviäiset
+fisheries adviser,kalatalousneuvoja
+fisheries assistant engineer,moottorimies, kalastusalukset
+fisheries boatman,rannikkokalastaja
+fisheries boatmaster,kalastusaluksen laivuri
+fisheries deckhand,kalastusaluksen työntekijä
+fisheries master,kalastusaluksen päällikkö, iso alus
+fisheries observer,kalastuksenvalvoja
+fisheries refrigeration engineer,jäähdytysmestari, kalastusalus
+fishing net maker,kalaverkontekijä
+fitness instructor,liikunnanohjaaja
+fitter and turner,koneistaja
+fleet commander,laivueen komentaja, merivoimat
+flexographic press operator,fleksopainaja
+flight attendant,stuertti/lentoemäntä
+flight instructor,lennonopettaja
+flight operations officer,lennonselvittäjä
+flight test engineer,koelentoinsinööri
+floor and wall coverings shop manager,johtaja, seinä- ja lattiapäällysteiden erikoisliike
+floor and wall coverings specialised seller,myyjä, seinä- ja lattiapäällysteet
+flour purifier operator,jauhon puhdistustyöntekijä
+flower and garden shop manager,johtaja, kukka- ja puutarhatuotteiden erikoisliike
+flower and garden specialised seller,myyjä, kukka- ja puutarhatuotteet
+flowers and plants distribution manager,jakelujohtaja, kukat ja muut kasvit
+fluid power engineer,insinööri, pneumaattiset ja hydrauliset laitteet
+fluid power technician,koneasentaja, hydrauliset ja pneumaattiset laitteet
+flying director,lentokohtausten ohjaaja
+foam rubber mixer,vaahtokumin sekoittaja
+followspot operator,valo-operaattori, seurantavalo
+food analyst,elintarvikeanalyytikko
+food and beverage packaging technologist,elintarvikkeiden ja juomien pakkausteknikko
+food biotechnologist,elintarvikealan mikrobiologi
+food grader,laaduntarkkailija, elintarvikkeet
+food production engineer,elintarviketuotantoinsinööri
+food production manager,elintarvikkeiden tuotantopäällikkö
+food production operator,elintarviketuotantotyöntekijä
+food production planner,elintarvikkeiden tuotannon suunnittelija
+food regulatory advisor,elintarvikevalvoja
+food safety inspector,elintarvikkeiden turvallisuuden tarkastaja
+food safety specialist,elintarviketurvallisuuden erityisasiantuntija
+food science lecturer,elintarviketieteiden lehtori
+food service vocational teacher,ammatillinen opettaja, ruokapalvelu
+food technician,elintarviketeknikko
+food technologist,elintarviketeknologi
+football coach,jalkapallovalmentaja
+footwear CAD patternmaker,CAD-kaavanpiirtäjä, jalkineet
+footwear assembly supervisor,työnjohtaja, jalkineiden kokoonpano
+footwear designer,jalkinesuunnittelija
+footwear factory warehouse operator,varastonhoitaja, kenkätehdas
+footwear finishing and packing operator,jalkineiden viimeistelijä ja pakkaaja
+footwear hand sewer,jalkineompelija
+footwear maintenance technician,huoltotyöntekijä, jalkineteollisuus
+footwear patternmaker,kaavanpiirtäjä, jalkineet
+footwear product developer,tuotesuunnittelija, jalkineet
+footwear product development manager,tuotekehitysjohtaja, jalkineet
+footwear production machine operator,jalkinetyöntekijä
+footwear production manager,tuotantojohtaja, jalkineteollisuus
+footwear production supervisor,työnjohtaja, jalkinetuotanto
+footwear production technician,tuotannonsuunnittelija, jalkineet
+footwear quality control laboratory technician,laboratorioavustaja, jalkineiden laadunvalvonta
+footwear quality controller,laaduntarkastaja, jalkineet
+footwear quality manager,laatupäällikkö, jalkineala
+footwear quality technician,laadunvalvoja, jalkineet
+footwear stitching machine operator,jalkineneuloja
+forecast manager,ennustejohtaja
+foreclosure specialist,neuvonta-asiantuntija, ulosmittausasiat
+foreign affairs officer,vastuuvirkamies, ulkoasiat
+foreign correspondent,ulkomaankirjeenvaihtaja
+foreign exchange broker,valuuttameklari
+foreign exchange cashier,kassanhoitaja, valuutanvaihto
+foreign exchange trader,kauppias, valuuttamarkkinat
+foreign language correspondence clerk,toimistosihteeri, ulkomaan kirjeenvaihto
+forest ranger,metsänvartija
+forest worker,metsuri
+forester,metsänhoitaja
+forestry adviser,metsänhoitoneuvoja
+forestry equipment operator,metsäkoneiden hoitaja
+forestry inspector,metsätaloustarkastaja
+forestry machinery technician,metsäkoneteknikko
+forestry technician,metsäteknikko
+forge equipment technician,koneasentaja, takomo- ja valimolaitteet
+forklift operator,trukinkuljettaja
+fortune teller,ennustaja
+forwarding manager,huolintapäällikkö
+fossil-fuel power plant operator,prosessinhoitaja, fossiilisia polttoaineita käyttävä voimalaitos
+foster care support worker,sosiaaliohjaaja, sijaishuolto
+foundry manager,valimopäällikkö
+foundry moulder,keernantekijä, metallivalu
+foundry operative,valimotyöntekijä
+fragrance chemist,hajustekemisti
+frame maker,kehystäjä
+freight inspector,rahdintarkastaja
+freight transport dispatcher,ajojärjestelijä, tavaraliikenne
+front line medical receptionist,vastaanoton hoitaja, sairaala, terveyskeskus, lääkäri ym.
+front of house manager,yleisöpalvelupäällikkö, kulttuuriala
+froth flotation deinking operator,prosessityöntekijä, vaahdotussiistaus
+fruit and vegetable canner,hedelmien ja kasvisten tölkittäjä
+fruit and vegetable picker,hedelmien ja vihannesten poimija
+fruit and vegetable preserver,hedelmien ja kasvisten säilöjä
+fruit and vegetables distribution manager,jakelujohtaja, hedelmät ja vihannekset
+fruit and vegetables shop manager,johtaja, hedelmien ja vihannesten erikoisliike
+fruit and vegetables specialised seller,myyjä, hedelmät ja vihannekset
+fruit production team leader,puutarhatyönjohtaja
+fruit-press operator,hedelmänpuristimen käyttäjä
+fuel station manager,johtaja, huoltoasema
+fuel station specialised seller,myyjä, huoltoasema
+fundraising assistant,varainhankinta-assistentti
+fundraising manager,varainhankintapäällikkö
+funeral attendant,kantaja, hautaustoimisto
+funeral services director,hautausneuvonantaja
+fur animals breeder,turkistarhuri
+furniture assembler,huonekalukokooja
+furniture cleaner,huonekalujen siistijä
+furniture designer,huonekalusuunnittelija
+furniture finisher,huonekalujen viimeistelijä
+furniture restorer,huonekalujen entisöijä
+furniture shop manager,johtaja, huonekaluliike
+furniture specialised seller,myyjä, huonekalut
+furniture upholsterer,huonekaluverhoilija
+furniture, carpets and lighting equipment distribution manager,jakelujohtaja, huonekalut, matot ja valaistuslaitteet
+further education principal,alemman korkea-asteen oppilaitoksen rehtori
+further education teacher,aikuiskoulutusopettaja
+futures trader,kauppias, futuurimarkkinat
+gambling manager,kasinon johtaja
+gambling, betting, and lottery game developer,raha-, vedonlyönti- ja arpapelien kehittäjä
+gambling, betting, and lottery games designer,raha-, vedonlyönti- ja arpapelien suunnittelija
+gambling, betting, and lottery quality assurance engineer,laatuinsinööri, raha-, vedonlyönti- ja arpapelit
+game keeper,riistanvalvoja
+games development manager,tuotekehitysjohtaja, peliala
+gaming dealer,pelinhoitaja, kasino
+gaming inspector,rahapelitoiminnan tarkastaja
+garage manager,johtaja, autokorjaamo
+garden labourer,avustava puutarhatyöntekijä
+gas distribution engineer,insinööri, kaasunjakelu
+gas processing plant control room operator,valvomonhoitaja, kaasunjalostuslaitos
+gas processing plant operator,prosessinhoitaja, kaasunjalostuslaitos
+gas processing plant supervisor,prosessinvalvoja, maakaasun ja teollisuuskaasujen tuotanto ja käsittely
+gas production engineer,insinööri, kaasuntuotanto
+gas scheduling representative,aikataulusuunnittelija, kaasunjakelu
+gas service technician,LVI-asentaja, kaasulaitteet ja -järjestelmät
+gas station operator,kaasuasemanhoitaja
+gas transmission system operator,kaasunsiirtojärjestelmän hoitaja
+gate guard,portinvartija
+gauger,tuotantotyöntekijä, öljynjalostamo
+gear machinist,koneistaja, ajoneuvot
+gemmologist,gemmologi
+genealogist,sukututkija
+general practitioner,yleislääkäri
+general veterinarian,yleiseläinlääkäri
+geneticist,geneetikko
+geochemist,geokemisti
+geographer,maantieteilijä
+geographic information systems specialist,GIS-asiantuntija
+geography teacher secondary school,maantiedonopettaja, yläluokat ja lukio
+geological engineer,geologi-insinööri
+geologist,geologi
+geology technician,tutkimusavustaja, geologia
+geophysicist,geofyysikko
+geotechnician,asiantuntija, geotekniikka
+geothermal power plant operator,prosessinhoitaja, geoterminen voimalaitos
+germination operator,idätystyöntekijä
+gerontology social worker,sosiaalityöntekijä, vanhustyö
+glass annealer,lasinkarkaisija
+glass artist,lasitaiteilija
+glass beveller,lasinleikkaaja
+glass engraver,lasinkaivertaja
+glass forming machine operator,lasinmuovauskoneen hoitaja
+glass installation supervisor,työnjohtaja, lasitustyöt
+glass painter,lasinmaalaaja
+glass polisher,lasinkiillottaja
+glass-blower,lasinpuhaltaja
+glove maker,käsineompelija
+goldsmith,kultaseppä
+golf instructor,golfvalmentaja
+government minister,ministeri
+government planning inspector,tarkastaja, julkishallinnon suunnittelu
+grader operator,tiehöylänkuljettaja
+grants administrator,asiantuntija, tukien hallinnointi
+grants management officer,avustuskäsittelijä
+granulator machine operator,rakeistuskoneenhoitaja
+graphic designer,graafinen suunnittelija
+graphologist,käsialatutkija
+gravure press operator,syväpainaja
+greaser,koneenrasvaaja
+green ICT consultant,ICT-ympäristökonsultti
+green coffee buyer,vihreän kahvin ostaja
+green coffee coordinator,vihreän kahvin koordinaattori
+grill cook,grillikokki
+grinding machine operator,hiomakoneenkäyttäjä
+groom,tallirenki
+ground lighting officer,sähköasentaja, lentoasemarakenteet
+ground rigger,ripustaja, maakiinnitykset
+ground steward/ground stewardess,matkustajaselvitysvirkailija
+groundsman/groundswoman,viheralueiden hoitaja
+groundwater monitoring technician,arvioija, pohjaveden laatu
+guide,opas
+guide dog instructor,opaskoiran kouluttaja
+guitar maker,kitaranrakentaja
+gunsmith,aseseppä
+hair removal technician,kosmetologi, karvanpoisto
+hair stylist,hiusstylisti
+hairdresser,parturi-kampaaja
+hairdresser assistant,kampaajaoppilas
+hairdressing vocational teacher,ammatillinen opettaja, hiusala
+halal butcher,lihakauppias, halal
+halal slaughterer,teurastaja, halal
+hand brick moulder,tiilenvalaja
+hand lasting operator,pinkoja
+hand luggage inspector,turvatarkastaja, käsimatkatavarat
+hand packer,käsinpakkaaja
+handyman,sekatyöntekijä
+hardware and paint shop manager,johtaja, rautatavaran ja maalien erikoisliike
+hardware and paint specialised seller,myyjä, rautatavara ja maalit
+hardware, plumbing and heating equipment and supplies distribution manager,jakelujohtaja, rautakauppatavarat sekä LVI-laitteet ja -tarvikkeet
+hardwood floor layer,parkettiasentaja
+harp maker,harpunrakentaja
+harpsichord maker,cembalonrakentaja
+harvest diver,sukeltaja, meriluonnonvarojen keruu
+hawker,katumyyjä
+hazardous materials inspector,ympäristönsuojelutarkastaja, vaaralliset aineet
+hazardous waste inspector,ympäristönsuojelutarkastaja, ongelmajätteet
+hazardous waste technician,jätehuollon asiantuntija, vaaralliset jätteet
+head chef,keittiöpäällikkö
+head of higher education institutions,korkea-asteen oppilaitoksen rehtori
+head of workshop,näyttämömestari
+head pastry chef,pääkondiittori
+head sommelier,pääsommelier
+head waiter/head waitress,hovimestari
+headteacher,rehtori
+health and safety engineer,terveys- ja turvallisuusinsinööri
+health and safety inspector,tarkastaja, työterveys ja -turvallisuus
+health and safety officer,erityisasiantuntija, työterveys ja -turvallisuus
+health psychologist,psykologi, terveyspsykologia
+healthcare assistant,lähihoitaja
+healthcare consultant,terveydenhuollon konsultti
+healthcare inspector,terveydenhuollon tarkastaja
+healthcare institution manager,terveydenhoitolaitoksen johtaja
+healthcare specialist lecturer,lehtori, erikoissairaanhoito
+hearse driver,ruumisauton kuljettaja
+heat sealing machine operator,kuumasaumauslaitteen käyttäjä
+heat treatment furnace operator,sulatusuunityöntekijä
+heating engineer,lämmityslaiteasentaja
+heating, ventilation, air conditioning (and refrigeration) drafter,LVI-piirtäjä
+heating, ventilation, air conditioning (and refrigeration) service engineer,LVI-huoltoasentaja
+heating, ventilation, air conditioning and refrigeration engineering technician,LVI-asiantuntija
+heating, ventilation, air conditioning engineer,LVI-insinööri
+helicopter pilot,helikopterilentäjä
+helmsman,perämies
+herbal therapist,luontaishoitaja, yrttiterapia
+hide grader,luokittelija, raakanahat
+hides, skins and leather products distribution manager,jakelujohtaja,  vuota- ja nahkatuotteet
+high rigger,ripustaja, korkealla tehtävät kiinnitykset
+higher education lecturer,lehtori, yliopistot ja korkeakoulut
+historian,historioitsija
+history lecturer,historian lehtori
+history teacher secondary school,historianopettaja, yläluokat ja lukio
+home care aide,kodinhoitaja
+homelessness worker,sosiaalityöntekijä, asunnottomuus
+homeopath,homeopaatti
+honey extractor,hunajan uuttaja
+hop farmer,humalanviljelijä
+horse breeder,hevostenkasvattaja
+horse riding instructor,ratsastuksenopettaja
+horse trainer,hevostenvalmentaja
+horticulture production manager,puutarhatalouden tuotantojohtaja
+horticulture production team leader,puutarhakasvien tuotantoryhmän johtaja
+horticulture worker,puutarhatyöntekijä
+hospital pharmacist,apteekkari, sairaala
+hospital porter,vahtimestari, sairaala
+hospital social worker,sosiaalityöntekijä, sairaalat
+hospitality entertainment manager,majoituslaitoksen viihdejohtaja
+hospitality establishment receptionist,majoituslaitoksen vastaanottovirkailija
+hospitality establishment security officer,majoituslaitoksen turvallisuusvastaava
+hospitality revenue manager,majoituslaitoksen tuottojohtaja
+hospitality vocational teacher,ammatillinen opettaja, hotelli- ja ravintola-ala
+hot foil operator,foliopainaja
+hotel butler,hotellin hovimestari
+hotel concierge,hotellin concierge
+hotel porter,hotellin portieeri
+house builder,talonrakentaja
+house sitter,talovahti
+household appliances repair technician,kodinkonekorjaaja
+household goods distribution manager,jakelujohtaja, kotitaloustavarat
+housekeeping supervisor,siivousesimies
+housing manager,isännöintipäällikkö
+housing policy officer,vastuuvirkamies, asuntoasiat
+housing support worker,asumisen sosiaaliohjaaja
+human resources assistant,henkilöstöassistentti
+human resources manager,henkilöstöjohtaja
+human resources officer,henkilöstösuunnittelija
+human rights officer,ihmisoikeusasiantuntija
+humanitarian advisor,humanitaarinen neuvonantaja
+hunter,metsästäjä
+hydraulic forging press worker,koneseppä, hydrauliset puristimet
+hydroelectric plant operator,prosessinhoitaja, vesivoimalaitos
+hydrogenation machine operator,hydrogenointikoneen käyttäjä
+hydrogeologist,hydrogeologi
+hydrographic surveying technician,tutkimusavustaja, merenmittaus
+hydrographic surveyor,mittausinsinööri, meriympäristöt
+hydrologist,hydrologi
+hydropower engineer,vesivoimainsinööri
+hydropower technician,asiantuntija, vesivoima
+ice-skating coach,luisteluvalmentaja
+idiophone musical instruments maker,soitinrakentaja, idiofonit
+illustrator,kuvittaja
+imagesetter,kuva-asemoija
+immigration adviser,asiakasneuvoja, maahanmuuttajat
+immigration officer,passintarkastaja
+immigration policy officer,vastuuvirkamies, maahanmuutto
+immunologist,immunologi
+import export manager,huolintajohtaja
+import export manager in agricultural machinery and equipment,huolintajohtaja, maatalouskoneet ja -laitteet
+import export manager in agricultural raw materials, seeds and animal feeds,huolintajohtaja, maatalousperäiset raaka-aineet, siemenet ja rehut
+import export manager in beverages,huolintajohtaja, virvoitus- ja alkoholijuomat
+import export manager in chemical products,huolintajohtaja, kemialliset tuotteet
+import export manager in china and other glassware,huolintajohtaja,  posliini ja lasitavara
+import export manager in clothing and footwear,huolintajohtaja, vaatetus ja jalkineet
+import export manager in coffee, tea, cocoa and spices,huolintajohtaja, kahvi, tee, kaakao ja mausteet
+import export manager in computers, computer peripheral equipment and software,huolintajohtaja, tietokoneet, oheislaitteet ja ohjelmistot
+import export manager in dairy products and edible oils,huolintajohtaja, maitotuotteet ja ruokaöljyt
+import export manager in electrical household appliances,huolintajohtaja, sähköiset kodinkoneet
+import export manager in electronic and telecommunications equipment and parts,huolintajohtaja, elektroniikka- ja viestintälaitteet ja niiden osat
+import export manager in fish, crustaceans and molluscs,huolintajohtaja, kalat, äyriäiset ja nilviäiset
+import export manager in flowers and plants,huolintajohtaja, kukat ja muut kasvit
+import export manager in fruit and vegetables,huolintajohtaja, hedelmät ja vihannekset
+import export manager in furniture, carpets and lighting equipment,huolintajohtaja, huonekalut, matot ja valaisimet
+import export manager in hardware, plumbing and heating equipment and supplies,huolintajohtaja, rautakauppatavarat sekä LVI-laitteet  ja -tarvikkeet
+import export manager in hides, skins and leather products,huolintajohtaja, vuota- ja nahkatuotteet
+import export manager in household goods,huolintajohtaja, kotitaloustavarat
+import export manager in live animals,huolintajohtaja, elävät eläimet
+import export manager in machine tools,huolintajohtaja, työstökoneet
+import export manager in machinery, industrial equipment, ships and aircraft,huolintajohtaja, koneet, teollisuuslaitteet, alukset ja ilma-alukset
+import export manager in meat and meat products,huolintajohtaja, liha ja lihavalmisteet
+import export manager in metals and metal ores,huolintajohtaja, metallit ja metallimalmit
+import export manager in mining, construction and civil engineering machinery,huolintajohtaja, kaivos-, talonrakennus- sekä tie- ja vesirakennuskoneet
+import export manager in office furniture,huolintajohtaja,  toimistokalusteet
+import export manager in office machinery and equipment,huolintajohtaja, toimistokoneet ja laitteet
+import export manager in perfume and cosmetics,huolintajohtaja, hajuvedet ja kosmetiikka
+import export manager in pharmaceutical goods,huolintajohtaja,  farmaseuttiset valmisteet
+import export manager in sugar, chocolate and sugar confectionery,huolintajohtaja, sokeri, suklaa ja sokerimakeiset
+import export manager in textile industry machinery,huolintajohtaja, tekstiiliteollisuuden koneet
+import export manager in textiles and textile semi-finished and raw materials,huolintajohtaja, tekstiilit, puolivalmiit tekstiilituotteet ja raaka-aineet
+import export manager in tobacco products,huolintajohtaja, tupakkatuotteet
+import export manager in waste and scrap,huolintajohtaja, jätteet ja jäännökset
+import export manager in watches and jewellery,huolintajohtaja, kellot ja korut
+import export manager in wood and construction materials,huolintajohtaja, puu ja rakennusmateriaalit
+import export specialist,vienti- ja tuontihuolitsija
+import export specialist in  fish, crustaceans and molluscs,vienti- ja tuontihuolitsija, kalat, äyriäiset ja nilviäiset
+import export specialist in agricultural machinery and equipment,vienti- ja tuontihuolitsija, maatalouskoneet ja -laitteet
+import export specialist in agricultural raw materials, seeds and animal feeds,vienti- ja tuontihuolitsija, maatalousperäiset raaka-aineet, siemenet ja rehut
+import export specialist in beverages,vienti- ja tuontihuolitsija, virvoitus- ja alkoholijuomat
+import export specialist in chemical products,vienti- ja tuontihuolitsija, kemialliset tuotteet
+import export specialist in china and other glassware,vienti- ja tuontihuolitsija, posliini ja lasitavara
+import export specialist in clothing and footwear,vienti- ja tuontihuolitsija, vaatetus ja jalkineet
+import export specialist in coffee, tea, cocoa and spices,vienti- ja tuontihuolitsija, kahvi, tee, kaakao ja mausteet
+import export specialist in computers, peripheral equipment and software,vienti- ja tuontihuolitsija, tietokoneet, oheislaitteet ja ohjelmistot
+import export specialist in dairy products and edible oils,vienti- ja tuontihuolitsija, maitotuotteet ja ruokaöljyt
+import export specialist in electrical household appliances,vienti- ja tuontihuolitsija, sähköiset kodinkoneet
+import export specialist in electronic and telecommunications equipment,vienti- ja tuontihuolitsija, elektroniikka- ja viestintälaitteet
+import export specialist in flowers and plants,vienti- ja tuontihuolitsija, kukat ja muut kasvit
+import export specialist in fruit and vegetables,vienti- ja tuontihuolitsija, hedelmät ja vihannekset
+import export specialist in furniture, carpets and lighting equipment,vienti- ja tuontihuolitsija, huonekalut, matot ja valaisimet
+import export specialist in hardware, plumbing and heating equipment,vienti- ja tuontihuolitsija, rautakauppatavarat ja LVI-laitteet
+import export specialist in hides, skins and leather products,vienti- ja tuontihuolitsija, vuota- ja nahkatuotteet
+import export specialist in household goods,vienti- ja tuontihuolitsija, kotitaloustavarat
+import export specialist in live animals,vienti- ja tuontihuolitsija, elävät eläimet
+import export specialist in machine tools,vienti- ja tuontihuolitsija, työstökoneet
+import export specialist in machinery, industrial equipment, ships and aircraft,vienti- ja tuontihuolitsija, koneet, teollisuuslaitteet, alukset ja ilma-alukset
+import export specialist in meat and meat products,vienti- ja tuontihuolitsija, liha ja lihavalmisteet
+import export specialist in metals and metal ores,vienti- ja tuontihuolitsija, metallit ja metallimalmit
+import export specialist in mining, construction, civil engineering machinery,vienti- ja tuontihuolitsija, kaivos-, talonrakennus- sekä tie- ja vesirakennuskoneet
+import export specialist in office furniture,vienti- ja tuontihuolitsija, toimistokalusteet
+import export specialist in office machinery and equipment,vienti- ja tuontihuolitsija, toimistokoneet ja laitteet
+import export specialist in perfume and cosmetics,vienti- ja tuontihuolitsija, hajuvedet ja kosmetiikka
+import export specialist in pharmaceutical goods,vienti- ja tuontihuolitsija, farmaseuttiset valmisteet
+import export specialist in sugar, chocolate and sugar confectionery,vienti- ja tuontihuolitsija, sokeri, suklaa ja sokerimakeiset
+import export specialist in textile industry machinery,vienti- ja tuontihuolitsija, tekstiiliteollisuuden koneet
+import export specialist in textiles and textile semi-finished and raw materials,vienti- ja tuontihuolitsija, tekstiilit, puolivalmiit tekstiilituotteet ja raaka-aineet
+import export specialist in tobacco products,vienti- ja tuontihuolitsija, tupakkatuotteet
+import export specialist in waste and scrap,vienti- ja tuontihuolitsija, jätteet ja romu
+import export specialist in watches and jewellery,vienti- ja tuontihuolitsija, kellot ja korut
+import export specialist in wood and construction materials,vienti- ja tuontihuolitsija, puu ja rakennusmateriaalit
+incinerator operator,prosessinhoitaja, jätteenpolttolaitos
+industrial arts vocational teacher,opettaja, tekninen käsityö
+industrial assembly supervisor,työnjohtaja, asennus- ja kokoonpanotyöt
+industrial cook,teollisuuskokki
+industrial designer,teollinen muotoilija
+industrial electrician,teollisuussähköasentaja
+industrial engineer,teollisuusinsinööri
+industrial engineering technician,asiantuntija, teollinen valmistus
+industrial firefighter,palomies, teollisuuspalo
+industrial machinery assembler,teollisuuskoneiden kokoonpanija
+industrial machinery mechanic,koneasentaja, teollisuuskoneet ja -laitteet
+industrial maintenance supervisor,huollon esimies, teollisuuskoneet ja -laitteet
+industrial mobile devices software developer,ohjelmistokehittäjä, teolliset mobiililaitteet
+industrial pharmacist,proviisori, teollisuusfarmasia
+industrial production manager,teollisuuden tuotantojohtaja
+industrial quality manager,laatupäällikkö, teollinen tuotanto
+industrial robot controller,teollisuusrobotinhoitaja
+industrial tool design engineer,suunnitteluinsinööri, teollisuuden koneet ja työvälineet
+industrial waste inspector,ympäristönsuojelutarkastaja, teollisuusjätteet
+infantry soldier,jalkaväen sotilas
+information manager,informaatikko
+injection moulding operator,ruiskuvalaja
+inland water transport general manager,johtaja, sisävesiliikenne
+installation engineer,asennusinsinööri
+instructional designer,opetuksen suunnittelija
+instrument technician,soitinteknikko
+instrumentation engineer,insinööri, instrumentointisuunnittelu
+instrumentation engineering technician,tutkimusavustaja, instrumentointisuunnittelu
+insulating tube winder,prosessityöntekijä, eristysputkien valmistus
+insulation supervisor,työnjohtaja, eristystyöt
+insulation worker,eristäjä
+insurance agency manager,vakuutusjohtaja
+insurance broker,vakuutuksenvälittäjä
+insurance claims handler,korvauskäsittelijä
+insurance claims manager,korvausjohtaja, vakuutusala
+insurance clerk,toimistotyöntekijä, vakuutusala
+insurance collector,perintäkäsittelijä, vakuutusmaksut
+insurance fraud investigator,vakuutustutkija
+insurance product manager,tuotejohtaja, vakuutusala
+insurance rating analyst,vakuutusanalyytikko
+insurance risk consultant,riskiasiantuntija, vakuutus
+insurance underwriter,vakuutusmyyjä
+integrated circuit design engineer,insinööri, integroitujen piirien suunnittelu
+integration engineer,integrointivastaava
+intellectual property consultant,konsultti, teollis- ja tekijänoikeudet
+intelligence communications interceptor,viestiliikennetiedustelija
+intelligence officer,analyytikko, tiedustelutoiminta
+intelligent lighting engineer,valoasiantuntija, älykäs valaistus
+intercultural communication consultant,konsultti, kulttuurienvälinen viestintä
+interior architect,sisustusarkkitehti
+interior designer,sisustussuunnittelija
+interior landscaper,vihersisustaja
+interior planner,sisustusneuvoja
+intermodal logistics manager,logistiikkajohtaja, intermodaalikuljetukset
+international forwarding operations coordinator,huolintakoordinaattori
+international relations officer,kansainvälisten asioiden suunnittelija
+international student exchange coordinator,koordinaattori, kansainvälinen opiskelijavaihto
+interpretation agency manager,johtaja, tulkkauspalvelut
+interpreter,tulkki
+inventory coordinator,varastokirjanpitäjä
+investment adviser,sijoitusneuvoja
+investment analyst,sijoitusanalyytikko
+investment clerk,rahoitusassistentti
+investment fund management assistant,sijoitusrahastoneuvoja
+investment fund manager,sijoitusrahaston hoitaja
+investment manager,sijoituspäällikkö
+investor relations manager,sijoittajasuhdepäällikkö
+irrigation system installer,kastelujärjestelmäasentaja
+irrigation technician,kastelulaiteasentaja
+jeweller,koruntekijä
+jewellery and watches shop manager,johtaja, kello- ja kultasepänliike
+jewellery and watches specialised seller,myyjä, kellot ja korut
+jewellery assembler,korujen kokoonpanija
+jewellery designer,korusuunnittelija
+jewellery engraver,korukaivertaja
+jewellery mounter,koruseppä, kivenistutus
+jewellery polisher,kultaseppä, korujen kiillotus
+jewellery repairer,korukorjaaja
+journalism lecturer,journalismin lehtori
+journalist,toimittaja
+judge,tuomari
+justice of the peace,rauhantuomari
+juvenile correctional officer,valvoja, nuoret rikoksentekijät
+kennel supervisor,koiratarhan esimies
+kennel worker,koiratarhan työntekijä
+kettle tender,purukumikoneenkäyttäjä
+keyboard musical instrument maker,soitinrakentaja, kosketinsoittimet
+kiln firer,uuninhoitaja, lasitus- ja koristepoltto
+kinesiologist,kinesiologi
+kitchen and bathroom shop manager,johtaja, keittiö- ja kylpyhuoneliike
+kitchen assistant,keittiöavustaja
+kitchen porter,keittiöapulainen
+kitchen unit installer,keittiöasentaja
+knitter,neuloja
+knitting machine operator,neulekoneenhoitaja
+knitting machine supervisor,tuotannonvalvoja, neulekoneet
+knitting textile technician,prosessinhoitaja, tekstiilien neulonta
+knowledge engineer,tietoinsinööri
+kosher butcher,lihakauppias, kosher
+kosher slaughterer,teurastaja, kosher
+labour market policy officer,vastuuvirkamies, työmarkkinat
+labour relations officer,työsuhdeasiainhoitaja
+lacquer maker,maalinvalmistaja
+lacquer spray gun operator,ruiskulakkaaja
+laminating machine operator,laminointikoneenhoitaja
+land planner,maankäytön suunnittelija
+land surveyor,mittausinsinööri
+land-based machinery operator,maatilakoneiden käyttäjä
+land-based machinery supervisor,maatilakoneiden valvoja
+land-based machinery technician,maatilakoneteknikko
+landfill supervisor,kaatopaikan pitäjä
+landscape architect,maisema-arkkitehti
+landscape designer,maisemasuunnittelija
+landscape gardener,puutarha-arkkitehti
+language engineer,erityisasiantuntija, kieliteknologia
+language school teacher,kieltenopettaja, kielikoulu
+laser beam welder,hitsaaja, laserhitsaus
+laser cutting machine operator,työstökoneenkäyttäjä, laserleikkaus
+laser marking machine operator,työstökoneenkäyttäjä, lasermerkintä
+lasting machine operator,koneenkäyttäjä, pinkominen
+lathe and turning machine operator,sorvaaja
+laundromat attendant,itsepalvelupesulan hoitaja
+laundry and dry cleaning manager,pesulan johtaja,  pesulat ja kuivapesulat
+laundry ironer,silittäjä, pesula
+laundry worker,pesulatyöntekijä
+laundry workers supervisor,pesulan esimies
+law lecturer,oikeustieteen lehtori
+lawyer,asianajaja
+lawyer linguist,lingvistijuristi
+leaf sorter,tupakanlehtien lajittelija
+leaf tier,tupakanlehtien sitoja
+leaflet distributor,ilmoitusten jakaja
+learning mentor,oppimisvalmentaja
+learning support teacher,tukiopettaja
+leather finishing operations manager,toimintojohtaja,  nahkatuotteiden viimeistely
+leather finishing operator,nahanviimeistelijä
+leather goods CAD patternmaker,CAD-kaavanpiirtäjä, nahkatuotteet
+leather goods artisanal worker,nahkatuotteiden tekijä
+leather goods designer,nahkatuotesuunnittelija
+leather goods finishing operator,viimeistelijä, nahkatuotteet
+leather goods hand cutting operator,leikkaaja, nahkatuotteet
+leather goods hand stitcher,ompelija, nahkatuotteet
+leather goods industrial engineer,tuotantotekniikan asiantuntija, nahkateollisuus
+leather goods machine operator,nahkatyöntekijä
+leather goods maintenance technician,huoltotyöntekijä, nahkatuotteet
+leather goods manual operator,nahkatuotetyöntekijä
+leather goods manufacturing technician,asiantuntija, nahkatuotteet
+leather goods packing operator,nahkatuotteiden pakkaaja
+leather goods patternmaker,kaavanpiirtäjä, nahkatuotteet
+leather goods product developer,tuotesuunnittelija, nahkatuotteet
+leather goods product development manager,tuotekehitysjohtaja, nahkatuotteet
+leather goods production manager,tuotantopäällikkö, nahkatuotteiden valmistus
+leather goods production supervisor,työnjohtaja, nahkatuotteiden valmistus
+leather goods quality control laboratory technician,laboratorioavustaja, nahkatuotteiden laadunvalvonta
+leather goods quality controller,laaduntarkastaja, nahkatuotteet
+leather goods quality manager,laatupäällikkö, nahkatuoteala
+leather goods quality technician,laadunvalvoja, nahkatuotteet
+leather goods stitching machine operator,teollisuusompelija, nahkatuotteet
+leather goods warehouse operator,varastonhoitaja, nahkatavarateollisuus
+leather laboratory technician,laboratorioavustaja, nahkojen testaus
+leather measuring operator,mittauskoneenkäyttäjä, nahkatuoteteollisuus
+leather production machine operator,koneenkäyttäjä, nahkateollisuus
+leather production manager,tuotantojohtaja, nahkateollisuus
+leather production planner,tuotannonsuunnittelija, nahkateollisuus
+leather raw materials purchasing manager,hankintajohtaja, nahkatuotteiden raaka-aineet
+leather sorter,lajittelija, nahat
+leather wet processing department manager,osastopäällikkö, nahan märkäkäsittely
+legal administrative assistant,sihteeri, lakiasiat
+legal assistant,lakimiehen avustaja
+legal consultant,lakiasiainneuvoja
+legal guardian,edunvalvoja
+legal policy officer,vastuuvirkamies, oikeusasiat
+legal service manager,johtaja, oikeuspalvelut
+legislative drafter,lainkirjoittaja
+leisure attendant,liikuntakeskuksen työntekijä
+letting agent,vuokra-asunnonvälittäjä
+level crossing signalperson,turvalaitetyöntekijä, tasoristeys
+lexicographer,sanakirjantekijä
+librarian,kirjastonhoitaja
+library assistant,kirjastoavustaja
+library manager,kirjastonjohtaja
+licensing manager,lupajohtaja
+licensing officer,lupakäsittelijä
+lieutenant,luutnantti
+life coach,elämäntaitovalmentaja
+life guard,uimavalvoja
+lifeguard instructor,hengenpelastajien kouluttaja
+lift engineer,hissiasentaja
+lift installation supervisor,työnjohtaja, hissiasennus
+light board operator,valo-operaattori
+lighting designer,valosuunnittelija
+lighting director,valaisija
+lighting technician,asiantuntija, valotekniikka
+lime kiln operator,meesauuninhoitaja
+linen room attendant,liinavaatehuoneen hoitaja
+linguist,kielitieteilijä
+linguistics lecturer,lingvistiikan lehtori
+liquid fuel engineer,insinööri, nestemäiset polttoaineet
+liquid waste treatment plant operator,prosessinhoitaja, nestemäisen jätteen käsittelylaitos
+liquor blender,sekoittaja, alkoholipitoiset juomat
+liquor grinding mill operator,myllyn hoitaja, kaakaomassa
+literary scholar,kirjallisuustieteilijä
+literature teacher secondary school,kirjallisuuden opettaja, yläluokat ja lukio
+lithographer,graafinen kopisti
+live animal transporter,elävien eläinten kuljettaja
+live animals distribution manager,jakelujohtaja, elävät eläimet
+live chat operator,chat-asiakaspalvelija
+livestock advisor,karjatalousneuvoja
+livestock worker,karjanhoitaja
+loan officer,laina-asiantuntija
+localiser,lokalisointiasiantuntija
+location manager,kuvauspaikkajärjestäjä
+locker room attendant,pukuhuoneenhoitaja
+locksmith,lukkoseppä
+logistics analyst,logistiikkasuunnittelija
+logistics and distribution manager,logistiikka- ja jakelujohtaja
+logistics engineer,logistiikkainsinööri
+loss adjuster,vahinkotarkastaja
+lottery cashier,lottomyyjä
+lottery manager,rahapelijohtaja, lotto
+lottery operator,arpapelien järjestäjä
+lumber grader,puutavaranlajittelija
+lyricist,sanoittaja
+machine operator supervisor,työnjohtaja, koneenkäyttäjien koordinointi ja valvonta
+machinery assembly coordinator,tuotannon valmistelija, koneenrakennus
+machinery assembly supervisor,työnjohtaja, koneiden asennus
+machinery, industrial equipment, ships and aircraft distribution manager,jakelujohtaja, koneet, teollisuuslaitteet, alukset ja ilma-alukset
+made-up textile articles manufacturer,artesaani, tekstiilikäsityötuotteet
+magazine editor,toimitussihteeri, aikakauslehdet
+mail clerk,postinlajittelija
+maintenance and repair engineer,kunnossapito- ja korjausinsinööri
+make-up and hair designer,meikkaaja-maskeeraaja
+make-up artist,meikkitaiteilija
+malt house supervisor,mallastamon esimies
+malt kiln operator,maltaankuivaamotyöntekijä
+malt master,mallasmestari
+man-made fiber spinner,prosessityöntekijä, tekokuitujen kehruu
+management assistant,projektiassistentti
+manicurist,manikyristi
+manufactured wooden building assembler,puuelementtitaloasentaja
+manufacturing cost estimator,analyytikko, tuotantokustannukset
+manufacturing engineer,tuotannonsuunnitteluinsinööri
+manufacturing facility manager,kiinteistöpäällikkö
+manufacturing manager,tuotantojohtaja, teollisuus
+marine cargo inspector,rahdintarkastaja, laivat
+marine chief engineer,konepäällikkö, laiva
+marine electrician,laivasähköasentaja
+marine electronics technician,elektroniikka-asentaja, alukset
+marine engineer,konepäällikkö
+marine engineering drafter,suunnitteluavustaja, laivanrakennus
+marine engineering technician,asiantuntija, laivanrakennus
+marine firefighter,palomies, meriympäristö
+marine mechanic,konemestari
+marine surveyor,alustarkastaja
+marine upholsterer,verhoilija, laivat ja veneet
+maritime instructor,kouluttaja, merenkulku
+maritime pilot,luotsi
+maritime water transport general manager,johtaja, meriliikenne
+market research analyst,markkina-analyytikko
+market research interviewer,markkinatutkimushaastattelija
+market vendor,torimyyjä
+marketeer,markkinoija
+marketing assistant,markkinointiassistentti
+marketing manager,markkinointipäällikkö
+marriage counsellor,pariterapeutti
+mask maker,naamioiden tekijä
+massage therapist,hierontaterapeutti
+masseur/masseuse,hieroja
+master coffee roaster,pääkahvinpaahtaja
+mastering engineer,asiantuntija, masterointi
+material stress analyst,materiaaliasiantuntija, aineenkoetus
+material testing technician,tekninen asiantuntija, materiaalitestaus
+materials engineer,materiaali-insinööri
+materials handler,tavarankäsittelijä
+maternity support worker,erikoissairaanhoitaja, äitiyshuolto
+mathematician,matemaatikko
+mathematics lecturer,matematiikan lehtori
+mathematics teacher secondary school,matematiikanopettaja, yläluokat ja lukio
+matrose,matruusi, sisävesialukset
+mattress maker,patjatyöntekijä
+mattress making machine operator,koneenkäyttäjä, patjojen valmistus
+mayor,kaupunginjohtaja
+meat and meat products distribution manager,jakelujohtaja, liha ja lihavalmisteet
+meat and meat products shop manager,johtaja, lihan ja lihavalmisteiden erikoisliike
+meat and meat products specialised seller,myyjä, liha ja lihavalmisteet
+meat cutter,lihanleikkaaja
+meat preparations operator,lihan valmistelutyöntekijä
+mechanical engineer,koneinsinööri
+mechanical engineering drafter,suunnitteluavustaja, konetekniikka
+mechanical engineering technician,konetekniikan asiantuntija
+mechanical forging press worker,koneseppä, takomopuristimet
+mechatronics assembler,kokoonpanija, mekatroniikka
+mechatronics engineer,mekatroniikkainsinööri
+mechatronics engineering technician,asiantuntija, mekatroniikka
+media scientist,mediatutkija
+mediation and education manager,museoamanuenssi
+mediator,sovittelija
+medical administrative assistant,sihteeri, terveydenhuolto
+medical device assembler,terveydenhuollon laitteiden kokoonpanija
+medical device engineer,lääkinnällisten laitteiden suunnittelija
+medical device engineering technician,asiantuntija, lääkinnälliset laitteet
+medical goods shop manager,johtaja,  lääkinnällisten tuotteiden erikoisliike
+medical goods specialised seller,myyjä, lääkkeet
+medical laboratory assistant,laboratoriovalmistelija, terveydenhuolto
+medical laboratory manager,lääketieteellisen laboratorion johtaja
+medical laboratory technology vocational teacher,ammatillinen opettaja, lääketieteellinen laboratoriotekniikka
+medical practice manager,toimistopäällikkö, terveydenhuolto
+medical records clerk,potilastietojen käsittelijä
+medical records manager,potilastietojärjestelmävastaava
+medical sales representative,lääke-esittelijä
+medical transcriptionist,puhtaaksikirjoittaja, terveydenhuolto
+medicine lecturer,lääketieteen lehtori
+medium,meedio
+member of parliament,kansanedustaja
+membership administrator,toimistoavustaja, jäsenyysasiat
+membership manager,jäsenvastaava
+membranophone musical instruments maker,soitinrakentaja, kalvosoittimet
+mental health social worker,sosiaalityöntekijä, mielenterveys- ja päihdetyö
+mental health support worker,mielenterveysohjaaja
+merchandiser,esillelaittaja
+mergers and acquisitions analyst,analyytikko, fuusiot ja yritysostot
+metal annealer,hehkuttaja, metalliteollisuus
+metal drawing machine operator,vetokoneenhoitaja, metalliteollisuus
+metal engraver,metallikaivertaja
+metal furnace operator,prosessinhoitaja, sulatusuuni
+metal furniture machine operator,prosessityöntekijä, metallikalusteiden valmistus
+metal nibbling operator,työstökoneenkäyttäjä, metallinakerruskone
+metal planer operator,metallihiomakoneenkäyttäjä
+metal polisher,kiillottaja
+metal product quality control inspector,laadunvalvoja, metallituotteet
+metal production manager,tuotantojohtaja, metalliteollisuus
+metal production supervisor,työnjohtaja, metalliteollisuus
+metal products assembler,metallituotteiden kokoonpanija
+metal rolling mill operator,valssaaja, metalliteollisuus
+metal sawing machine operator,työstökoneenkäyttäjä, metallisaha
+metallurgical manager,päällikkö, metallurgian ala
+metallurgical technician,asiantuntija, metallurgia
+metallurgist,metallurgi
+metals and metal ores distribution manager,jakelujohtaja, metallit ja metallimalmit
+metalworking lathe operator,työstökoneenkäyttäjä, metallisorvi
+meteorologist,meteorologi
+meteorology technician,tutkimusavustaja, meteorologia
+meter reader,mittarinlukija
+metrologist,metrologi
+metrology technician,tekninen asiantuntija, metrologia
+microbiologist,mikrobiologi
+microelectronics engineer,insinööri, mikroelektroniikka
+microelectronics engineering technician,asiantuntija, mikroelektroniikka
+microsystem engineer,insinööri, mikrojärjestelmät
+microsystem engineering technician,asiantuntija, mikrojärjestelmät
+middle office analyst,middle office -toimihenkilö
+midwife,kätilö
+migrant social worker,sosiaalityöntekijä, maahanmuuttajatyö
+military engineer,sotilasinsinööri
+military welfare worker,sosiaalityöntekijä, armeija
+milk heat treatment process operator,maidon kuumakäsittelyprosessin hoitaja
+milk reception operator,maidon vastaanottotyöntekijä
+miller,mylläri
+milliner,modisti
+milling machine operator,cnc-konejyrsijä
+mine control room operator,valvomotyöntekijä, kaivosteollisuus
+mine development engineer,kaivosinsinööri, kaivostyön kehittäminen
+mine electrical engineer,sähköinsinööri, kaivosteollisuus
+mine geologist,kaivosgeologi
+mine health and safety engineer,terveys- ja turvallisuusinsinööri, kaivosteollisuus
+mine manager,kaivosjohtaja
+mine mechanical engineer,koneinsinööri, kaivosteollisuus
+mine planning engineer,suunnitteluinsinööri, kaivosteollisuus
+mine production manager,kaivostoiminnan tuotantojohtaja
+mine rescue officer,kaivospelastaja
+mine safety officer,asiantuntija, kaivosturvallisuus
+mine shift manager,vuoroesimies, kaivos
+mine supervisor,työnjohtaja, kaivos
+mine surveying technician,asiantuntija, kaivosmittaus
+mine surveyor,mittausinsinööri, kaivokset
+mine ventilation engineer,ilmastointi-insinööri, kaivosteollisuus
+mineral crushing operator,murskaimenhoitaja
+mineral processing engineer,prosessi-insinööri, mineraalit
+mineral processing operator,rikastaja
+mineralogist,mineralogi
+miniature set designer,pienoismallien rakentaja
+mining assistant,avustava kaivostyöntekijä
+mining electrician,sähköasentaja, kaivosteollisuus
+mining equipment mechanic,koneasentaja, kaivosteollisuus
+mining geotechnical engineer,kaivosinsinööri, geotekniikka
+mining, construction and civil engineering machinery distribution manager,jakelujohtaja,  kaivos-, talonrakennus- sekä tie- ja vesirakennuskoneet
+minister of religion,pappi
+missionary,lähetystyöntekijä
+mixed farmer,viljelijä, sekatuotanto
+mobile app developer,mobiilisovellusten kehittäjä
+mobile crane operator,ajoneuvonosturinkuljettaja
+mobile devices technician,mobiililaiteteknikko
+mobile phone repair technician,matkapuhelinkorjaaja
+model maker,mallinrakentaja
+modern languages lecturer,nykykielten lehtori
+modern languages teacher secondary school,nykykielten opettaja, yläluokat ja lukio
+monk/nun,munkki/nunna
+mortgage broker,lainanvälittäjä
+mortgage loan underwriter,underwriter, lainat
+motion picture film developer,elokuvalaborantti
+motor vehicle aftersales manger,johtaja, moottoriajoneuvojen myynninjälkeispalvelut
+motor vehicle assembler,moottoriajoneuvojen kokoonpanija
+motor vehicle assembly inspector,kokoonpanotarkastaja, moottoriajoneuvot
+motor vehicle assembly supervisor,työnjohtaja, moottoriajoneuvojen kokoonpano
+motor vehicle body assembler,moottoriajoneuvojen korin kokoonpanija
+motor vehicle engine assembler,moottoriajoneuvojen moottorin kokoonpanija
+motor vehicle engine inspector,moottoritarkastaja, moottoriajoneuvot
+motor vehicle engine tester,moottoritestaaja, moottoriajoneuvot
+motor vehicle parts assembler,moottoriajoneuvo-osien kokoonpanija
+motor vehicle shop manager,johtaja, moottoriajoneuvojen erikoisliike
+motor vehicle upholsterer,verhoilija, moottoriajoneuvot
+motor vehicles parts advisor,myyjä, moottoriajoneuvojen osat
+motor vehicles specialised seller,myyjä, moottoriajoneuvot
+motorcycle assembler,moottoripyörien kokoonpanija
+motorcycle delivery person,moottoripyörälähetti
+motorcycle instructor,moottoripyöräkouluttaja
+moulding machine operator,muottikoneenkäyttäjä
+moulding machine technician,koneasentaja, valu- ja muottikoneet
+mouldmaker,muotintekijä
+mountain guide,vuoristo-opas
+move coordinator,muuttokoordinaattori
+move manager,muuttopalvelujohtaja
+mover,muuttomies
+movie distributor,jakelupäällikkö, elokuva-ala
+moving truck driver,muuttoautonkuljettaja
+mud logger,hydrogeologi, porausnesteanalyysi
+museum director,museonjohtaja
+museum scientist,museotutkija
+music and video shop manager,johtaja, musiikki- ja videotallenteiden erikoisliike
+music and video shop specialised seller,myyjä, musiikki- ja videotallenteet
+music arranger,sovittaja, musiikki
+music director,musiikillinen ohjaaja
+music instructor,musiikin lehtori
+music producer,musiikkituottaja
+music teacher,musiikin opettaja
+music teacher secondary school,musiikinopettaja, yläluokat ja lukio
+music therapist,musiikkiterapeutti
+musical conductor,kapellimestari
+musical instrument technician,soitinteknikko, viritys ja huolto
+musician,muusikko
+mutual fund broker,rahastovälittäjä
+nailing machine operator,puuntyöstökoneenkäyttäjä, naulauskoneet
+nanny,lastenhoitaja, yksityiskoti
+nanoengineer,materiaali-insinööri, nanomateriaalit
+natural resources consultant,erityisasiantuntija, luonnonvaroja koskeva neuvonta
+nature conservation officer,erityisasiantuntija, luonnonsuojelu
+naval architect,laivanrakennusinsinööri
+navy officer,merivoimien upseeri
+network marketer,verkostomarkkinoija
+news anchor,uutisankkuri
+newspaper editor,toimitussihteeri, sanomalehdet
+night auditor,yövastaava
+nitrator operator,prosessityöntekijä, nitraus
+nitroglycerin neutraliser,prosessityöntekijä, nitroglyseriinin neutralointi
+nitroglycerin separator operator,erottimenhoitaja, nitroglyseriini
+non-destructive testing specialist,NDT-tarkastaja
+non-vessel operating common carrier,välittäjä, NVOCC
+nonwoven  textile technician,kuitukangaskoneen hoitaja
+nonwoven filament machine operator,tekokuidunvalmistaja
+nonwoven staple machine operator,kuitukangaskoneen käyttäjä
+notary,notaari
+nuclear engineer,insinööri, ydinvoima
+nuclear medicine radiographer,röntgenhoitaja, isotooppitutkimukset
+nuclear reactor operator,prosessinhoitaja, ydinvoimalaitos
+nuclear technician,tekninen asiantuntija, ydinvoima
+numerical tool and process control programmer,ohjelmoija, työkalujen ja prosessien numeerinen ohjaus
+nurse assistant,sairaanhoitaja, avustava hoito- ja hoivatyö
+nurse responsible for general care,sairaanhoitaja
+nursery school head teacher,lastentarhan johtaja
+nursing lecturer,lehtori, hoitotyö
+occupational analyst,konsultti, työanalyysi
+occupational driving instructor,ammattikuljettajien kouluttaja
+occupational health and safety inspector,työsuojelutarkastaja
+occupational railway instructor,ammattikuljettajien kouluttaja, raideliikenne
+occupational therapist,toimintaterapeutti
+occupational therapy assistant,toimintaterapeutin avustaja
+oceanographer,merentutkija
+odds compiler,vedonlyöntiasiantuntija
+oenologist,enologi
+office clerk,toimistoavustaja
+office equipment repair technician,konttorikoneasentaja
+office manager,toimistopäällikkö
+official veterinarian,virkaeläinlääkäri
+offset printer,offsetpainaja
+oil and gas production manager,tuotantojohtaja, öljy ja kaasu
+oil mill operator,öljymyllyn käyttäjä
+oil refinery control room operator,valvomonhoitaja, öljynjalostamo
+oil rig motorhand,öljynporaaja, moottoreiden huolto
+oilseed presser,öljysiementen puristaja
+ombudsman,oikeusasiamies
+on foot aquatic resources collector,vesiviljelytuotteiden kerääjä
+online community manager,verkkoyhteisövastaava
+online marketer,verkkomarkkinoija
+online sales channel manager,verkkomyyntijohtaja
+operations manager,käyttöpäällikkö
+optical disc moulding machine operator,lasermuovauskoneen hoitaja
+optical engineer,optiikan insinööri
+optical instrument assembler,instrumenttiasentaja, optiset laitteet
+optical instrument production supervisor,työnjohtaja, optisten laitteiden valmistus
+optical instrument repairer,hienomekaanikko, optisten laitteiden korjaus
+optical technician,optikko, valmistus, huolto ja korjaus
+optician,optikko
+optoelectronic engineer,insinööri, optoelektroniikka
+optoelectronic engineering technician,asiantuntija, optoelektroniikka
+optomechanical engineer,optomekaniikan insinööri
+optomechanical engineering technician,asiantuntija, optomekaniikka
+optometrist,optometristi
+ordinary seaman,puolimatruusi
+organ builder,urkujen rakentaja
+ornamental metal worker,metallituoteviimeistelijä
+orthopaedic footwear technician,suutari, ortopediset jalkineet
+orthopaedic supplies specialised seller,myyjä, ortopediset tuotteet
+orthopaedic supply shop manager,johtaja, ortopedisten tuotteiden erikoisliike
+orthoptist,ortoptisti
+osteopath,osteopaatti
+outdoor activities coordinator,koordinaattori, liikunta- ja ulkoilupalvelut
+outdoor activities instructor,liikunta- ja ulkoilutoiminnan vetäjä
+outdoor animator,ulkoliikunnan ohjaaja
+overhead line worker,sähkölinja-asentaja
+oxy fuel burning machine operator,polttoleikkaaja
+packaging and filling machine operator,pakkaus- ja täyttölaitteen käyttäjä
+packaging production manager,tuotantopäällikkö, pakkaustuotanto
+packing machinery engineer,insinööri, pakkauskoneet
+paint mixer,maalinsekoittaja
+palaeontologist,paleontologi
+palliative care social worker,sosiaalityöntekijä, palliatiivinen hoito
+paper bag machine operator,pussikoneenhoitaja
+paper cutter operator,paperinleikkaaja
+paper embosing press operator,kohopainaja
+paper engineer,paperi-insinööri
+paper machine operator,paperikoneenhoitaja
+paper mill supervisor,työnjohtaja, paperitehdas
+paper pulp moulding operator,prosessityöntekijä, kuitumassamuovaus
+paper stationery machine operator,prosessityöntekijä, paperitavaravalmistus
+paperboard products assembler,kokoonpanija, kartonkituotteet
+paperhanger,tapetoija
+paperhanger supervisor,työnjohtaja, tapetointi
+paramedic in emergency responses,ensihoitaja, kiireellinen sairaankuljetus
+park guide,puisto-opas
+parking valet,autonkuljettaja, palvelupysäköinti
+parliamentary assistant,kansanedustajan avustaja
+passenger fare controller,lipuntarkastaja
+passport officer,passivirkailija
+pasta maker,pastantekijä
+pasta operator,pastatyöntekijä
+pastoral worker,diakoniatyöntekijä
+pastry chef,kondiittori
+pastry maker,kahvileivän leipuri
+patent engineer,patentti-insinööri
+patient transport services driver,kuljettaja, kiireetön sairaankuljetus
+pawnbroker,panttilainaamon työntekijä
+payroll clerk,palkanlaskija
+pedicurist,pedikyristi
+pension scheme manager,eläkevakuutusjohtaja
+pensions administrator,eläkekäsittelijä
+performance artist,performanssitaiteilija
+performance hairdresser,kampaaja, esittävät taiteilijat
+performance production manager,kulttuurituottaja, performanssitaide
+performance rental technician,tapahtumapalvelujen asiantuntija, vuokralaitteet
+performing arts school dance instructor,tanssitaiteen lehtori
+performing arts theatre instructor,lehtori, teatterikorkeakoulu
+perfume and cosmetics distribution manager,jakelujohtaja, hajuvedet ja kosmetiikka
+perfume production machine operator,prosessityöntekijä, hajuvesien valmistus
+personal property appraiser,irtaimen omaisuuden arvioija
+personal shopper,henkilökohtainen pukeutumisneuvoja
+personal stylist,henkilökohtainen stylisti
+personal trainer,personal trainer
+personal trust officer,erityisasiantuntija, notariaattipalvelut
+pest management worker,tuholaistorjuja
+pesticide mixer,sekoittaja, torjunta-aineiden valmistus
+pesticides sprayer,torjunta-aineiden levittäjä
+pet and pet food shop manager,johtaja, lemmikkitarvikekauppa
+pet and pet food specialised seller,myyjä, lemmikkieläimet
+pet sitter,lemmikkienhoitaja
+petroleum engineer,insinööri, öljy- ja kaasuteollisuus
+petroleum pump system operator,prosessinhoitaja, raakaöljyn pumppaus
+pharmaceutical engineer,insinööri, lääketeollisuus
+pharmaceutical goods distribution manager,jakelujohtaja, farmaseuttiset valmisteet
+pharmaceutical quality specialist,lääketuotteiden laadunarvioija
+pharmacist,proviisori
+pharmacologist,farmakologi
+pharmacy assistant,farmaseutti, yleiset ja hallinnolliset tehtävät
+pharmacy lecturer,farmasian lehtori
+pharmacy technician,farmaseutti, tekniset tehtävät
+philosopher,filosofi
+philosophy lecturer,filosofian lehtori
+philosophy teacher secondary school,filosofian opettaja, yläluokat ja lukio
+phlebotomist,verinäytteen ottaja
+photographer,valokuvaaja
+photographic developer,valokuvauslaborantti
+photographic equipment assembler,valokuvauslaitteiden kokoonpanija
+photography shop manager,johtaja, valokuvausliike
+photography teacher,valokuvauksen opettaja
+photojournalist,kuvajournalisti
+photonics engineer,fotoniikan insinööri
+photonics engineering technician,fotoniikan asiantuntija
+physical education teacher secondary school,liikunnanopettaja, yläluokat ja lukio
+physical education vocational teacher,ammatillinen opettaja, liikunta
+physicist,fyysikko
+physics lecturer,fysiikan lehtori
+physics teacher secondary school,fysiikanopettaja, yläluokat ja lukio
+physics technician,tutkimusavustaja, fysiikka
+physiologist,fysiologi
+physiotherapist,fysioterapeutti
+physiotherapy assistant,fysioterapeutin avustaja
+piano maker,pianonrakentaja
+picture archiving and communication systems administrator,kuvien arkistointi-ja siirtojärjestelmän hoitaja
+picture editor,kuvatoimittaja
+pig breeder,sikojen kasvattaja
+pile driving hammer operator,paalutuskoneenkuljettaja
+pill maker operator,tablettikoneenhoitaja
+pipe welder,putkihitsaaja
+pipeline compliance coordinator,koordinaattori, putkistojen vaatimustenmukaisuus
+pipeline engineer,putkistoinsinööri
+pipeline environmental project manager,projektipäällikkö, putkijohtokuljetusten ympäristövaikutukset
+pipeline maintenance worker,putkistoasentaja, huollot ja tarkastukset
+pipeline pump operator,linjapumpunhoitaja
+pipeline route manager,putkijohtokuljetusten järjestäjä
+pipeline superintendent,suunnittelujohtaja, putkijohtokuljetukset
+pizzaiolo,pizzakokki
+planer thicknesser operator,höylääjä, oiko-tasohöylä
+plasma cutting machine operator,plasmaleikkaaja
+plasterer,rappaaja
+plastering supervisor,työnjohtaja, rappaus
+plastic and rubber products manufacturing supervisor,työnjohtaja, kumi- ja muovituotteiden valmistus
+plastic furniture machine operator,prosessityöntekijä, muovikalusteiden valmistus
+plastic heat treatment equipment operator,lämpökäsittelijä, muovituotteet
+plastic products assembler,muovituotteiden kokoonpanija
+plastic rolling machine operator,rullamuovauskoneen hoitaja, muoviteollisuus
+plate glass installer,lasittaja
+plodder operator,saippuatankopuristimen käyttäjä
+plumber,putkiasentaja
+plumbing supervisor,työnjohtaja, LVI
+pneumatic engineering technician,asiantuntija, paineilmajärjestelmät
+pneumatic systems technician,koneasentaja, paineilmajärjestelmät
+podiatrist,podiatri
+podiatry assistant,podiatrin avustaja
+police commissioner,poliisijohtaja
+police detective,ylikonstaapeli
+police inspector,komisario
+police officer,poliisi
+police trainer,poliisikouluttaja
+policy manager,politiikkajohtaja
+policy officer,virkamies
+political affairs officer,poliittinen neuvonantaja
+political campaign officer,kampanjavastaava
+political journalist,politiikan toimittaja
+political party agent,puoluetoimiston työntekijä
+political scientist,politiikan tutkija
+politics lecturer,valtiotieteen lehtori
+polygraph examiner,valheenpaljastuksen erityisasiantuntija
+porcelain painter,posliininmaalaaja
+port coordinator,satamamestari
+post office counter clerk,postitoimihenkilö
+post-production supervisor,valvoja, jälkituotanto
+postman/postwoman,postinkantaja
+pottery and porcelain caster,prosessityöntekijä, savi- ja posliiniesineiden valu
+poultry breeder,siipikarjankasvattaja
+poultry sexer,siipikarjan sukupuolen määrittäjä
+power distribution engineer,insinööri, sähkönjakelu
+power lines supervisor,työnjohtaja, sähkölinjatyöt
+power plant control room operator,valvomonhoitaja, voimalaitos
+power plant manager,voimalaitospäällikkö
+power production plant operator,voimalaitoksen prosessinhoitaja
+power tool repair technician,sähkölaitekorjaaja
+pre-lasting operator,pinkomotyöntekijä, esityöt
+pre-stitching machine operator,neulomotyöntekijä, esityöt
+precast moulder,elementtivalaja
+precious stone cutter,jalokivihioja
+precious stone setter,kivenistuttaja
+precision device inspector,tuotetarkastaja, hienomekaaniset laitteet
+precision engineer,insinööri, hienomekaniikka
+precision instrument assembler,instrumenttiasentaja, hienomekaaniset laitteet
+precision mechanic,hienomekaanikko
+precision mechanics supervisor,työnjohtaja, hienomekaniikka
+prepared meals nutritionist,ravintotutkija, valmisateriat
+prepared meat operator,lihavalmistetyöntekijä
+prepress operator,painopinnan valmistaja, prepress-toimet
+prepress technician,taittaja
+presenter,juontaja
+press and stationery shop manager,johtaja, lehtien ja paperitavaroiden erikoisliike
+press and stationery specialised seller,myyjä, lehdet ja paperitavarat
+pricing specialist,hinnoittelun erityisasiantuntija
+primary school head teacher,alakoulun rehtori
+primary school teacher,peruskoulun alaluokkien opettaja
+primary school teaching assistant,koulunkäynninohjaaja, peruskoulun alaluokat
+print folding operator,taittokoneenkäyttäjä
+print studio supervisor,työnjohtaja, kirjapaino
+printed circuit board assembler,painettujen piirilevyjen kokoonpanija
+printed circuit board designer,suunnitteluassistentti, painetut piirilevyt
+printed circuit board test technician,testaaja, piirilevyt
+printing textile technician,tekstiilipainaja, valmistelu
+printmaker,taidegraafikko
+prison instructor,vankilan ohjaaja
+prison officer,vanginvartija
+private chauffeur,yksityisautonkuljettaja
+private chef,keittiömestari, yksityiskoti
+private detective,yksityisetsivä
+private pilot,yksityislentäjä
+probation officer,valvoja
+process engineer,prosessi-insinööri
+process engineering technician,prosessitekniikan asiantuntija
+process metallurgist,prosessimetallurgi
+producer,tuottaja
+product and services manager,tuote- ja palvelupäällikkö
+product assembly inspector,kokoonpanotarkastaja
+product development engineering drafter,suunnitteluavustaja, tuotekehitys
+product development engineering technician,tuotekehityksen asiantuntija
+product development manager,tuotekehitysjohtaja
+product grader,tuoteluokittelija
+product manager,tuotejohtaja
+product quality controller,laaduntarkastaja
+product quality inspector,tuotetarkastaja
+production designer,tuotantosuunnittelija
+production engineer,tuotantoinsinööri
+production engineering technician,asiantuntija, tuotantotekniikka
+production plant crane operator,siirtonosturinkuljettaja
+production potter,savenvalaja
+production supervisor,työnjohtaja, tuotanto
+professional athlete,ammattiurheilija
+programme funding manager,ohjelman rahoituspäällikkö
+programme manager,ohjelmajohtaja
+project manager,projektipäällikkö
+projectionist,koneenhoitaja, elokuvateatteri
+promoter,promoottori
+promotion assistant,myynninedistämisassistentti
+promotion manager,myynninedistämisjohtaja
+promotions demonstrator,myyntiesittelijä
+prompter,kuiskaaja
+proofreader,oikolukija
+prop maker,tarpeistonvalmistaja
+prop master/prop mistress,tarpeistonhoitaja
+property acquisitions manager,hankintapäällikkö, kiinteistöhankinnat
+property appraiser,kiinteän omaisuuden arvioija
+property assistant,toimistotyöntekijä, kiinteistövälitys
+property developer,rakennuttaja
+property insurance underwriter,vakuutusmyyjä, omaisuusvakuutus
+prosecutor,syyttäjä
+prosthetic-orthotics technician,proteesinvalmistaja
+prosthetist-orthotist,proteesien ja ortoosien suunnittelija ja valmistaja
+protective clothing apparel manufacturer,suojavaatteiden valmistaja
+provincial governor,maaherra
+psychic,selvänäkijä
+psychologist,psykologi
+psychology lecturer,psykologian lehtori
+psychotherapist,psykoterapeutti
+public administration manager,hallintojohtaja
+public affairs consultant,julkishallinnon konsultti
+public employment service manager,julkisen työvoimapalvelun johtaja
+public finance accountant,budjettipäällikkö
+public funding advisor,neuvonantaja, julkinen rahoitus
+public health policy officer,vastuuvirkamies, kansanterveys
+public housing manager,johtaja, sosiaalinen asuntotuotanto
+public relations manager,PR-johtaja
+public relations officer,suhdetoimintakoordinaattori
+public speaking coach,puheviestinnänopettaja
+publications coordinator,julkaisukoordinaattori
+publishing rights manager,kirjallisuusagentti
+pulp control operator,prosessinvalvoja, selluloosateollisuus
+pulp grader,laatuluokittelija, sellu
+pulp technician,kunnossapitotyöntekijä, massanvalmistus
+pultrusion machine operator,prosessityöntekijä, suulakeveto
+pump operator,pumppumies
+punch press operator,työstökoneenkäyttäjä, epäkeskopuristin
+puppet designer,nukkesuunnittelija
+puppeteer,nukketeatteritaiteilija
+purchase planner,ostosuunnittelija
+purchaser,ostaja
+purchasing manager,hankintajohtaja
+pyrotechnic designer,tehostesuunnittelija, pyrotekniikka
+pyrotechnician,tehostemies, pyrotekniikka
+quality engineer,laatuinsinööri
+quality engineering technician,laadunvalvoja
+quality services manager,laatujohtaja
+quantity surveyor,määrälaskija
+quarry engineer,louhintainsinööri
+quarry manager,johtaja, louhostoiminta
+quick service restaurant crew member,pikaravintolan työntekijä
+quick service restaurant team leader,pikaravintolan tiiminjohtaja
+radiation protection officer,säteilysuojelun erityisasiantuntija
+radiation protection technician,säteilysuojeluvalvoja
+radio producer,radiotuottaja
+radio technician,radioteknikko
+radiographer,röntgenhoitaja
+rail construction supervisor,työnjohtaja, ratatyöt
+rail intermodal equipment operator,rautateiden intermodaalikuljetuskaluston operaattori
+rail layer,ratatyöntekijä
+rail logistics coordinator,raideliikenteen koordinaattori
+rail maintenance technician,asiantuntija, rataverkon kunnossapito
+rail operations manager,johtaja, rautatietoiminnot
+rail project engineer,ratainsinööri
+rail switchperson,vaihdetyöntekijä
+rail traffic controller,raideliikenteenohjaaja
+railway car upholsterer,verhoilija, kiskokalusto
+railway electronic technician,elektroniikka-asentaja, raideliikenne
+railway infrastructure inspector,rautatieinfrastruktuurin tarkastaja
+railway passenger service agent,palveluhenkilö, rautatieasema
+railway sales agent,junalippujen myyjä
+railway station manager,asemapäällikkö, rautatiet
+raw material reception operator,raaka-aineiden vastaanoton työntekijä
+raw materials warehouse specialist,varastonhoitaja, raaka-ainevarasto
+real estate agent,kiinteistönvälittäjä
+real estate investor,kiinteistösijoittaja
+real estate leasing manager,vuokrauspäällikkö, kiinteistöt
+real estate manager,vastaava hoitaja, kiinteistönvälitys
+real estate surveyor,kiinteistöarvioija
+receptionist,vastaanottoavustaja
+record press operator,puristimenhoitaja, vinyylilevyjen valmistus
+recording studio technician,asiantuntija, äänitysstudio
+recreation model maker,pienoismallien tekijä
+recreation policy officer,vastuuvirkamies, urheilu- ja vapaa-ajantoiminta
+recreational facilities manager,vapaa-aikapalvelujen johtaja
+recreational therapist,terapeutti, viriketoiminta
+recruitment consultant,henkilöstökonsultti
+recycling specialist,erityisasiantuntija, kierrätys
+recycling worker,kierrätystyöntekijä
+refinery shift manager,jalostamon vuoropäällikkö
+refining machine operator,jalostuskoneen käyttäjä
+refurbishing technician,ajoneuvoasentaja, moottoritekniikka
+refuse collector,jätteiden kerääjä
+refuse vehicle driver,jäteautonkuljettaja
+regional development policy officer,vastuuvirkamies, aluekehitys
+regulatory affairs manager,sääntelypäällikkö
+rehabilitation support worker,kuntoutustukihenkilö
+relationship banking manager,pankin asiakkuuspäällikkö
+religion scientific researcher,uskontotieteilijä
+religious education teacher secondary school,uskonnonopettaja, yläluokat ja lukio
+religious studies lecturer,uskontotieteen lehtori
+relocation officer,uudelleensijoitusasiantuntija
+remote sensing technician,tekninen asiantuntija, kaukokartoitus
+renewable energy consultant,konsultti, uusiutuva energia
+renewable energy engineer,insinööri, uusiutuva energia
+renewable energy sales representative,myyntiedustaja, uusiutuva energia
+rental manager,esimies, vuokrauspalvelu
+rental service representative,vuokrauspalvelun edustaja
+rental service representative in agricultural machinery and equipment,vuokrauspalvelun edustaja, maatalouskoneet ja -laitteet
+rental service representative in air transport equipment,vuokrauspalvelun edustaja, matkustajalentoliikenteen alukset
+rental service representative in cars and light motor vehicles,vuokrauspalvelun edustaja, autot ja kevyet moottoriajoneuvot
+rental service representative in construction and civil engineering machinery,vuokrauspalvelun edustaja, rakennuskoneet ja -laitteet
+rental service representative in office machinery and equipment,vuokrauspalvelun edustaja, toimistokoneet ja -laitteet
+rental service representative in other machinery, equipment and tangible goods,vuokrauspalvelun edustaja, muut koneet ja laitteet
+rental service representative in personal and household goods,vuokrauspalvelun edustaja, henkilökohtaiset ja kotitaloustavarat
+rental service representative in recreational and sports goods,vuokrauspalvelun edustaja, vapaa-ajan ja urheiluvälineet
+rental service representative in trucks,vuokrauspalvelun edustaja, kuorma-autot ja muut raskaat ajoneuvot
+rental service representative in video tapes and disks,vuokrauspalvelun edustaja, videonauhat ja -levyt
+rental service representative in water transport equipment,vuokrauspalvelun edustaja, vesiliikennevälineet
+reprographics technician,painotalon painoapulainen
+rescue centre manager,pelastuskeskuksen johtaja
+rescue diver,pelastussukeltaja
+research and development manager,tutkimus- ja kehitysjohtaja
+research engineer,tutkimusinsinööri
+research manager,tutkimusjohtaja
+residential care home worker,palveluasumisyksikön ohjaaja
+residential childcare worker,lastenkodin ohjaaja
+residential home adult care worker,ohjaaja, aikuisten hoitokoti
+residential home older adult care worker,ohjaaja, ikääntyneiden hoivakoti
+residential home young people care worker,nuorisokodin ohjaaja
+resilient floor layer,lattiapäällysteasentaja
+resource manager,resurssijohtaja
+respiratory therapy technician,hoitaja, hengityshoito
+restaurant host/restaurant hostess,ravintolaisäntä/ravintolaemäntä
+restaurant manager,ravintolapäällikkö
+restoration technician,ajoneuvoasentaja, vanhat autot
+retail department manager,osastopäällikkö, vähittäiskauppa
+retail entrepreneur,kauppias, vähittäiskauppa
+ride technician,laiteasentaja, huvipuistolaitteet
+rigger,ripustaja
+rigging supervisor,ripustajien esimies
+risk manager,riskipäällikkö
+riveter,niittaaja
+road construction supervisor,työnjohtaja, tienrakennus
+road construction worker,tienrakennustyöntekijä
+road maintenance technician,asiantuntija, teiden kunnossapito
+road maintenance worker,teiden kunnossapidon työntekijä
+road marker,tiemerkitsijä
+road operations manager,johtaja, maantiekuljetukset
+road roller operator,tiejyränkuljettaja
+road sign installer,liikennemerkkien pystyttäjä
+road transport division manager,osastonjohtaja, tieliikenne
+road transport maintenance scheduler,ajokaluston huoltosuunnittelija
+roadside vehicle technician,ajoneuvoasentaja, tiepalvelu
+robotics engineer,robotiikkainsinööri
+robotics engineering technician,robotiikan asiantuntija
+rolling stock assembler,kiskokaluston kokoonpanija
+rolling stock assembly inspector,kokoonpanotarkastaja, kiskokalusto
+rolling stock assembly supervisor,työnjohtaja, kiskokaluston kokoonpano
+rolling stock electrician,sähköasentaja, kiskokalusto
+rolling stock engine inspector,moottoritarkastaja, veturit
+rolling stock engine tester,moottoritestaaja, veturit
+rolling stock engineer,insinööri, kiskokalusto
+rolling stock engineering drafter,suunnitteluavustaja, kiskokalusto
+rolling stock engineering technician,asiantuntija, kiskokalusto
+rolling stock inspector,tarkastaja, kiskokalusto
+roofer,kattoasentaja
+roofing supervisor,työnjohtaja, kattotyöt
+room attendant,huonepalvelija
+rooms division manager,huoneosaston johtaja
+rotating equipment engineer,insinööri, pyörivät koneet ja laitteet
+rotating equipment mechanic,huoltomekaanikko, pyörivät koneet ja laitteet
+roughneck,öljynporaaja
+roustabout,huoltotyöntekijä, öljynporaus
+router operator,konejyrsijä
+rubber cutting machine tender,kuminleikkauskoneen hoitaja
+rubber dipping machine operator,kastokoneenhoitaja, kumiteollisuus
+rubber goods assembler,kumituotteiden kokoonpanija
+rubber products machine operator,koneenkäyttäjä, kumituotevalmistus
+rustproofer,ruosteenestokäsittelijä
+répétiteur,harjoittaja
+sailor,merimies
+sales account manager,myynti- ja asiakkuusjohtaja
+sales assistant,myyjä
+sales engineer,myynti-insinööri
+sales manager,myyntijohtaja
+sales processor,myyntikäsittelijä
+sales support assistant,toimistoapulainen, markkinointi
+satellite engineer,insinööri, satelliittijärjestelmät
+sauce production operator,prosessityöntekijä, kastikkeet
+sawmill operator,sahatyöntekijä
+scanning operator,skannerinkäyttäjä
+scenery technician,lavaste-näyttämömies
+scenic painter,lavastemaalari
+school bus attendant,koulubussin valvoja
+science teacher secondary school,luonnontieteiden opettaja, yläluokat ja lukio
+scientific laboratory technician,laborantti
+scopist,sihteeri, puhtaaksikirjoitus
+scrap metal operative,romumetallityöntekijä
+scraper operator,kaavinvaununkuljettaja
+screen making technician,seripainopinnan valmistaja
+screen printer,seripainaja
+screw machine operator,työstökoneenkäyttäjä, ruuvinvalmistus
+script supervisor,kuvaussihteeri
+script writer,käsikirjoittaja
+sculptor,kuvanveistäjä
+search engine optimisation expert,hakukone-optimoinnin asiantuntija
+second officer,toinen lentoperämies
+second-hand goods specialised seller,myyjä, käytetyt tavarat
+second-hand shop manager,johtaja, käytettyjen tavaroiden erikoisliike
+secondary school department head,osastonjohtaja, ylemmän perusasteen ja keskiasteen oppilaitos
+secondary school head teacher,yläkoulun rehtori
+secondary school teacher,opettaja, yläluokat ja lukio
+secondary school teaching assistant,koulunkäynninohjaaja, peruskoulun yläluokat
+secretary,sihteeri
+secretary general,pääsihteeri
+secretary of state,valtiosihteeri
+sectional belt mould assembler,muottiasentaja, kiilahihna
+securities analyst,arvopaperianalyytikko
+securities broker,arvopaperinvälittäjä
+securities trader,kauppias, arvopaperit
+securities underwriter,underwriter, arvopaperit
+security alarm investigator,hälytysvartija
+security alarm technician,hälytysjärjestelmäasentaja
+security consultant,turvallisuuskonsultti
+security guard,vartija
+security guard supervisor,vartijoiden esimies
+security manager,turvallisuuspäällikkö
+seismologist,seismologi
+semiconductor processor,prosessoija, puolijohdevalmistus
+senator,senaattori
+sensor engineer,insinööri, sensoritekniikka
+sensor engineering technician,asiantuntija, sensoritekniikka
+sensory scientist,erityisasiantuntija, aistinvarainen arviointi
+septic tank servicer,huoltomies, jätevesisäiliöt
+sergeant,kersantti
+service manager,palvelujohtaja
+set builder,lavasterakentaja
+set buyer,ostaja, lavasteet ja rekvisiitta
+set designer,lavastaja
+sewer construction supervisor,työnjohtaja, viemäriverkoston rakennus
+sewer construction worker,putkenlaskija
+sewerage cleaner,puhtaanapidon työntekijä, viemäriverkko
+sewerage maintenance technician,asiantuntija, viemäriverkoston kunnossapito
+sewerage network operative,putkiasentaja, viemäriverkko
+sewerage systems manager,vesihuoltopäällikkö, viemäröinti ja jätevesien käsittely
+sewing machine operator,teollisuusompelija
+sewing machinist,koneompelija
+sexual violence counsellor,neuvoja, seksuaalinen väkivalta
+sheep breeder,lampaankasvattaja
+sheet metal worker,levyseppä
+shelf filler,hyllyjen täyttäjä
+shepherd,paimen
+shiatsu practitioner,shiatsuterapeutti
+ship assistant engineer,alikonemestari, laiva
+ship captain,aluksen päällikkö
+ship duty engineer,vahtikonemestari, laiva
+ship pilot dispatcher,luotsinvälittäjä
+ship planner,toimistotyöntekijä, lastaussuunnittelu
+ship steward/ship stewardess,stuertti/laivaemäntä
+shipbroker,laivameklari
+shipping agent,laivanselvittäjä
+shipwright,laivanrakentaja
+shoe and leather accessories shop manager,johtaja,  kenkien ja nahkatavaroiden erikoisliike
+shoe and leather accessories specialised seller,myyjä, kengät ja nahkatavarat
+shoe repairer,jalkinekorjaaja
+shoemaker,suutari
+shop assistant,myymäläapulainen
+shop manager,johtaja, erikoisliike
+shop supervisor,myymäläesimies
+shotfirer,panostaja
+shunter,ratapihatyöntekijä
+sign language interpreter,viittomakielen tulkki
+sign language teacher,viittomakielen opettaja
+sign maker,kilvenvalmistaja
+silversmith,hopeaseppä
+singer,laulaja
+ski instructor,hiihdonopettaja
+skipper,laivuri
+slate mixer,kivisirotteen sekoittaja
+slaughterer,teurastaja
+slitter operator,pituusleikkurinhoitaja
+snow-clearing worker,koneenkuljettaja, lumen auraus ja poisto
+snowboard instructor,lumilautailun ohjaaja
+soap chipper,koneenkäyttäjä, saippualastujen valmistus
+soap drier operator,koneenkäyttäjä, saippuan kuivaus
+soap maker,saippuanvalmistaja
+soap tower operator,koneenkäyttäjä, saippuajauheen valmistus
+social care worker,sosiaaliohjaaja
+social counsellor,sosiaalineuvoja
+social pedagogue,sosiaalipedagogi
+social security administrator,hallintovirkamies, sosiaalihuolto
+social security inspector,tarkastaja, työlainsäädännön noudattamisen valvonta
+social security officer,asiakasneuvoja, sosiaaliturva
+social service consultant,konsultti, sosiaalipalvelut
+social services manager,sosiaalijohtaja
+social services policy officer,vastuuvirkamies, sosiaalipalvelut
+social work assistant,sosiaaliavustaja
+social work lecturer,sosiaalityön lehtori
+social work practice educator,sosiaalityön käytännön opettaja
+social work researcher,sosiaalityön tutkija
+social work supervisor,johtava sosiaalityöntekijä
+social worker,sosiaalityöntekijä
+sociologist,sosiologi
+sociology lecturer,sosiologian lehtori
+software analyst,atk-suunnittelija
+software architect,ohjelmistoarkkitehti
+software developer,ohjelmistokehittäjä
+software manager,ohjelmistopäällikkö
+software tester,ohjelmistotestaaja
+soil scientist,maaperätutkija
+soil surveying technician,tutkimusavustaja, maaperäkartoitus
+solar energy engineer,insinööri, aurinkoenergia
+solar energy sales consultant,myyntiedustaja, aurinkoenergia
+solar energy technician,sähköasentaja, aurinkoenergia
+solar power plant operator,prosessinhoitaja, aurinkovoimala
+solderer,hitsaaja, kaarihitsaus
+sole and heel operator,pohjaaja
+solid waste operator,prosessinhoitaja, kiinteän jätteen käsittely
+sommelier,sommelier
+sophrologist,sofrologi
+sorter labourer,jätteiden lajittelija
+sound artist,äänitaiteilija
+sound designer,äänisuunnittelija
+sound editor,äänieditoija
+sound operator,äänittäjä
+spa attendant,kylpylätyöntekijä
+spa manager,kylpylän johtaja
+space science lecturer,avaruustieteen lehtori
+spark erosion machine operator,työstökoneenkäyttäjä, kipinätyöstö
+special educational needs assistant,koulunkäynninohjaaja, erityisopetus
+special educational needs coordinator,erityisopetuskoordinaattori
+special educational needs head teacher,erityiskoulun rehtori
+special educational needs itinerant teacher,erityisopettaja, kotiopetus
+special educational needs teacher,erityisopettaja
+special educational needs teacher primary school,erityisopettaja, peruskoulun alaluokat
+special educational needs teacher secondary school,erityisopettaja, peruskoulun yläluokat ja lukio
+special effects artist,erikoistehosteiden luoja
+special forces officer,erikoisjoukkojen aliupseeri
+special-interest groups' official,edunvalvontaryhmän johtava toimihenkilö
+specialised antique dealer,myyjä, antiikkiesineet
+specialised doctor,erikoislääkäri
+specialised goods distribution manager,jakelujohtaja, erityistuotteet
+specialised outdoor animator,erikoisohjaaja, liikunta ja ulkoilu
+specialised seller,erikoismyyjä
+specialised veterinarian,erikoistunut eläinlääkäri
+specialist biomedical scientist,vastaava biolääketieteen erikoistutkija
+specialist chiropractor,erikoiskiropraktikko
+specialist dentist,erikoishammaslääkäri
+specialist nurse,erikoissairaanhoitaja
+specialist pharmacist,erikoisproviisori
+speech and language therapist,puheterapeutti
+speechwriter,puheenkirjoittaja
+spinning machine operator,kehruukoneenhoitaja
+spinning textile technician,prosessinhoitaja, tekstiilien kehruu
+spokesperson,mediaedustaja
+sport administrator,liikuntajohtaja
+sport facility manager,urheilukeskuksen johtaja
+sport official,urheilutoimitsija
+sport therapist,liikuntaterapeutti
+sporting accessories specialised seller,myyjä, urheiluvarusteet
+sporting and outdoor accessories shop manager,johtaja, urheilu- ja ulkoiluvarusteiden erikoisliike
+sports coach,urheiluvalmentaja
+sports equipment repair technician,urheiluvälinekorjaaja
+sports instructor,lajivalmentaja
+sports journalist,urheilutoimittaja
+sports programme coordinator,koordinaattori, urheilu- ja vapaa-ajantoiminta
+spot welder,hitsaaja, pistehitsaus
+spring maker,jousenvalmistaja
+sprinkler fitter,LVI-asentaja, sprinklerijärjestelmät
+squadron leader,laivueen komentaja, ilmavoimat
+stage director,lavaohjaaja
+stage machinist,näyttämömies
+stage manager,järjestäjä
+stage technician,asiantuntija, näyttämötekniikka
+stagehand,tekninen lava-avustaja
+staircase installer,porrasasentaja
+stamping press operator,työstökoneenkäyttäjä, leimauspuristin
+stand-in,näyttelijän sijainen, stand-in
+stand-up comedian,stand up -koomikko
+starch converting operator,tärkkelyksen muuntamistyöntekijä
+starch extraction operator,tärkkelyksen uuttaja
+statistical assistant,tilastonlaatija
+statistician,tilastotieteilijä
+steam engineer,höyrykoneen hoitaja
+steam plant operator,höyrykattilalaitoksen käyttäjä
+steam turbine operator,prosessinhoitaja, höyryturbiini
+steeplejack,köysiteknikko
+sterile services technician,välinehuoltaja
+stevedore,ahtaaja
+stevedore superintendent,johtaja, ahtaus ja lastinkäsittely
+steward/stewardess,stuertti/emäntä
+stock broker,pörssivälittäjä
+stock trader,kauppias, osakemarkkinat
+stone driller,kiviporaaja
+stone engraver,kivenkaivertaja
+stone planer,plaanaaja
+stone polisher,kivenkiillottaja
+stone splitter,kivenleikkaaja
+stonemason,kivenhakkaaja
+stop-motion animator,stop motion -animaattori
+store detective,myymäläetsivä
+storyboard artist,elokuvanpiirtäjä
+straightening machine operator,työstökoneenkäyttäjä, viistorullaoikaisin
+strategic planning manager,johtaja, strateginen suunnittelu
+street artist,katutaiteilija
+street food vendor,katumyyjä, elintarvikkeet
+street lighting electrician,sähköasentaja, katuvalaistus
+street performer,performanssitaiteilija, katutaide
+street sweeper,kadunlakaisija
+street warden,korttelivahti
+stringed musical instrument maker,soitinrakentaja, kielisoittimet
+structural ironwork supervisor,työnjohtaja, rautarakentaminen
+structural ironworker,rautarakennetyöntekijä
+student financial support coordinator,koordinaattori, opintotukiasiat
+stunt performer,sijaisnäyttelijä, stunt
+substance misuse worker,päihdetyöntekijä
+substation engineer,insinööri, sähköasemat
+subtitler,tv-, elokuva- ja videokääntäjä
+sugar refinery operator,sokerin raffinoimislaitoksen hoitaja
+sugar, chocolate and sugar confectionery distribution manager,jakelujohtaja, sokeri, suklaa ja sokerivalmisteet
+supermarket manager,supermarketin johtaja
+supply chain assistant,myyntiassistentti
+supply chain manager,toimitusketjujohtaja
+supreme court judge,oikeusneuvos
+surface engineer,pintakäsittelytekniikan insinööri
+surface grinding machine operator,tasohioja
+surface mine plant operator,maansiirtokoneenkuljettaja, avolouhos
+surface miner,louhostyöntekijä
+surface treatment operator,pintakäsittelijä
+surface-mount technology machine operator,SMD-koneen käyttäjä
+surgical instrument maker,hienomekaanikko, kirurgiset välineet
+survey enumerator,tilastohaastattelija
+surveying technician,asiantuntija, kartoitus ja maanmittaus
+survival instructor,henkiinjäämiskouluttaja
+swaging machine operator,työstökoneenkäyttäjä, upukkataonta
+swimming facility attendant,uimapaikan hoitaja
+swimming teacher,uimaopettaja
+synthetic materials engineer,insinööri, synteettiset materiaalit
+system configurator,järjestelmän konfiguroija
+table saw operator,sirkkelisahaaja
+tailor,räätäli
+talent agent,agentti, esiintyjät
+tanner,nahanvalmistaja
+tanning consultant,rusketuspalvelun työntekijä
+tax advisor,verokonsultti
+tax clerk,toimistotyöntekijä, veroasiat
+tax compliance officer,verovalmistelija
+tax inspector,verotarkastaja
+tax policy analyst,veropoliittinen erityisasiantuntija
+taxi controller,taksikeskuksen tilausvälittäjä
+taxi driver,taksinkuljettaja
+taxidermist,eläintentäyttäjä
+teacher of talented and gifted students,lahjakkaiden oppilaiden opettaja
+technical communicator,tekninen kirjoittaja
+technical director,tekninen johtaja
+technical sales representative,tekninen myyjä
+technical sales representative in agricultural machinery and equipment,tekninen myyjä, maatalouskoneet ja -laitteet
+technical sales representative in chemical products,tekninen myyjä, kemialliset tuotteet
+technical sales representative in electronic and telecommunications equipment,tekninen myyjä, elektroniset ja tietoliikennelaitteet
+technical sales representative in hardware, plumbing and heating equipment,tekninen myyjä, rautakauppatavarat ja LV-laitteet
+technical sales representative in machinery and industrial equipment,tekninen myyjä, koneet ja teollisuuden laitteet
+technical sales representative in mining and construction machinery,tekninen myyjä, kaivostyö- ja rakennuskoneet
+technical sales representative in office machinery and equipment,tekninen myyjä, toimistokoneet ja -laitteet
+technical sales representative in the textile machinery industry,tekninen myyjä, tekstiilikoneteollisuus
+telecommunication equipment shop manager,johtaja,  tietoliikennelaitteiden erikoisliike
+telecommunications analyst,tietoliikenneanalyytikko
+telecommunications engineer,tietoliikenneinsinööri
+telecommunications engineering technician,tietoliikennejärjestelmän teknikko
+telecommunications equipment maintainer,tietoliikennelaitteiden ylläpitäjä
+telecommunications equipment specialised seller,myyjä, tietoliikennelaitteet
+telecommunications manager,tietoliikennepäällikkö
+telecommunications technician,tietoliikenneteknikko
+telephone switchboard operator,puhelinvaihteenhoitaja
+tennis coach,tennisvalmentaja
+tent installer,teltta-asentaja
+terrazzo setter,betonirakentaja, mosaiikkibetoni
+terrazzo setter supervisor,työnjohtaja, mosaiikkibetonityöt
+test engineer,testausinsinööri
+textile chemical quality technician,laadunvalvoja, tekstiilikemia
+textile chemist,tekstiilikemisti
+textile colourist,värjäysteknikko
+textile designer,tekstiilitaiteilija
+textile dyeing technician,värjäämötyöntekijä
+textile dyer,värjääjä, tekstiiliteollisuus
+textile finishing machine operator,viimeistelykoneenhoitaja, tekstiiliteollisuus
+textile industry machinery distribution manager,jakelujohtaja, tekstiiliteollisuudessa käytettävät koneet
+textile machine operator,koneenhoitaja, tekstiilikone
+textile machinery technician,tekstiililaitosmies
+textile operations manager,työnjohtaja, tekstiiliteollisuus
+textile pattern making machine operator,kaavoituskoneenkäyttäjä, tekstiiliteollisuus
+textile printer,tekstiilipainaja
+textile process controller,tekstiilituotannon valvoja
+textile product developer,tuotekehittäjä, tekstiilituotteet
+textile quality inspector,tuotetarkastaja, tekstiilituotteet
+textile quality manager,laatupäällikkö, tekstiiliteollisuus
+textile quality technician,laadunvalvoja, tekstiilit
+textile shop manager,johtaja, tekstiilituotteiden erikoisliike
+textile sourcing merchandiser,alihankintaostaja, tekstiiliteollisuus
+textile specialised seller,myyjä, tekstiilit
+textile technologist,tekstiiliteknikko
+textile, leather and footwear researcher,tutkija, vaatetus-, nahka- ja jalkineteollisuus
+textiles, textile semi-finished and raw materials distribution manager,jakelujohtaja, tekstiilit, puolivalmiit tekstiilituotteet ja tekstiiliraaka-aineet
+thanatology researcher,kuolemantutkija
+theatre technician,asiantuntija, teatteritekniikka
+therapeutic radiographer,röntgenhoitaja, sädehoito
+thermal engineer,lämpöinsinööri
+thread rolling machine operator,työstökoneenkäyttäjä, kierteenvalssaus
+ticket issuing clerk,lipunmyyjä
+ticket sales agent,lipunmyyntivirkailija
+tile fitter,laatoittaja
+tiling supervisor,työnjohtaja, laatoitus
+timber trader,ostoasiamies, puukauppa
+tissue paper perforating and rewinding operator,prosessinhoitaja, pehmopaperin perforointi ja uudelleenrullaus
+title closer,kiinteistönotaari
+tobacco products distribution manager,jakelujohtaja, tupakkatuotteet
+tobacco shop manager,johtaja, tupakkatuotteiden erikoisliike
+tobacco specialised seller,myyjä, tupakkatuotteet
+toilet attendant,wc-tilojen siistijä
+tool and die maker,työkaluntekijä
+tool grinder,työkaluhioja
+tool pusher,vuorovastaava, öljynporaus
+tooling engineer,insinööri, työvälinetekniikka
+tote operator,totomyyjä
+tour operator representative,matkanjärjestäjien edustaja
+tour operators manager,kiertomatkanjärjestäjä
+tour organiser,matkanjärjestäjä
+tourism contract negotiator,matkailusopimusten neuvottelija
+tourism policy director,johtaja, matkailupolitiikka
+tourism product manager,matkailutuotepäällikkö
+tourist animator,lomaviihdevastaava
+tourist information centre manager,matkailuneuvontakeskuksen hoitaja
+tourist information officer,matkailuneuvontavirkailija
+tower crane operator,torninosturinkuljettaja
+toxicologist,toksikologi
+toymaker,leluntekijä
+toys  and games specialised seller,myyjä, lelut ja pelit
+toys and games shop manager,johtaja, lelujen ja pelien erikoisliike
+tracer powder blender,sekoittaja, ruutituotanto
+trade development officer,erityisasiantuntija, kaupan kehittäminen
+trade regional manager,aluejohtaja, kauppa
+traditional chinese medicine therapist,perinteisen kiinalaisen lääketieteen asiantuntija
+train attendant,junaisäntä/junaemäntä
+train cleaner,junasiivooja
+train conductor,konduktööri
+train dispatcher,junanlähettäjä
+train driver,veturinkuljettaja
+train preparer,junanvalmistelija
+tram controller,raitioliikenteen työnjohtaja
+tram driver,raitiovaununkuljettaja
+translation agency manager,käännöstoimiston johtaja
+translator,kääntäjä
+transport engineer,kuljetusinsinööri
+transport equipment painter,maalari, liikennevälineet
+transport health and safety inspector,työsuojelutarkastaja, kuljetus- ja liikenneala
+transport planner,kuljetussuunnittelija
+transport technology vocational teacher,ammatillinen opettaja, kuljetustekniikka
+travel agency manager,matkatoimistopäällikkö
+travel agent,matkatoimistovirkailija
+travel and tourism vocational teacher,ammatillinen opettaja, matkailuala
+travel consultant,matkakonsultti
+tree surgeon,arboristi
+trolley bus driver,johdinautonkuljettaja
+truck driving instructor,kuorma-autonkuljettajien kouluttaja
+tufting operator,koneenhoitaja, tuftaus
+tumbling machine operator,koneenhoitaja, kiillotusrumpu
+tunnel boring machine operator,tunnelijyrsimen käyttäjä
+tunnel kiln operator,tunneliuuninhoitaja
+tutor,tuutori
+twisting machine operator,kiertämiskoneenhoitaja
+typesetter,latoja
+typist,tekstinkäsittelijä
+tyre builder,renkaantekijä
+tyre fitter,rengasasentaja
+tyre vulcaniser,renkaankorjaaja
+underground heavy equipment operator,kaivostyöntekijä, raskaan kaluston käyttö
+underground miner,kaivostyöntekijä
+underwater construction supervisor,työnjohtaja, vedenalainen rakentaminen
+university department head,laitoksen johtaja, yliopisto
+university literature lecturer,kirjallisuuden yliopistolehtori
+university research assistant,yliopiston tutkimusassistentti
+university teaching assistant,yliopiston opetusassistentti
+upholsterer,verhoilija
+upsetting machine operator,työstökoneenkäyttäjä, kylmätyssäyskone
+urban planner,yhdyskuntasuunnittelija
+user experience analyst,käytettävyysasiantuntija
+user interface designer,käyttöliittymäsuunnittelija
+user interface developer,käyttöliittymäkehittäjä
+usher,paikannäyttäjä
+utilities inspector,tarkastaja, sähkö-, kaasu-, vesi- ja viemäröintipalvelut
+vacuum forming machine operator,tyhjiömuovauskoneen hoitaja
+variety artist,varieteetaiteilija
+varnish maker,lakantekijä
+vehicle cleaner,ajoneuvojen puhdistaja
+vehicle electronics installer,autoelektroniikka-asentaja
+vehicle glazier,tuulilasinasentaja
+vehicle maintenance attendant,ajoneuvoasentaja, määräaikaishuollot
+vehicle maintenance supervisor,korjaamoesimies
+vehicle rental agent,automyyjä, ajoneuvojen vuokraus
+vehicle technician,ajoneuvoasentaja
+vending machine operator,myyntiautomaattien hoitaja
+veneer grader,luokittelija, vanerit
+veneer slicer operator,vaneriviilunleikkaaja
+venture capitalist,pääomasijoittaja
+venue director,juhlatilojen johtaja
+venue programmer,ohjelmasuunnittelija, taideala
+verger,suntio
+vermouth manufacturer,vermutin valmistaja
+vessel assembly inspector,kokoonpanotarkastaja, alukset
+vessel assembly supervisor,työnjohtaja, laivanrakennus
+vessel engine assembler,alusten moottorin kokoonpanija
+vessel engine inspector,moottoritarkastaja, laivat
+vessel engine tester,moottoritestaaja, laivat
+vessel operations coordinator,liikennekoordinaattori, merirahti
+vessel steering instructor,veneilykouluttaja
+veterinary medicine lecturer,eläinlääketieteen lehtori
+veterinary nurse,eläinsairaanhoitaja
+veterinary receptionist,eläinlääkärin vastaanottovirkailija
+veterinary technician,klinikkaeläintenhoitaja
+victim support officer,tukihenkilö, uhrit ja todistajat
+video and motion picture director,ohjaaja, videot ja elokuvat
+video and motion picture editor,leikkaaja, videot ja elokuvat
+video and motion picture producer,tuottaja, videot ja elokuvat
+video artist,videotaiteilija
+video designer,videosuunnittelija
+video operator,videokuvaaja
+video technician,videoasiantuntija
+vineyard cellar master,viinitarhan kellarimestari
+vineyard machinery operator,viinitarhan koneenkäyttäjä
+vineyard manager,viinitilan hoitaja
+vineyard supervisor,viinitilan työnjohtaja
+vineyard worker,viinitilan työntekijä
+violin maker,viulunrakentaja
+visual arts teacher,visuaalisen taiteen opettaja
+visual merchandiser,visualisti
+viticulture adviser,viininviljelyneuvoja
+vlogger,vloggaaja
+vocational teacher,ammatillinen opettaja
+voice-over artist,ääninäyttelijä
+waiter/waitress,tarjoilija
+waiting list coordinator,jonokoordinaattori
+warehouse manager,varaston johtaja
+warehouse operators for clothing,varastonhoitaja, vaateteollisuus
+warehouse order picker,tilausten keräilijä, varasto
+warehouse worker,varastotyöntekijä
+warfare specialist,sodankäynnin asiantuntija
+wash deinking operator,prosessityöntekijä, pesusiistaus
+waste and scrap distribution manager,jakelujohtaja, jätteet ja jäännökset
+waste broker,jätteen välittäjä
+waste management officer,jätehuoltojohtaja
+waste management supervisor,työnjohtaja, jätehuolto
+waste treatment engineer,jätehuoltoinsinööri
+wastewater engineer,vesihuoltoinsinööri, jätevedenkäsittely
+wastewater treatment operator,prosessinhoitaja, jätevedenpuhdistamo
+wastewater treatment technician,avustava prosessinhoitaja, jätevedenpuhdistamo
+watch and clock repairer,kelloseppä, kellojen korjaus
+watches and jewellery distribution manager,jakelujohtaja, kellot ja korut
+water conservation technician,putkiasentaja, sade- ja harmaavesijärjestelmät
+water conservation technician supervisor,työnjohtaja, sade- ja harmaavesijärjestelmien putkiasennukset
+water engineer,vesi-insinööri
+water engineering technician,asiantuntija, vesihuolto ja vesirakentaminen
+water jet cutter operator,työstökoneenkäyttäjä, vesisuihkuleikkaus
+water network operative,putkiasentaja, vesijohto- ja viemäriverkot
+water plant technician,vesihuoltoasiantuntija
+water quality analyst,analysoija, veden laatu
+water traffic coordinator,liikennekoordinaattori, vesikuljetukset
+water treatment plant manager,jätevedenkäsittelylaitoksen johtaja
+water treatment systems operator,prosessinhoitaja, vedenkäsittelyjärjestelmät
+water-based aquaculture technician,vesiviljelyasiantuntija,  meri- ja sisävesiviljely
+water-based aquaculture worker,vesiviljelyn avustava työntekijä, meri- ja sisävesiviljely
+waterway construction labourer,vesirakentamisen avustava työntekijä
+wave soldering machine operator,aaltojuotoskoneen käyttäjä
+wax bleacher,kynttilämassan valkaisija
+wearing apparel patternmaker,mallimestari
+wearing apparel presser,prässääjä
+weather forecaster,sääennusteen laatija
+weaver,kutoja
+weaving machine operator,kutomakoneenhoitaja
+weaving machine supervisor,tuotannonvalvoja, kutomakoneet
+weaving textile technician,prosessinhoitaja, tekstiilien kudonta
+web content manager,verkkosisältövastaava
+web developer,verkkokehittäjä
+webmaster,webmaster
+wedding planner,hääsuunnittelija
+weight loss consultant,painonhallintakonsultti
+weights and measures inspector,painojen ja mittojen tarkastaja
+welder,hitsaaja
+welding coordinator,hitsauskoordinaattori
+welding engineer,insinööri, hitsaustekniikka
+welding inspector,hitsaustarkastaja
+well-digger,kaivonporaaja
+wholesale merchant,välittäjä, tukkukauppa
+wholesale merchant in agricultural machinery and equipment,välittäjä, maatalouskoneiden ja -laitteiden tukkukauppa
+wholesale merchant in agricultural raw materials, seeds and animal feeds,välittäjä, maatalousperäisten raaka-aineiden, siementen ja rehujen tukkukauppa
+wholesale merchant in beverages,välittäjä, virvoitus- ja alkoholijuomien tukkukauppa
+wholesale merchant in chemical products,välittäjä, kemiallisten tuotteiden tukkukauppa
+wholesale merchant in china and other glassware,välittäjä, posliinin ja lasitavaran tukkukauppa
+wholesale merchant in clothing and footwear,välittäjä, vaatetuksen ja jalkineiden tukkukauppa
+wholesale merchant in coffee, tea, cocoa and spices,välittäjä, kahvin, teen, kaakaon ja mausteiden tukkukauppa
+wholesale merchant in computers, computer peripheral equipment and software,välittäjä, tietokoneiden, oheislaitteiden ja ohjelmistojen tukkukauppa
+wholesale merchant in dairy products and edible oils,välittäjä, maitotuotteiden ja ruokaöljyjen tukkukauppa
+wholesale merchant in electrical household appliances,välittäjä, sähköisten kodinkoneiden tukkukauppa
+wholesale merchant in electronic and telecommunications equipment and parts,välittäjä, elektroniikka- ja viestintälaitteiden ja osien tukkukauppa
+wholesale merchant in fish, crustaceans and molluscs,välittäjä, kalojen, äyriäisten ja nilviäisten tukkukauppa
+wholesale merchant in flowers and plants,välittäjä, kukkien ja muiden kasvien tukkukauppa
+wholesale merchant in fruit and vegetables,välittäjä, hedelmien ja vihannesten tukkukauppa
+wholesale merchant in furniture, carpets and lighting equipment,välittäjä, huonekalujen, mattojen ja valaisimien tukkukauppa
+wholesale merchant in hardware, plumbing and heating equipment and supplies,välittäjä, rautakauppatavaroiden sekä LVI-laitteiden ja -tarvikkeiden tukkukauppa
+wholesale merchant in hides, skins and leather products,välittäjä, vuota- ja nahkatuotteiden tukkukauppa
+wholesale merchant in household goods,välittäjä, kotitaloustavaroiden tukkukauppa
+wholesale merchant in live animals,välittäjä, elävien eläinten tukkukauppa
+wholesale merchant in machine tools,välittäjä, työstökoneiden tukkukauppa
+wholesale merchant in machinery, industrial equipment, ships and aircraft,välittäjä, koneiden, teollisuuslaitteiden,  alusten ja ilma-alusten tukkukauppa
+wholesale merchant in meat and meat products,välittäjä, lihan ja lihavalmisteiden tukkukauppa
+wholesale merchant in metals and metal ores,välittäjä, metallien ja metallimalmien tukkukauppa
+wholesale merchant in mining, construction and civil engineering machinery,välittäjä, kaivos-, talonrakennus- sekä tie- ja vesirakennuskoneiden tukkukauppa
+wholesale merchant in office furniture,välittäjä, toimistokalusteiden tukkukauppa
+wholesale merchant in office machinery and equipment,välittäjä, toimistokoneiden ja laitteiden tukkukauppa
+wholesale merchant in perfume and cosmetics,välittäjä, hajuvesien ja kosmetiikan tukkukauppa
+wholesale merchant in pharmaceutical goods,välittäjä, farmaseuttisten valmisteiden tukkukauppa
+wholesale merchant in sugar, chocolate and sugar confectionery,välittäjä, sokerin, suklaan ja sokerimakeisten tukkukauppa
+wholesale merchant in textile industry machinery,välittäjä, tekstiiliteollisuuden koneiden tukkukauppa
+wholesale merchant in textiles and textile semi-finished and raw materials,välittäjä, tekstiilien, puolivalmiiden tekstiilituotteiden ja raaka-aineiden tukkukauppa
+wholesale merchant in tobacco products,välittäjä, tupakkatuotteiden tukkukauppa
+wholesale merchant in waste and scrap,välittäjä, jätteiden ja romun tukkukauppa
+wholesale merchant in watches and jewellery,välittäjä, kellojen ja korujen tukkukauppa
+wholesale merchant in wood and construction materials,välittäjä, puun ja rakennusmateriaalien tukkukauppa
+wicker furniture maker,kalusteentekijä, kori- ja rottinkimateriaalit
+wig and hairpiece maker,peruukintekijä
+wind energy engineer,insinööri, tuulivoima
+wind musical instrument maker,soitinrakentaja, puhallinsoittimet
+wind turbine technician,tuulivoima-asentaja
+winding machine operator,puolauskoneenhoitaja
+window cleaner,ikkunanpesijä
+window installer,ikkuna-asentaja
+wine fermenter,viinin käymisestä vastaava
+wine sommelier,viinisommelier
+wire harness assembler,johdinsarjojen kokoonpanija
+wire weaving machine operator,viirankutomakoneen hoitaja
+wood and construction materials distribution manager,jakelujohtaja,  puu ja rakennusmateriaalit
+wood assembly supervisor,työnjohtaja, puutuotteiden kokoonpano
+wood boring machine operator,puuntyöstökoneenkäyttäjä, porakoneet
+wood caulker,kansilaudoituksen saumaaja, veneenrakennus
+wood drying kiln operator,kuivaamotyöntekijä, puutavara
+wood factory manager,tehdaspäällikkö, puutuoteteollisuus
+wood fuel pelletiser,prosessityöntekijä, puupellettivalmistus
+wood painter,koristemaalari, puupinnat ja -esineet
+wood pallet maker,kuormalavantekijä
+wood production supervisor,työnjohtaja, sahatavaran valmistus
+wood products assembler,puutuotteiden kokoonpanija
+wood router operator,koneenhoitaja, jyrsin
+wood sander,puuntyöstökoneenkäyttäjä, hiomakoneet
+wood technology engineer,materiaali-insinööri, puutekniikka
+wood treater,kyllästämötyöntekijä, puutavara
+woodcarver,hienopuuseppä
+wooden furniture machine operator,puuntyöstökoneenkäyttäjä, puuhuonekalujen valmistus
+woodturner,sorvaaja, puutuotteet
+writer,kirjailija
+yarn spinner,kehräämötyöntekijä
+yeast distiller,hiivatislaaja
+youth centre manager,nuorisokeskuksen johtaja
+youth offending team worker,nuorisohuoltaja
+youth programme director,johtaja, nuoriso-ohjelma
+youth worker,nuorisotyöntekijä
+zoo curator,eläintarhan kuraattori
+zoo educator,opas, eläintarha
+zoo registrar,arkistonhoitaja, eläintieteelliset kokoelmat
+zoo section leader,eläintarhaeläintenhoitajien esimies
+zookeeper,eläintarhaeläintenhoitaja
+zoology technician,laborantti, eläintiede
